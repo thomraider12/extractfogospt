@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+fastkml
+matplotlib
+cartopy
+lxml
