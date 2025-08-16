@@ -4,3 +4,4 @@ fastkml
 matplotlib
 cartopy
 lxml
+geopandas
