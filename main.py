@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 """
-gera_incendios_mapa_zoom_fix.py
+gera incendios mapa zoom fixed
 
-Versão do script com correção: só anota cidades que caem dentro do bbox do mapa.
+Versão ajustada:
+ - Selecciona TODOS os incêndios com > 100 operacionais
+ - Só gera imagem se existir KML válido (string ou URL) e for possível extrair polígono
+ - Mantém o basemap + fallback e o zoom automático
 """
 
 from typing import List, Tuple
@@ -17,13 +20,13 @@ import matplotlib.pyplot as plt
 
 # --- Configurações ----------------------------------------------------------------
 API_URL = "https://api-dev.fogos.pt/new/fires"
-TOP_N = 3
 OUTPUT_DIR = "inc_images"
 SHOW_PLOTS = False         # True para mostrar janelas matplotlib
 EXPORT_DPI = 108
-FIGSIZE = (10, 10)  # 10 × 200 = 2000 px
-MAX_CITY_DISTANCE_KM = 80  # distância máxima para considerar cidades (ainda válida)
+FIGSIZE = (10, 10)  # 10 × 108 = 1080 px por lado
+MAX_CITY_DISTANCE_KM = 80  # distância máxima para considerar cidades
 # -----------------------------------------------------------------------------
+
 
 # Pequena base de cidades portuguesas (nome, lat, lon) -- podes estender à vontade
 CITIES = [
@@ -136,10 +139,6 @@ def haversine_km(lat1, lon1, lat2, lon2):
     return R * c
 
 def nearby_cities(lat, lon, max_km=MAX_CITY_DISTANCE_KM):
-    """
-    Mantido por compatibilidade, mas o filtro principal é feito por bbox
-    (para não anotar cidades fora do mapa).
-    """
     res = []
     for name, c_lat, c_lon in CITIES:
         d = haversine_km(lat, lon, c_lat, c_lon)
@@ -188,7 +187,7 @@ def plot_with_basemap(polygon_coords, start_lat, start_lng, info_text, fname, dp
     gdf_3857.plot(ax=ax, alpha=0.45, edgecolor="darkred", linewidth=1.6)
     gpt.plot(ax=ax, color="yellow", marker="*", markersize=200, label="Início")
 
-    # --- aqui: construir GeoDataFrame de todas as cidades e filtrar por bbox (em 3857)
+    # --- construir GeoDataFrame de todas as cidades e filtrar por bbox (em 3857)
     city_geoms = []
     for name, c_lat, c_lon in CITIES:
         city_geoms.append({"name": name, "geometry": Point(c_lon, c_lat)})
@@ -294,9 +293,23 @@ def main():
         print("Sem dados na API.")
         return
 
-    top = sorted(data, key=lambda x: int(x.get("man", 0)), reverse=True)[:TOP_N]
+    # Filtrar todos os incêndios com mais de 100 operacionais
+    candidatos = []
+    for inc in data:
+        try:
+            man = int(inc.get("man", 0))
+        except Exception:
+            man = 0
+        if man > 100:
+            candidatos.append(inc)
 
-    for inc in top:
+    total_candidatos = len(candidatos)
+    print(f"Total de incêndios com >100 operacionais: {total_candidatos}")
+
+    imagens_criadas = []
+    ignorados = []  # tuples (id, motivo)
+
+    for inc in candidatos:
         try:
             inc_id = inc.get("id", "unknown")
             concelho = inc.get("concelho", "??")
@@ -308,55 +321,36 @@ def main():
             start_lat = inc.get("lat")
             start_lng = inc.get("lng")
 
-            print(f"\n🔥 {concelho} ({freguesia})")
+            print(f"\n🔥 {inc_id} - {concelho} ({freguesia})")
             print(f"   Estado: {status}")
             print(f"   Operacionais: {man} | Terrestres: {terrain} | Aéreos: {aerial}")
 
             raw_kml = inc.get("kmlVost") or inc.get("kml") or ""
-            kml_string = fetch_kml_if_url(raw_kml)
+            if not raw_kml:
+                motivo = "Sem KML (kmlVost/kml vazio)"
+                print(f"   Ignorado: {motivo}")
+                ignorados.append((inc_id, motivo))
+                continue
 
+            kml_string = fetch_kml_if_url(raw_kml)
             if not kml_string:
-                print("   Sem KML válido. Gerando imagem apenas com ponto (fallback).")
-                if start_lat is not None and start_lng is not None:
-                    info = f"{concelho} - {status}\nOper: {man}"
-                    fname = os.path.join(OUTPUT_DIR, f"inc_{inc_id}_nopolygon.png")
-                    small_box = [
-                        (start_lng - 0.02, start_lat - 0.02),
-                        (start_lng - 0.02, start_lat + 0.02),
-                        (start_lng + 0.02, start_lat + 0.02),
-                        (start_lng + 0.02, start_lat - 0.02),
-                        (start_lng - 0.02, start_lat - 0.02)
-                    ]
-                    try:
-                        plot_with_basemap(small_box, start_lat, start_lng, info, fname)
-                    except Exception:
-                        plot_fallback(small_box, start_lat, start_lng, info, fname)
-                    print(f"   Imagem guardada: {fname}")
+                motivo = "KML presente mas não descarregável/empty"
+                print(f"   Ignorado: {motivo}")
+                ignorados.append((inc_id, motivo))
                 continue
 
             polygons = extract_polygons_from_kml_string(kml_string)
             if not polygons:
-                print("   Sem polígono válido no KML (não foram extraídas coordenadas).")
-                if start_lat is not None and start_lng is not None:
-                    info = f"{concelho} - {status}\nOper: {man}"
-                    fname = os.path.join(OUTPUT_DIR, f"inc_{inc_id}_nopolygon.png")
-                    small_box = [
-                        (start_lng - 0.02, start_lat - 0.02),
-                        (start_lng - 0.02, start_lat + 0.02),
-                        (start_lng + 0.02, start_lat + 0.02),
-                        (start_lng + 0.02, start_lat - 0.02),
-                        (start_lng - 0.02, start_lat - 0.02)
-                    ]
-                    try:
-                        plot_with_basemap(small_box, start_lat, start_lng, info, fname)
-                    except Exception:
-                        plot_fallback(small_box, start_lat, start_lng, info, fname)
-                    print(f"   Imagem guardada: {fname}")
+                motivo = "KML sem coordenadas válidas"
+                print(f"   Ignorado: {motivo}")
+                ignorados.append((inc_id, motivo))
                 continue
 
             main_poly = choose_largest_polygon(polygons)
             if not main_poly:
-                print("   Não foi possível escolher polígono principal.")
+                motivo = "Não foi possível escolher polígono principal"
+                print(f"   Ignorado: {motivo}")
+                ignorados.append((inc_id, motivo))
                 continue
 
             try:
@@ -365,8 +359,6 @@ def main():
                 area_km2 = float('nan')
                 print("   Erro ao calcular área:", e)
 
-            print(f"   Área aproximada: {area_km2:.3f} km²")
-
             info_text = f"{concelho} - {status}\nOper: {man} | Terrestres: {terrain} | Aéreos: {aerial}\nÁrea ≈ {area_km2:.3f} km²"
             fname = os.path.join(OUTPUT_DIR, f"inc_{inc_id}.png")
 
@@ -374,13 +366,32 @@ def main():
                 plot_with_basemap(main_poly, start_lat, start_lng, info_text, fname, dpi=EXPORT_DPI, figsize=FIGSIZE)
             except Exception as e:
                 print("   ⚠️ Basemap falhou — a usar fallback simples. Erro:", e)
-                plot_fallback(main_poly, start_lat, start_lng, info_text, fname, dpi=EXPORT_DPI, figsize=FIGSIZE)
+                try:
+                    plot_fallback(main_poly, start_lat, start_lng, info_text, fname, dpi=EXPORT_DPI, figsize=FIGSIZE)
+                except Exception as e2:
+                    motivo = f"Erro a desenhar imagem: {e2}"
+                    print(f"   Ignorado: {motivo}")
+                    ignorados.append((inc_id, motivo))
+                    continue
 
+            imagens_criadas.append(inc_id)
             print(f"   Imagem guardada: {fname}")
 
         except Exception as e:
-            print("   Erro a processar incêndio:", e)
+            motivo = f"Erro ao processar: {e}"
+            print(f"   Ignorado: {motivo}")
+            ignorados.append((inc.get("id", "unknown"), motivo))
 
+    # Resumo final
+    print("\n--- Resumo ---")
+    print(f"Incêndios com >100 operacionais: {total_candidatos}")
+    print(f"Imagens geradas: {len(imagens_criadas)}")
+    if imagens_criadas:
+        print(" Imagens criadas para IDs:", ", ".join(imagens_criadas))
+    if ignorados:
+        print(f"Ignorados ({len(ignorados)}):")
+        for iid, motivo in ignorados:
+            print(f"  - {iid}: {motivo}")
 
 if __name__ == "__main__":
     main()
