@@ -300,11 +300,11 @@ def main():
             man = int(inc.get("man", 0))
         except Exception:
             man = 0
-        if man > 100:
+        if man > 90:
             candidatos.append(inc)
 
     total_candidatos = len(candidatos)
-    print(f"Total de incêndios com >100 operacionais: {total_candidatos}")
+    print(f"Total de incêndios com >90 operacionais: {total_candidatos}")
 
     imagens_criadas = []
     ignorados = []  # tuples (id, motivo)
@@ -395,3 +395,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
