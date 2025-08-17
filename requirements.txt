@@ -6,3 +6,6 @@ cartopy
 lxml
 geopandas
 contextily
+numpy
+Pillow
+opencv-python
