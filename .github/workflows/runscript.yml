@@ -2,8 +2,8 @@ name: Run Script
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # de 30 em 30 minutos
-  workflow_dispatch:          # também podes correr manualmente
+    - cron: "*/30 * * * *" # de 30 em 30 minutos
+  workflow_dispatch: # também podes correr manualmente
 
 jobs:
   run-script:
@@ -21,7 +21,9 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run script
-        run: python main.py
+        run:
+          python imagens.py
+          python genjson.py
 
       - name: Commit changes
         run: |

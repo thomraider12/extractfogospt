@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>IR_Trancoso_AOI_12082025_1242.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>800701fc</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>590701fc</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>800701fc</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>590701fc</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>ÁREA DE INTERESSE</name><description>Área de Interesse calculada com base nos dados da COPERNICUS-EMS de 12.08.2025 às 12h42 com uma área ardida estimada de 10,101ha</description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-7.264338027793422,40.83435387092208,0 -7.26681366650748,40.87121830830559,0 -7.340903517580028,40.8706076871925,0 -7.368942893233619,40.84713119584264,0 -7.369483626683495,40.88318458660962,0 -7.387876929267984,40.88240269550371,0 -7.41983087090508,40.83443074466631,0 -7.417497702529079,40.81502228793251,0 -7.407714132345072,40.80751743526954,0 -7.41522196875862,40.79508639218742,0 -7.40638429653619,40.77653879731162,0 -7.435020211582945,40.7156553661036,0 -7.4423318648918,40.69546310334037,0 -7.424835511658574,40.68438708935824,0 -7.406831288938402,40.67867798009101,0 -7.380803996605298,40.67859909708237,0 -7.34772140137067,40.71005235080908,0 -7.264338027793422,40.83435387092208,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>
