@@ -21,7 +21,8 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run script
-        run: python imagens.py
+        run: |
+          python imagens.py
           python gt90json.py
           python geraljson.py
           python video.py
