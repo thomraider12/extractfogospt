@@ -1,14 +1,13 @@
-name: Run Scripts
+name: Run Script
 
 on:
   schedule:
-    - cron: "*/30 * * * *" # executa de 30 em 30 minutos
-  workflow_dispatch: # também permite correr manualmente
+    - cron: "*/30 * * * *" # de 30 em 30 minutos
+  workflow_dispatch: # também podes correr manualmente
 
 jobs:
-  run-scripts:
+  run-script:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -18,25 +17,27 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
+      - name: Install deps
         run: pip install -r requirements.txt
 
-      - name: Run imagens.py
-        run: python imagens.py
-
-      - name: Run gt90json.py
-        run: python gt90json.py
-
-      - name: Run geraljson.py
-        run: python geraljson.py
-
-      - name: Run video.py
-        run: python video.py
-
-      - name: Commit changes
+      - name: Run update scripts and commit
         run: |
+          python imagens.py
+          python gt90json.py
+          python geraljson.py
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
           git commit -m "Atualização automática [skip ci]" || echo "Sem alterações"
+
+      - name: Run video
+        run: python video.py
+        timeout-minutes: 30  # aumenta o tempo para evitar cancelamentos
+
+      - name: Commit video output
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Vídeo atualizado [skip ci]" || echo "Sem alterações"
           git push
