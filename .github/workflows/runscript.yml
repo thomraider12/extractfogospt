@@ -1,13 +1,14 @@
-name: Run Script
+name: Run Scripts
 
 on:
   schedule:
-    - cron: "*/30 * * * *" # de 30 em 30 minutos
-  workflow_dispatch: # também podes correr manualmente
+    - cron: "*/30 * * * *" # executa de 30 em 30 minutos
+  workflow_dispatch: # também permite correr manualmente
 
 jobs:
-  run-script:
+  run-scripts:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -17,15 +18,20 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install deps
+      - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run script
-        run: |
-          python imagens.py
-          python gt90json.py
-          python geraljson.py
-          python video.py
+      - name: Run imagens.py
+        run: python imagens.py
+
+      - name: Run gt90json.py
+        run: python gt90json.py
+
+      - name: Run geraljson.py
+        run: python geraljson.py
+
+      - name: Run video.py
+        run: python video.py
 
       - name: Commit changes
         run: |
