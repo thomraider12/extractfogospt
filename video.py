@@ -20,8 +20,8 @@ import cv2
 RESUMO_JSON = "json/resumo_total.json"       # ficheiro com {man, terrain, aerial, total_incendios, ultima_atualizacao}
 INPUT_JSON = "json/incendios_gt90.json"      # lista de incêndios
 OUTPUT_VIDEO = "video/incendios_gt90_video.mp4"
-IMG_SIZE = (1920, 1080)            # largura, altura
-FPS = 60
+IMG_SIZE = (1280, 720)            # largura, altura
+FPS = 30
 DURATION_HOLD = 3.0                # segundos a mostrar o slide sem fades
 DURATION_FADE = 0.8                # segundos de fade in/out
 BACKGROUND_COLOR = (18, 18, 20)   # fundo escuro (R,G,B)
