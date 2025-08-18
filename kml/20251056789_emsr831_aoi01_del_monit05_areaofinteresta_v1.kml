@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="emsr831_aoi01_del_monit05_areaofinteresta_v1" id="emsr831_aoi01_del_monit05_areaofinteresta_v1">
+	<SimpleField name="emsr_id" type="string"></SimpleField>
+	<SimpleField name="glide_no" type="string"></SimpleField>
+	<SimpleField name="area_id" type="string"></SimpleField>
+	<SimpleField name="locality" type="string"></SimpleField>
+	<SimpleField name="map_type" type="string"></SimpleField>
+</Schema>
+<Folder><name>emsr831_aoi01_del_monit05_areaofinteresta_v1</name>
+  <Placemark>
+	  <name>ÁREA DE INTERESSE</name><description>Área de Interesse com dados COPERNICUS-EMS atualizados a 17/08/2025 14h00</description>
+		<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+		<ExtendedData><SchemaData schemaUrl="#emsr831_aoi01_del_monit05_areaofinteresta_v1">
+			<SimpleData name="emsr_id">EMSR831</SimpleData>
+			<SimpleData name="glide_no">Not Applicable</SimpleData>
+			<SimpleData name="area_id">01</SimpleData>
+			<SimpleData name="locality">Trancoso</SimpleData>
+			<SimpleData name="map_type">Delineation-Monit05</SimpleData>
+		</SchemaData></ExtendedData>
+	      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-7.7279296,40.8448466 -7.7794972,40.9678477 -7.7730904,41.0166834 -7.5795654,41.0044455 -7.586303,41.1421651 -7.1766605,41.1081768 -7.1580472,41.0302107 -7.1473332,40.9619376 -7.2487989,40.8011513 -7.0666989,40.7655194 -7.1571642,40.5903233 -7.7340247,40.6874408 -7.7279296,40.8448466</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
