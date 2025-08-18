@@ -59,9 +59,7 @@ DEFAULT_STATE_COLOR = (230, 90, 80)
 
 # Fonts Windows-first
 FONT_CANDIDATES_TEXT = [
-    "C:/Windows/Fonts/segoeui.ttf",
-    "C:/Windows/Fonts/SegoeUI.ttf",
-    "C:/Windows/Fonts/arial.ttf",
+    "ARLRDBD.ttf",
 ]
 
 def find_font(cands: List[str]) -> Optional[str]:
