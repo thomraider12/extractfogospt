@@ -59,7 +59,7 @@ DEFAULT_STATE_COLOR = (230, 90, 80)
 
 # Fonts Windows-first
 FONT_CANDIDATES_TEXT = [
-    "ARLRDBD.ttf",
+    "ARLRDBD.TTF",
 ]
 
 def find_font(cands: List[str]) -> Optional[str]:
