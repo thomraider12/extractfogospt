@@ -328,8 +328,9 @@ def create_summary_slide(summary: Dict[str, Any], size=IMG_SIZE) -> np.ndarray:
         draw.text((text_x, text_y), text, font=font_text, fill=color)
         y += line_h + spacing_between_lines
 
-    # rodapé com timestamp do ficheiro/geração
-    footer = f"Gerado: {datetime.now().strftime('%d-%m-%Y %H:%M')}"
+    tempoutc = datetime.now().strftime('%d-%m-%Y %H:%M')
+    tempopt = tempoutc + 1
+    footer = f"Gerado: {tempopt}"
     draw.text((40, h - 48), footer, font=font_small, fill=FOOTER_COLOR)
 
     final = img.convert("RGB")
