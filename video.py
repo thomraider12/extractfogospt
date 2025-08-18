@@ -5,11 +5,12 @@ Gera um vídeo (MP4) com um slide inicial de resumo (resumo_total.json)
 seguido dos slides por incêndio (incendios_gt90.json). Usa ícones PNG em emojis/.
 Alterações: ordena os incêndios por operacionais (descendente) e aumenta o
 espaçamento entre "Resumo Geral" e "Última atualização".
+Mostra imagem lateral inc_<id>.png quando existir (sem indicar no rodapé).
 """
 
 import os
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 from typing import Any, Dict, List, Optional
 
 import numpy as np
@@ -57,9 +58,11 @@ STATE_COLORS = {
 }
 DEFAULT_STATE_COLOR = (230, 90, 80)
 
-# Fonts Windows-first
+# Fonts Windows-first (fallbacks poderão ser ajustadas no runner)
 FONT_CANDIDATES_TEXT = [
     "ARLRDBD.TTF",
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+    "/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf",
 ]
 
 def find_font(cands: List[str]) -> Optional[str]:
@@ -163,16 +166,77 @@ def safe_get_time(rec: Dict[str, Any]) -> str:
 def status_color(status: str) -> tuple:
     return STATE_COLORS.get(status, DEFAULT_STATE_COLOR)
 
+def safe_get_incident_id(rec: Dict[str, Any]) -> str:
+    """
+    Tenta várias chaves comuns para obter um id válido para mapear a imagem.
+    Se não encontrar nada razoável devolve string vazia.
+    """
+    candidates = (
+        "incident_id", "incidentId", "id", "inc", "codigo", "uid", "gid", "id_inc", "numero", "codigo_incidente"
+    )
+    for k in candidates:
+        v = rec.get(k)
+        if v is None:
+            continue
+        s = str(v).strip()
+        if s:
+            return s
+    # procurar em propriedades aninhadas (GeoJSON-like)
+    props = rec.get("properties")
+    if isinstance(props, dict):
+        for k in ("incident_id", "incidentId", "id"):
+            v = props.get(k)
+            if v:
+                s = str(v).strip()
+                if s:
+                    return s
+    # fallback: usar a chave 'id' mesmo que seja timestamp — será sanitizado depois
+    v = rec.get("id")
+    return str(v).strip() if v is not None else ""
+
+def _sanitize_id_for_filename(s: str) -> str:
+    # permite só chars alfanuméricos, underscore e hífen
+    return "".join(ch for ch in s if ch.isalnum() or ch in ("_", "-"))
+
 def map_image_path_for_id(inc_id: Any) -> Optional[str]:
-    fname = f"inc_{inc_id}.png"
-    path = os.path.join(MAP_IMG_DIR, fname)
-    if os.path.isfile(path):
-        return path
+    """
+    Procura imagens em MAP_IMG_DIR com base num id sanitizado.
+    - primeiro verifica inc_<sanitizado>.png
+    - depois verifica nomes de ficheiro cuja parte base (sem extensão) contenha o sanitizado
+    - por fim verifica se a string original aparece no nome do ficheiro (fallback)
+    """
+    if inc_id is None:
+        return None
+    s_raw = str(inc_id).strip()
+    if not s_raw:
+        return None
+
+    s = _sanitize_id_for_filename(s_raw)
+    # procura exacta inc_<id>.ext
+    if s:
+        for ext in (".png", ".jpg", ".jpeg"):
+            fname = f"inc_{s}{ext}"
+            path = os.path.join(MAP_IMG_DIR, fname)
+            if os.path.isfile(path):
+                return path
+
+    # procura por substring na versão sanitizada do nome do ficheiro (sem extensão)
     if os.path.isdir(MAP_IMG_DIR):
-        s = str(inc_id)
         for fn in os.listdir(MAP_IMG_DIR):
-            if s in fn and fn.lower().endswith((".png", ".jpg", ".jpeg")):
+            if not fn.lower().endswith((".png", ".jpg", ".jpeg")):
+                continue
+            base = os.path.splitext(fn)[0]
+            base_sanit = _sanitize_id_for_filename(base)
+            if s and s in base_sanit:
                 return os.path.join(MAP_IMG_DIR, fn)
+
+        # fallback: procura string raw no nome do ficheiro (útil se id tiver espaços ou timestamps)
+        for fn in os.listdir(MAP_IMG_DIR):
+            if not fn.lower().endswith((".png", ".jpg", ".jpeg")):
+                continue
+            if s_raw in fn:
+                return os.path.join(MAP_IMG_DIR, fn)
+
     return None
 
 # ---------- Ícones (cache) ----------
@@ -203,10 +267,6 @@ def load_icon_img(key: str, target_height: int = 48) -> Optional[Image.Image]:
 # ---------- Slides ----------
 
 def create_summary_slide(summary: Dict[str, Any], size=IMG_SIZE) -> np.ndarray:
-    """
-    Cria o slide inicial com os totais a partir do ficheiro resumo_total.json.
-    Espera as chaves: man, terrain, aerial, total_incendios, ultima_atualizacao
-    """
     w, h = size
     img = Image.new("RGBA", (w, h), BACKGROUND_COLOR + (255,))
     draw = ImageDraw.Draw(img)
@@ -214,10 +274,10 @@ def create_summary_slide(summary: Dict[str, Any], size=IMG_SIZE) -> np.ndarray:
     # fontes
     try:
         if FONT_TEXT_PATH:
-            font_title = ImageFont.truetype(FONT_TEXT_PATH, 84)
-            font_big = ImageFont.truetype(FONT_TEXT_PATH, 64)
-            font_text = ImageFont.truetype(FONT_TEXT_PATH, 48)
-            font_small = ImageFont.truetype(FONT_TEXT_PATH, 36)
+            font_title = ImageFont.truetype(FONT_TEXT_PATH, 63)
+            font_big = ImageFont.truetype(FONT_TEXT_PATH, 48)
+            font_text = ImageFont.truetype(FONT_TEXT_PATH, 36)
+            font_small = ImageFont.truetype(FONT_TEXT_PATH, 27)
         else:
             font_title = ImageFont.load_default()
             font_big = ImageFont.load_default()
@@ -248,9 +308,9 @@ def create_summary_slide(summary: Dict[str, Any], size=IMG_SIZE) -> np.ndarray:
         ("tree", f"Total de incêndios: {total_inc}")
     ]
 
-    # calcular layout do bloco central
+    # layout
     padding_between_icon_text = 20
-    subtitle_spacing = 25       # <--- espaçamento aumentado entre título e subtitle
+    subtitle_spacing = 25
     spacing_title_lines = 31
     spacing_between_lines = 28
 
@@ -274,13 +334,11 @@ def create_summary_slide(summary: Dict[str, Any], size=IMG_SIZE) -> np.ndarray:
     block_w = max_line_w
     lines_total_h = sum(m[7] for m in line_metrics) + spacing_between_lines*(len(line_metrics)-1 if line_metrics else 0)
 
-    # calcular espaço do subtitle caso exista
     sub_h = 0
     if subtitle:
         sub_bbox = draw.textbbox((0,0), subtitle, font=font_small)
         sub_h = sub_bbox[3] - sub_bbox[1]
 
-    # bloco total: título + espaço para subtitle + espaçamento para linhas + linhas
     block_h = t_h + (subtitle_spacing + sub_h if subtitle else 0) + spacing_title_lines + lines_total_h
 
     center_x = w//2
@@ -299,7 +357,7 @@ def create_summary_slide(summary: Dict[str, Any], size=IMG_SIZE) -> np.ndarray:
         except Exception:
             img.paste(fire_icon.convert("RGB"), (e_x, e_y))
 
-    # desenhar título e subtitle (com o novo espaçamento)
+    # desenhar título e subtitle
     t_x = center_x - t_w//2
     t_y = block_y
     draw.text((t_x, t_y), title, font=font_title, fill=status_color("Em Curso"))
@@ -323,21 +381,25 @@ def create_summary_slide(summary: Dict[str, Any], size=IMG_SIZE) -> np.ndarray:
         else:
             text_x = line_x
         text_y = y + (line_h - text_h)//2
-        # cor especial para total de incêndios
         color = AREA_COLOR if key == "tree" else TEXT_COLOR
         draw.text((text_x, text_y), text, font=font_text, fill=color)
         y += line_h + spacing_between_lines
 
-    tempoutc = datetime.now().strftime('%d-%m-%Y %H:%M')
-    tempopt = tempoutc + 1
-    footer = f"Gerado: {tempopt}"
+    # rodapé com timestamp (UTC +1)
+    now_utc = datetime.utcnow()
+    now_pt = now_utc + timedelta(hours=1)
+    footer = f"Gerado: {now_pt.strftime('%d-%m-%Y %H:%M')}"
     draw.text((40, h - 48), footer, font=font_small, fill=FOOTER_COLOR)
 
     final = img.convert("RGB")
     return np.asarray(final)
 
-# Reaproveitar create_incident_slide do teu script (versão compatível)
 def create_incident_slide(rec: Dict[str, Any], size=IMG_SIZE) -> np.ndarray:
+    """
+    Cria slide para um registo de incêndio.
+    Mostra o nome numa linha e o estado (status) numa linha abaixo, com o status um pouco menor.
+    Tenta inserir inc_<id>.png à direita do bloco se houver espaço.
+    """
     w, h = size
     img = Image.new("RGBA", (w, h), BACKGROUND_COLOR + (255,))
     draw = ImageDraw.Draw(img)
@@ -345,18 +407,24 @@ def create_incident_slide(rec: Dict[str, Any], size=IMG_SIZE) -> np.ndarray:
     # fontes
     try:
         if FONT_TEXT_PATH:
-            font_title = ImageFont.truetype(FONT_TEXT_PATH, 64)
+            title_size = 64
+            status_size = 40   # estado um pouco menor que o título
+            font_title = ImageFont.truetype(FONT_TEXT_PATH, title_size)
+            font_status = ImageFont.truetype(FONT_TEXT_PATH, status_size)
             font_text = ImageFont.truetype(FONT_TEXT_PATH, 44)
             font_small = ImageFont.truetype(FONT_TEXT_PATH, 28)
         else:
             font_title = ImageFont.load_default()
+            font_status = ImageFont.load_default()
             font_text = ImageFont.load_default()
             font_small = ImageFont.load_default()
     except Exception:
         font_title = ImageFont.load_default()
+        font_status = ImageFont.load_default()
         font_text = ImageFont.load_default()
         font_small = ImageFont.load_default()
 
+    # campos
     name = safe_get_name(rec)
     status = rec.get("status", "")
     operacionais = safe_get_int(rec, ["operacionais", "man", "oper"], 0)
@@ -364,9 +432,11 @@ def create_incident_slide(rec: Dict[str, Any], size=IMG_SIZE) -> np.ndarray:
     aereos = safe_get_int(rec, ["aereos", "aerial", "aerials"], 0)
     area = safe_get_area(rec)
     tempo = safe_get_time(rec)
-    inc_id = rec.get("id", "")
+    inc_id = safe_get_incident_id(rec)
 
-    title_line = f"{name} — {status}" if status else name
+    # linhas de info
+    title_name = name
+    title_status = status  # será desenhado na 2ª linha, menor
     lines_info = [
         ("man", f"Operacionais: {operacionais}"),
         ("truck", f"Meios terrestres: {terrestres}"),
@@ -379,11 +449,21 @@ def create_incident_slide(rec: Dict[str, Any], size=IMG_SIZE) -> np.ndarray:
     padding_between_icon_text = 16
     spacing_title_lines = 20
     spacing_between_lines = 16
+    status_line_spacing = 8  # espaço entre nome e estado
 
-    t_bbox = draw.textbbox((0,0), title_line, font=font_title)
-    t_w = t_bbox[2]-t_bbox[0]; t_h = t_bbox[3]-t_bbox[1]
+    # medir título (duas linhas)
+    nb = draw.textbbox((0, 0), title_name, font=font_title)
+    name_w = nb[2] - nb[0]; name_h = nb[3] - nb[1]
+    sb = draw.textbbox((0, 0), title_status, font=font_status)
+    status_w = sb[2] - sb[0]; status_h = sb[3] - sb[1]
+
+    # largura inicial = largura da maior linha do título
+    t_w = max(name_w, status_w)
+    t_h_total = name_h + status_line_spacing + status_h
+
     max_line_w = t_w
 
+    # medir linhas de informação (com ícones)
     line_metrics = []
     for key, text in lines_info:
         tb = draw.textbbox((0,0), text, font=font_text)
@@ -398,52 +478,64 @@ def create_incident_slide(rec: Dict[str, Any], size=IMG_SIZE) -> np.ndarray:
             max_line_w = total_w
 
     block_w = max_line_w
-    lines_total_h = sum(m[7] for m in line_metrics) + spacing_between_lines*(len(line_metrics)-1 if line_metrics else 0)
-    block_h = t_h + spacing_title_lines + lines_total_h
+    lines_total_h = sum(m[7] for m in line_metrics) + spacing_between_lines * (len(line_metrics)-1 if line_metrics else 0)
+    block_h = t_h_total + spacing_title_lines + lines_total_h
 
-    center_x = w//2
-    center_y = h//2
-    block_x = center_x - block_w//2
-    block_y = center_y - block_h//2
+    center_x = w // 2
+    center_y = h // 2
+    block_x = center_x - block_w // 2
+    block_y = center_y - block_h // 2
 
-    # inserir imagem lateral inc_<id>.png se houver
+    # inserir imagem lateral inc_<id>.png se houver e couber
     map_img_path = map_image_path_for_id(inc_id)
     if map_img_path and os.path.isfile(map_img_path):
         try:
             side = Image.open(map_img_path).convert("RGBA")
+            available_right = w - (block_x + block_w) - 40
             desired_max_w = int(w * 0.28)
-            ratio = desired_max_w / side.width
-            new_h = int(side.height * ratio)
-            side_resized = side.resize((desired_max_w, new_h), Image.LANCZOS)
-            paste_x = block_x + block_w + 40
-            paste_y = block_y
-            if paste_x + desired_max_w + 40 <= w:
+            side_max_w = min(desired_max_w, available_right) if available_right > 120 else 0
+            if side_max_w > 50:
+                ratio = side_max_w / side.width
+                new_h = int(side.height * ratio)
+                side_resized = side.resize((side_max_w, new_h), Image.LANCZOS)
+                paste_x = block_x + block_w + 30
+                paste_y = block_y
+                if paste_y + new_h > h - 80:
+                    paste_y = max(40, h - new_h - 80)
                 try:
                     img.paste(side_resized, (paste_x, paste_y), side_resized)
                 except Exception:
                     img.paste(side_resized.convert("RGB"), (paste_x, paste_y))
-                draw.rectangle([paste_x-2, paste_y-2, paste_x+desired_max_w+2, paste_y+new_h+2], outline=(60,60,60))
-        except Exception:
-            pass
+                draw.rectangle([paste_x-2, paste_y-2, paste_x+side_max_w+2, paste_y+new_h+2], outline=(60,60,60))
+        except Exception as e:
+            if VERBOSE:
+                print("  ⚠️ Erro a abrir/inserir imagem lateral:", e)
 
     # ícone fire à esquerda
     fire_icon = load_icon_img("fire", target_height=180)
     if fire_icon:
         e_w, e_h = fire_icon.width, fire_icon.height
         e_x = block_x - e_w - 40
-        e_y = block_y + (block_h - e_h)//2
+        e_y = block_y + (block_h - e_h) // 2
         try:
             img.paste(fire_icon, (e_x, e_y), fire_icon)
         except Exception:
             img.paste(fire_icon.convert("RGB"), (e_x, e_y))
 
-    # título
-    draw.text((center_x - t_w//2, block_y), title_line, font=font_title, fill=status_color(status))
+    # desenhar nome (linha 1) centrado
+    t_x_name = center_x - name_w // 2
+    t_y = block_y
+    draw.text((t_x_name, t_y), title_name, font=font_title, fill=TEXT_COLOR)
 
-    # linhas
-    y = block_y + t_h + spacing_title_lines
+    # desenhar estado (linha 2) centrado e menor, com cor do estado
+    t_x_status = center_x - status_w // 2
+    t_y_status = t_y + name_h + status_line_spacing
+    draw.text((t_x_status, t_y_status), title_status, font=font_status, fill=status_color(status))
+
+    # desenhar linhas de estatísticas
+    y = t_y_status + status_h + spacing_title_lines
     for (key, text, text_w, text_h, icon_w, icon_h, total_w, line_h) in line_metrics:
-        line_x = center_x - total_w//2
+        line_x = center_x - total_w // 2
         if icon_w > 0:
             icon = load_icon_img(key, target_height=icon_h)
             if icon:
@@ -454,11 +546,11 @@ def create_incident_slide(rec: Dict[str, Any], size=IMG_SIZE) -> np.ndarray:
             text_x = line_x + icon_w + padding_between_icon_text
         else:
             text_x = line_x
-        text_y = y + (line_h - text_h)//2
+        text_y = y + (line_h - text_h) // 2
         draw.text((text_x, text_y), text, font=font_text, fill=AREA_COLOR if key=="tree" else TEXT_COLOR)
         y += line_h + spacing_between_lines
 
-    # rodapé
+    # rodapé (apenas tempo)
     draw.text((40, h - 48), f"Tempo: {tempo}", font=font_small, fill=FOOTER_COLOR)
 
     final = img.convert("RGB")
@@ -527,8 +619,9 @@ def main():
 
     # slides por incêndio
     for idx, rec in enumerate(incidents, start=1):
+        inc_id_log = safe_get_incident_id(rec) or rec.get("id", "?")
         if VERBOSE:
-            print(f"[{idx}/{len(incidents)}] criar slide para id={rec.get('id','?')}")
+            print(f"[{idx}/{len(incidents)}] criar slide para id={inc_id_log}")
         slide_img = create_incident_slide(rec, size=IMG_SIZE)
         frames = make_frames_for_slide(slide_img, fps=FPS, dur_hold=DURATION_HOLD, dur_fade=DURATION_FADE)
         all_frames.extend(frames)
