@@ -1,0 +1,15 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark>
+<name>Área de interesse</name><description>Área de Interesse Estimada com base em dados OSINT, ainda sem dados COPERNICUS-EMS. 18 de Agosto 11:00</description>
+<ExtendedData></ExtendedData>
+  <Polygon>
+<outerBoundaryIs>
+  <LinearRing><coordinates>-7.174767496996367,41.41966178452918
+-7.175117131825857,41.4076115366785
+-7.133374274754686,41.40795317627723
+-7.135159080007639,41.389838217298916
+-7.1155257150946625,41.39353556483783
+-7.116791011959691,41.41274852815906
+-7.121329600648636,41.4198415263985
+-7.151442535103342,41.420763130502394
+-7.174767496996367,41.41966178452918</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
