@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>AOI_Piodao_19082025_1424_new.kml</name>
+	<Style id="failed">
+		<LineStyle>
+			<color>ff0701fc</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>590701fc</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="failed0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed1">
+		<LineStyle>
+			<color>ff0701fc</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>590701fc</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>ÁREA DE INTERESSE</name><description>Área de Interesse calculada com base em dados COPERNICUS-EMS e dados abertos recolhidos pela equipa da VOSTPT. Atualização às 14h24 de 19-08-2025</description>
+		<styleUrl>#failed0</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-7.855821245538655,40.33938255662142,0 -7.938592963625116,40.33228133919274,0 -7.965993199811317,40.30844782697802,0 -7.95942536627042,40.25976255201992,0 -7.956353010942911,40.22780024573513,0 -7.97289956685956,40.2094278044755,0 -7.952999180008788,40.1866076915661,0 -7.9226108725811,40.16116771923434,0 -7.894430175006982,40.17974597842313,0 -7.867722445429159,40.16699082277169,0 -7.84178832133466,40.17334152710498,0 -7.846793736263687,40.14032911818219,0 -7.838780868182834,40.10242501583139,0 -7.830717973047082,40.06912344238462,0 -7.789140524585986,40.06121931929593,0 -7.772557670071379,40.07672490991655,0 -7.730134625680115,40.08186567473808,0 -7.706449667860311,40.09705877452185,0 -7.673923100327574,40.10739856255032,0 -7.651945081941939,40.1102621866904,0 -7.649350944187391,40.08837150241416,0 -7.638086545351693,40.05537932509215,0 -7.621043759127348,40.03366128570219,0 -7.594209937923905,40.01724247721919,0 -7.556603856361924,40.03128880757083,0 -7.543032901325219,40.07208852789265,0 -7.540530556421732,40.12334649454941,0 -7.555370866156808,40.15087463086966,0 -7.534180135908426,40.17870210328688,0 -7.564806615651724,40.21109681453806,0 -7.607796044879349,40.24331591455522,0 -7.653085874681392,40.27613049581787,0 -7.687972260102617,40.3001495297687,0 -7.855821245538655,40.33938255662142,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>

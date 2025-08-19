@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>AOI_VilarDePerdizes_19082025_1424.kml</name>
+	<StyleMap id="failed">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed0">
+		<LineStyle>
+			<color>ff0701fc</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>590701fc</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="failed1">
+		<LineStyle>
+			<color>ff0701fc</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>590701fc</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>ÁREA DE INTERESSE</name><description>Aréa de Interesse Calculada com dados COPERNICUS-EMS e dados OSINT às 14h24 de 19-08-2025</description>
+		<styleUrl>#failed</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-7.451883347039957,41.94796989443589,0 -7.670057312698005,41.94807549041517,0 -7.67134613369554,41.88499565498621,0 -7.641333256385895,41.84110882259227,0 -7.605969607192208,41.83529529913155,0 -7.57562475542402,41.86434500411426,0 -7.557547122796375,41.85381426490564,0 -7.523518068237424,41.82828662076501,0 -7.473732781504462,41.8317112734092,0 -7.451883347039957,41.94796989443589,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>
