@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>AOI_Arganil_19082025.kml</name>
+	<Style id="failed">
+		<LineStyle>
+			<color>ff0701fc</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>590701fc</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="failed0">
+		<LineStyle>
+			<color>ff0701fc</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>590701fc</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="failed1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>ÁREA DE INTERESSE</name><description>Área de interesse a 19.08.2025 07h30am com base em dados COPERNICUS-EMS e OSINT recolhidos pela VOST Portugal</description>
+		<styleUrl>#failed1</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-7.857866482998955,40.44511434113296,0 -8.098502234847304,40.30469927838326,0 -8.084992432325102,40.19013746869422,0 -7.953250828934147,40.07397061898805,0 -7.80967665657653,40.06253762435777,0 -7.762569047760923,40.06405469423908,0 -7.658224477026776,40.12491485843172,0 -7.581005970443434,40.06838646565777,0 -7.546455246577411,40.12408828731232,0 -7.572716113760796,40.16703581535428,0 -7.585720649372767,40.22436903921112,0 -7.649562818805181,40.29114156544286,0 -7.857866482998955,40.44511434113296,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>
