@@ -8,10 +8,13 @@ Exporta para JSON todos os incêndios com > 90 operacionais e guarda ficheiros K
     * guarda o KML em kml/<id>_<nome_kml>.kml (ou kml/<id>.kml)
     * tenta extrair o polígono principal e calcular área (km²)
 - Guarda resumo em incendios_gt90.json
+
+Alterações: usa headers customizados (User-Agent, Accept, ...) e retry básico para 403/429.
 """
 
 import os
 import json
+import time
 from datetime import datetime, timezone
 from typing import List, Tuple, Optional
 import requests
@@ -27,28 +30,102 @@ KML_DIR = "kml"
 TIMEOUT = 15
 MIN_OPERACIONAIS = 90  # critério: estritamente > 90
 
+# ---- HEADERS / SESSION -------------------------------------------------------
+DEFAULT_HEADERS = {
+    # usar um User-Agent plausível de browser reduz a probabilidade de bloqueio
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139 Safari/537.36",
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Language": "pt-PT,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Cache-Control": "no-cache",
+    # não enviar cookies desnecessários
+}
+
+SESSION = requests.Session()
+SESSION.headers.update(DEFAULT_HEADERS)
+SESSION.max_redirects = 5
+# Não partilhar cookies previamente; limpa o cookiejar (começa limpa)
+SESSION.cookies.clear()
+
+def get_with_retries(url: str, timeout: int = TIMEOUT, headers: Optional[dict] = None, max_retries: int = 3):
+    """
+    Faz GET com a sessão global, aplica headers opcionais, tenta retry para 429/403 com backoff.
+    Devolve o objeto requests.Response ou lança exception.
+    """
+    attempt = 0
+    backoff = 5  # segundos iniciais
+    while True:
+        attempt += 1
+        try:
+            if headers:
+                r = SESSION.get(url, timeout=timeout, headers=headers)
+            else:
+                r = SESSION.get(url, timeout=timeout)
+        except Exception as e:
+            if attempt >= max_retries:
+                raise
+            wait = backoff * attempt
+            print(f"Request error ({e}), retrying in {wait}s (attempt {attempt}/{max_retries})...")
+            time.sleep(wait)
+            continue
+
+        # sucesso (200, 304, etc.)
+        if r.status_code in (200, 201, 202, 203, 204, 304):
+            return r
+
+        # lidar com rate limit / bloqueio
+        if r.status_code in (429, 403):
+            # tenta ler Retry-After
+            ra = r.headers.get("Retry-After")
+            if ra:
+                try:
+                    wait = int(ra)
+                except Exception:
+                    # se o Retry-After for data, usa backoff por segurança
+                    wait = backoff * attempt
+            else:
+                wait = backoff * attempt
+            print(f"Recebido {r.status_code} de {url}. Aguardar {wait}s antes de nova tentativa (attempt {attempt}/{max_retries}).")
+            if attempt >= max_retries:
+                # devolve a resposta para que o chamador possa inspecionar
+                r.raise_for_status()
+            time.sleep(wait)
+            continue
+
+        # outros códigos -> levantar
+        r.raise_for_status()
+
 # --- utilitários ---------------------------------------------------------------
 
 def ensure_dir(path: str):
     os.makedirs(path, exist_ok=True)
 
 def fetch_api(url: str, timeout: int = TIMEOUT):
-    r = requests.get(url, timeout=timeout)
-    r.raise_for_status()
+    """
+    Faz GET à API e devolve JSON. Usa headers e retries.
+    """
+    r = get_with_retries(url, timeout=timeout)
+    # tenta decodificar JSON (pode lançar)
     return r.json()
 
 def fetch_kml_if_url(maybe_url_or_kml: str, timeout: int = TIMEOUT) -> str:
-    """Se for URL, descarrega; senão devolve a string (pode já ser XML)."""
+    """Se for URL, descarrega com headers apropriados; senão devolve a string (pode já ser XML)."""
     if not maybe_url_or_kml:
         return ""
     s = maybe_url_or_kml.strip()
+    # detectar provável URL
     if s.lower().startswith(("http://", "https://")):
+        # para KML aceitar conteúdo XML
+        headers = {
+            "Accept": "application/vnd.google-earth.kml+xml, application/xml, text/xml, */*",
+            "User-Agent": DEFAULT_HEADERS["User-Agent"],
+        }
         try:
-            r = requests.get(s, timeout=timeout)
-            r.raise_for_status()
+            r = get_with_retries(s, timeout=timeout, headers=headers)
             return r.text
-        except Exception:
+        except Exception as e:
+            print(f"  ⚠️ Erro ao descarregar KML de {s}: {e}")
             return ""
+    # não é URL -> devolve a string (pode já ser KML)
     return s
 
 def extract_polygons_from_kml_string(kml_string: str) -> List[List[Tuple[float, float]]]:
@@ -116,7 +193,6 @@ def extract_kml_name(kml_string: str) -> Optional[str]:
             root = ET.fromstring(kml_string.strip())
         except Exception:
             return None
-    # tenta com namespace e sem
     ns_name = root.findall('.//{http://www.opengis.net/kml/2.2}name')
     if ns_name and ns_name[0].text:
         return ns_name[0].text.strip()
@@ -138,7 +214,6 @@ def safe_filename(s: str) -> str:
             keep.append("_")
         # senão ignora
     name = "".join(keep)
-    # limita comprimento
     return name[:200] if len(name) > 200 else name
 
 # --- main ---------------------------------------------------------------------
@@ -173,7 +248,6 @@ def main():
         if unix_ts:
             time_started = datetime.fromtimestamp(unix_ts).strftime("%d-%m-%Y %H:%M")
         else:
-        # fallback para o campo "started" se existir
             time_started = "null"
 
         concelho = inc.get("concelho")
@@ -214,7 +288,6 @@ def main():
                     fname = f"{inc_id}.kml"
                 path = os.path.join(KML_DIR, fname)
                 try:
-                    # grava o conteúdo tal como vem (UTF-8)
                     with open(path, "w", encoding="utf-8") as f:
                         f.write(kml_string)
                     kml_saved_path = path
@@ -259,6 +332,7 @@ def main():
         "incendios": registos
     }
 
+    ensure_dir(os.path.dirname(OUTPUT_JSON) or ".")
     with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
         json.dump(resultado, f, ensure_ascii=False, indent=2)
 
