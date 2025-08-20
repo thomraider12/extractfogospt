@@ -2,8 +2,8 @@ name: Run Script
 
 on:
   schedule:
-    - cron: "0 * * * *" # de 30 em 30 minutos
-  workflow_dispatch: # também podes correr manualmente
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
 
 jobs:
   run-script:
