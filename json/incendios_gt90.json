@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-08-21T03:58:26+00:00",
+  "atualizado_em": "2025-08-21T04:30:18+00:00",
   "criterio": "> 90 operacionais",
-  "total": 6,
+  "total": 5,
   "incendios": [
     {
       "id": "20251075979",
@@ -70,23 +70,6 @@
       "tem_kml": true,
       "kml_source": "kmlVost",
       "kml_file": "kml/20251104135_AOI_VilarDePerdizes_19082025_1424.kml.kml"
-    },
-    {
-      "id": "20251112690",
-      "data_inicio": "19-08-2025 21:29",
-      "concelho": "Fafe",
-      "freguesia": "Armil",
-      "distrito": "Braga",
-      "status": "Conclusão",
-      "latitude": 41.423148,
-      "longitude": -8.180218,
-      "operacionais": 102,
-      "terrestres": 28,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
     },
     {
       "id": "20251115714",
