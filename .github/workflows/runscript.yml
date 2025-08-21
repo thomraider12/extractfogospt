@@ -30,14 +30,27 @@ jobs:
           git add .
           git commit -m "Atualização automática [skip ci]" || echo "Sem alterações"
 
-      - name: Run video
-        run: python video.py
-        timeout-minutes: 30  # aumenta o tempo para evitar cancelamentos
-
-      - name: Commit video output
+      - name: Run video and commit it
+        timeout-minutes: 30
         run: |
+          python video.py
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
           git commit -m "Vídeo atualizado [skip ci]" || echo "Sem alterações"
+          git push
+
+      - name: Generate HLS (.m3u8 + .ts)
+        run: |
+          cd video
+          sudo apt-get install -y ffmpeg
+          ffmpeg -i incendios_gt90_video.mp4 -c:v libx264 -c:a aac -strict -2 \
+          -hls_time 10 -hls_list_size 0 -f hls playlist.m3u8
+
+      - name: Commit HLS
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "HLS atualizado [skip ci]" || echo "Sem alterações"
           git push
