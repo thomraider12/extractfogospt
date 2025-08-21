@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-08-21T02:53:38+00:00",
+  "atualizado_em": "2025-08-21T03:39:54+00:00",
   "criterio": "> 90 operacionais",
   "total": 6,
   "incendios": [
@@ -77,11 +77,11 @@
       "concelho": "Fafe",
       "freguesia": "Armil",
       "distrito": "Braga",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.423148,
       "longitude": -8.180218,
-      "operacionais": 103,
-      "terrestres": 30,
+      "operacionais": 105,
+      "terrestres": 29,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
