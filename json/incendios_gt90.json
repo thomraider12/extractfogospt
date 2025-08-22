@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-08-22T18:27:15+00:00",
+  "atualizado_em": "2025-08-22T18:49:31+00:00",
   "criterio": "> 90 operacionais",
-  "total": 6,
+  "total": 5,
   "incendios": [
     {
       "id": "20251075979",
@@ -13,8 +13,8 @@
       "latitude": 40.23083,
       "longitude": -7.81972,
       "operacionais": 1588,
-      "terrestres": 527,
-      "aereos": 15,
+      "terrestres": 532,
+      "aereos": 13,
       "area_km2": 1941.214845,
       "tem_kml": true,
       "kml_source": "kmlVost",
@@ -72,23 +72,6 @@
       "kml_file": null
     },
     {
-      "id": "20251125093",
-      "data_inicio": "22-08-2025 12:00",
-      "concelho": "Armamar",
-      "freguesia": "Fontelo",
-      "distrito": "Viseu",
-      "status": "Em Resolução",
-      "latitude": 41.12587,
-      "longitude": -7.73329,
-      "operacionais": 93,
-      "terrestres": 26,
-      "aereos": 3,
-      "area_km2": 0.977212,
-      "tem_kml": true,
-      "kml_source": "kmlVost",
-      "kml_file": "kml/20251125093_ÁREA_DE_INTERESSE.kml"
-    },
-    {
       "id": "20251126312",
       "data_inicio": "22-08-2025 16:00",
       "concelho": "Castro Daire",
@@ -97,8 +80,8 @@
       "status": "Em Curso",
       "latitude": 40.956183,
       "longitude": -7.767003,
-      "operacionais": 244,
-      "terrestres": 64,
+      "operacionais": 255,
+      "terrestres": 67,
       "aereos": 7,
       "area_km2": null,
       "tem_kml": false,
