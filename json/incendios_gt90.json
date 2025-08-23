@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-08-23T04:22:18+00:00",
+  "atualizado_em": "2025-08-23T04:43:53+00:00",
   "criterio": "> 90 operacionais",
   "total": 4,
   "incendios": [
@@ -60,11 +60,11 @@
       "concelho": "Castro Daire",
       "freguesia": "Almofala",
       "distrito": "Viseu",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 40.956183,
       "longitude": -7.767003,
-      "operacionais": 214,
-      "terrestres": 68,
+      "operacionais": 209,
+      "terrestres": 67,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
