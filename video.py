@@ -5,7 +5,7 @@ Gera um vídeo (MP4) com um slide inicial de resumo (resumo_total.json)
 seguido dos slides por incêndio (incendios_gt90.json). Usa ícones PNG em emojis/.
 Alterações: ordena os incêndios por operacionais (descendente) e aumenta o
 espaçamento entre "Resumo Geral" e "Última atualização".
-Mostra imagem lateral inc_<id>.png quando existir (sem indicar no rodapé).
+Mostra imagem inc_<id>.png em frame separado quando existir.
 """
 
 import os
@@ -398,7 +398,6 @@ def create_incident_slide(rec: Dict[str, Any], size=IMG_SIZE) -> np.ndarray:
     """
     Cria slide para um registo de incêndio.
     Mostra o nome numa linha e o estado (status) numa linha abaixo, com o status um pouco menor.
-    Tenta inserir inc_<id>.png à direita do bloco se houver espaço.
     """
     w, h = size
     img = Image.new("RGBA", (w, h), BACKGROUND_COLOR + (255,))
@@ -486,31 +485,6 @@ def create_incident_slide(rec: Dict[str, Any], size=IMG_SIZE) -> np.ndarray:
     block_x = center_x - block_w // 2
     block_y = center_y - block_h // 2
 
-    # inserir imagem lateral inc_<id>.png se houver e couber
-    map_img_path = map_image_path_for_id(inc_id)
-    if map_img_path and os.path.isfile(map_img_path):
-        try:
-            side = Image.open(map_img_path).convert("RGBA")
-            available_right = w - (block_x + block_w) - 40
-            desired_max_w = int(w * 0.28)
-            side_max_w = min(desired_max_w, available_right) if available_right > 120 else 0
-            if side_max_w > 50:
-                ratio = side_max_w / side.width
-                new_h = int(side.height * ratio)
-                side_resized = side.resize((side_max_w, new_h), Image.LANCZOS)
-                paste_x = block_x + block_w + 30
-                paste_y = block_y
-                if paste_y + new_h > h - 80:
-                    paste_y = max(40, h - new_h - 80)
-                try:
-                    img.paste(side_resized, (paste_x, paste_y), side_resized)
-                except Exception:
-                    img.paste(side_resized.convert("RGB"), (paste_x, paste_y))
-                draw.rectangle([paste_x-2, paste_y-2, paste_x+side_max_w+2, paste_y+new_h+2], outline=(60,60,60))
-        except Exception as e:
-            if VERBOSE:
-                print("  ⚠️ Erro a abrir/inserir imagem lateral:", e)
-
     # ícone fire à esquerda
     fire_icon = load_icon_img("fire", target_height=180)
     if fire_icon:
@@ -551,6 +525,66 @@ def create_incident_slide(rec: Dict[str, Any], size=IMG_SIZE) -> np.ndarray:
         y += line_h + spacing_between_lines
 
     # rodapé (apenas tempo)
+    draw.text((40, h - 48), f"Tempo: {tempo}", font=font_small, fill=FOOTER_COLOR)
+
+    final = img.convert("RGB")
+    return np.asarray(final)
+
+def create_image_slide(image_path: str, rec: Dict[str, Any], size=IMG_SIZE) -> np.ndarray:
+    """
+    Cria um slide separado apenas com a imagem do incêndio.
+    """
+    w, h = size
+    img = Image.new("RGBA", (w, h), BACKGROUND_COLOR + (255,))
+    draw = ImageDraw.Draw(img)
+
+    # fontes
+    try:
+        if FONT_TEXT_PATH:
+            font_title = ImageFont.truetype(FONT_TEXT_PATH, 48)
+            font_small = ImageFont.truetype(FONT_TEXT_PATH, 28)
+        else:
+            font_title = ImageFont.load_default()
+            font_small = ImageFont.load_default()
+    except Exception:
+        font_title = ImageFont.load_default()
+        font_small = ImageFont.load_default()
+
+    # carregar e redimensionar imagem
+    try:
+        side = Image.open(image_path).convert("RGBA")
+        max_width = int(w * 0.8)
+        max_height = int(h * 0.7)
+        ratio = min(max_width / side.width, max_height / side.height)
+        new_w = int(side.width * ratio)
+        new_h = int(side.height * ratio)
+        side_resized = side.resize((new_w, new_h), Image.LANCZOS)
+    except Exception as e:
+        if VERBOSE:
+            print(f"  ⚠️ Erro a processar imagem {image_path}: {e}")
+        return np.asarray(img.convert("RGB"))
+
+    # centralizar imagem
+    img_x = (w - new_w) // 2
+    img_y = (h - new_h) // 2
+
+    # adicionar título
+    name = safe_get_name(rec)
+    title = f"Mapa: {name}"
+    t_bbox = draw.textbbox((0, 0), title, font=font_title)
+    t_w = t_bbox[2] - t_bbox[0]
+    t_x = (w - t_w) // 2
+    t_y = img_y - 60
+    draw.text((t_x, t_y), title, font=font_title, fill=TEXT_COLOR)
+
+    # colocar imagem
+    try:
+        img.paste(side_resized, (img_x, img_y), side_resized)
+    except Exception:
+        img.paste(side_resized.convert("RGB"), (img_x, img_y))
+
+    # rodapé com tempo
+    tempo = safe_get_time(rec)
     draw.text((40, h - 48), f"Tempo: {tempo}", font=font_small, fill=FOOTER_COLOR)
 
     final = img.convert("RGB")
@@ -622,9 +656,20 @@ def main():
         inc_id_log = safe_get_incident_id(rec) or rec.get("id", "?")
         if VERBOSE:
             print(f"[{idx}/{len(incidents)}] criar slide para id={inc_id_log}")
+
+        # Slide de informação do incêndio
         slide_img = create_incident_slide(rec, size=IMG_SIZE)
         frames = make_frames_for_slide(slide_img, fps=FPS, dur_hold=DURATION_HOLD, dur_fade=DURATION_FADE)
         all_frames.extend(frames)
+
+        # Slide com imagem (se existir)
+        map_img_path = map_image_path_for_id(inc_id_log)
+        if map_img_path and os.path.isfile(map_img_path):
+            if VERBOSE:
+                print(f"  -> criar slide de imagem: {map_img_path}")
+            img_slide = create_image_slide(map_img_path, rec, size=IMG_SIZE)
+            img_frames = make_frames_for_slide(img_slide, fps=FPS, dur_hold=DURATION_HOLD, dur_fade=DURATION_FADE)
+            all_frames.extend(img_frames)
 
     # escrever vídeo
     if not all_frames:
