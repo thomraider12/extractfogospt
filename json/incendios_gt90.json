@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-08-23T20:51:25+00:00",
+  "atualizado_em": "2025-08-23T21:16:11+00:00",
   "criterio": "> 90 operacionais",
-  "total": 3,
+  "total": 2,
   "incendios": [
     {
       "id": "20251075979",
@@ -21,23 +21,6 @@
       "kml_file": "kml/20251075979_AOI_PIODAO_21082025_00h00.kml.kml"
     },
     {
-      "id": "20251089787",
-      "data_inicio": "15-08-2025 13:41",
-      "concelho": "Sabugal",
-      "freguesia": "Sabugal E Aldeia De Santo António",
-      "distrito": "Guarda",
-      "status": "Em Resolução",
-      "latitude": 40.34023,
-      "longitude": -7.125037,
-      "operacionais": 91,
-      "terrestres": 30,
-      "aereos": 0,
-      "area_km2": 525.818304,
-      "tem_kml": true,
-      "kml_source": "kmlVost",
-      "kml_file": "kml/20251089787_Área_de_interesse.kml"
-    },
-    {
       "id": "20251130320",
       "data_inicio": "23-08-2025 13:27",
       "concelho": "Pedrógão Grande",
@@ -46,9 +29,9 @@
       "status": "Em Curso",
       "latitude": 39.9136,
       "longitude": -8.15364,
-      "operacionais": 920,
-      "terrestres": 290,
-      "aereos": 1,
+      "operacionais": 912,
+      "terrestres": 289,
+      "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
