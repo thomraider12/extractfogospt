@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-08-23T07:50:53+00:00",
+  "atualizado_em": "2025-08-23T08:22:17+00:00",
   "criterio": "> 90 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251075979",
@@ -13,8 +13,8 @@
       "latitude": 40.23083,
       "longitude": -7.81972,
       "operacionais": 1531,
-      "terrestres": 518,
-      "aereos": 13,
+      "terrestres": 517,
+      "aereos": 15,
       "area_km2": 1941.214845,
       "tem_kml": true,
       "kml_source": "kmlVost",
@@ -36,23 +36,6 @@
       "tem_kml": true,
       "kml_source": "kmlVost",
       "kml_file": "kml/20251089787_Área_de_interesse.kml"
-    },
-    {
-      "id": "20251104135",
-      "data_inicio": "18-08-2025 09:25",
-      "concelho": "Montalegre",
-      "freguesia": "Vilar De Perdizes E Meixide",
-      "distrito": "Vila Real",
-      "status": "Conclusão",
-      "latitude": 41.880008,
-      "longitude": -7.63634,
-      "operacionais": 97,
-      "terrestres": 24,
-      "aereos": 0,
-      "area_km2": 362.389471,
-      "tem_kml": true,
-      "kml_source": "kmlVost",
-      "kml_file": "kml/20251104135_AOI_VilarDePerdizes_19082025_1424.kml.kml"
     },
     {
       "id": "20251115714",
@@ -80,8 +63,8 @@
       "status": "Em Resolução",
       "latitude": 40.956183,
       "longitude": -7.767003,
-      "operacionais": 108,
-      "terrestres": 32,
+      "operacionais": 96,
+      "terrestres": 29,
       "aereos": 5,
       "area_km2": null,
       "tem_kml": false,
