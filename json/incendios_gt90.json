@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-08-25T17:32:50+00:00",
+  "atualizado_em": "2025-08-25T17:50:58+00:00",
   "criterio": "> 90 operacionais",
-  "total": 3,
+  "total": 4,
   "incendios": [
     {
       "id": "20251075979",
@@ -46,9 +46,26 @@
       "status": "Em Resolução",
       "latitude": 41.23664,
       "longitude": -7.640418,
-      "operacionais": 165,
-      "terrestres": 49,
+      "operacionais": 135,
+      "terrestres": 40,
       "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251140551",
+      "data_inicio": "25-08-2025 16:20",
+      "concelho": "Montalegre",
+      "freguesia": "Viade De Baixo E Fervidelas",
+      "distrito": "Vila Real",
+      "status": "Em Curso",
+      "latitude": 41.725298,
+      "longitude": -7.860477,
+      "operacionais": 93,
+      "terrestres": 20,
+      "aereos": 8,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
