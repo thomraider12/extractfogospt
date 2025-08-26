@@ -1,7 +1,7 @@
 {
-    "man": 65,
+    "man": 69,
     "terrain": 18,
-    "aerial": 0,
+    "aerial": 1,
     "total_incendios": 1,
-    "ultima_atualizacao": "07:42"
+    "ultima_atualizacao": "08:06"
 }
