@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-08-27T09:51:13+00:00",
+  "atualizado_em": "2025-08-27T10:19:32+00:00",
   "criterio": "> 90 operacionais",
-  "total": 3,
+  "total": 4,
   "incendios": [
     {
       "id": "20251075979",
@@ -46,9 +46,26 @@
       "status": "Em Resolução",
       "latitude": 41.863728,
       "longitude": -8.345968,
-      "operacionais": 101,
+      "operacionais": 100,
       "terrestres": 33,
       "aereos": 3,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251147995",
+      "data_inicio": "27-08-2025 08:44",
+      "concelho": "Portimão",
+      "freguesia": "Mexilhoeira Grande",
+      "distrito": "Faro",
+      "status": "Em Resolução",
+      "latitude": 37.241295,
+      "longitude": -8.610917,
+      "operacionais": 91,
+      "terrestres": 28,
+      "aereos": 6,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
