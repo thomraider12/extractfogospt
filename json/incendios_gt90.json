@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-08-27T12:38:46+00:00",
+  "atualizado_em": "2025-08-27T13:16:46+00:00",
   "criterio": "> 90 operacionais",
-  "total": 3,
+  "total": 2,
   "incendios": [
     {
       "id": "20251075979",
@@ -29,26 +29,9 @@
       "status": "Vigilância",
       "latitude": 39.9136,
       "longitude": -8.15364,
-      "operacionais": 98,
-      "terrestres": 30,
+      "operacionais": 100,
+      "terrestres": 31,
       "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251145018",
-      "data_inicio": "26-08-2025 14:32",
-      "concelho": "Arcos De Valdevez",
-      "freguesia": "Vale",
-      "distrito": "Viana Do Castelo",
-      "status": "Em Resolução",
-      "latitude": 41.863728,
-      "longitude": -8.345968,
-      "operacionais": 97,
-      "terrestres": 33,
-      "aereos": 1,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
