@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-08-28T20:52:00+00:00",
+  "atualizado_em": "2025-08-28T21:16:55+00:00",
   "criterio": "> 90 operacionais",
-  "total": 3,
+  "total": 2,
   "incendios": [
     {
       "id": "20251075979",
@@ -29,30 +29,13 @@
       "status": "Em Curso",
       "latitude": 41.765422,
       "longitude": -7.134773,
-      "operacionais": 364,
-      "terrestres": 123,
+      "operacionais": 366,
+      "terrestres": 124,
       "aereos": 0,
       "area_km2": 17.892118,
       "tem_kml": true,
       "kml_source": "kmlVost",
       "kml_file": "kml/20251153335_ÁREA_DE_INTERESSE.kml"
-    },
-    {
-      "id": "20251154385",
-      "data_inicio": "28-08-2025 13:36",
-      "concelho": "Aveiro",
-      "freguesia": "Requeixo, Nossa Senhora De Fátima E Nariz",
-      "distrito": "Aveiro",
-      "status": "Conclusão",
-      "latitude": 40.599955,
-      "longitude": -8.555615,
-      "operacionais": 97,
-      "terrestres": 28,
-      "aereos": 0,
-      "area_km2": 3.168013,
-      "tem_kml": true,
-      "kml_source": "kmlVost",
-      "kml_file": "kml/20251154385_ÁREA_DE_INTERESSE.kml"
     }
   ]
 }
