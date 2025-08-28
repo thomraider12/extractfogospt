@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-08-28T18:49:39+00:00",
+  "atualizado_em": "2025-08-28T19:15:51+00:00",
   "criterio": "> 90 operacionais",
-  "total": 4,
+  "total": 3,
   "incendios": [
     {
       "id": "20251075979",
@@ -29,9 +29,9 @@
       "status": "Em Curso",
       "latitude": 41.765422,
       "longitude": -7.134773,
-      "operacionais": 363,
+      "operacionais": 351,
       "terrestres": 116,
-      "aereos": 4,
+      "aereos": 0,
       "area_km2": 17.892118,
       "tem_kml": true,
       "kml_source": "kmlVost",
@@ -53,23 +53,6 @@
       "tem_kml": true,
       "kml_source": "kmlVost",
       "kml_file": "kml/20251154385_ÁREA_DE_INTERESSE.kml"
-    },
-    {
-      "id": "20251154561",
-      "data_inicio": "28-08-2025 14:09",
-      "concelho": "Mangualde",
-      "freguesia": "Moimenta De Maceira Dão E Lobelhe Do Mato",
-      "distrito": "Viseu",
-      "status": "Conclusão",
-      "latitude": 40.578377,
-      "longitude": -7.835496,
-      "operacionais": 103,
-      "terrestres": 33,
-      "aereos": 0,
-      "area_km2": 4.03651,
-      "tem_kml": true,
-      "kml_source": "kmlVost",
-      "kml_file": "kml/20251154561_ÁREA_DE_INTERESSE.kml"
     }
   ]
 }
