@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-08-28T11:50:42+00:00",
+  "atualizado_em": "2025-08-28T12:38:21+00:00",
   "criterio": "> 90 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20251075979",
@@ -12,13 +12,30 @@
       "status": "Vigilância",
       "latitude": 40.23083,
       "longitude": -7.81972,
-      "operacionais": 128,
-      "terrestres": 41,
+      "operacionais": 127,
+      "terrestres": 40,
       "aereos": 0,
       "area_km2": 1941.214845,
       "tem_kml": true,
       "kml_source": "kmlVost",
       "kml_file": "kml/20251075979_AOI_PIODAO_21082025_00h00.kml.kml"
+    },
+    {
+      "id": "20251153335",
+      "data_inicio": "28-08-2025 10:08",
+      "concelho": "Vinhais",
+      "freguesia": "Rebordelo",
+      "distrito": "Bragança",
+      "status": "Em Curso",
+      "latitude": 41.765422,
+      "longitude": -7.134773,
+      "operacionais": 101,
+      "terrestres": 28,
+      "aereos": 6,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
     }
   ]
 }
