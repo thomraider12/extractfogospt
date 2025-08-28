@@ -1,0 +1,13 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark>
+<name>ÁREA DE INTERESSE</name><description>Área de Interesse calculada com base em dados COPERNICUS-EMS e dados abertos recolhidos pela equipa da VOSTPT. Atualização às 15h30 de 28-08-2025</description>
+<ExtendedData></ExtendedData>
+  <Polygon>
+<outerBoundaryIs>
+  <LinearRing><coordinates>-7.828957030675923,40.55906286418812
+-7.8263170311345505,40.550707143290566
+-7.818835801898302,40.548114048470694
+-7.807729602104786,40.55204362817321
+-7.8047091143414775,40.558895769757555
+-7.817684727184201,40.56357426788469
+-7.828957030675923,40.55906286418812</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>

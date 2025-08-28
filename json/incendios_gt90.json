@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-08-28T14:43:44+00:00",
+  "atualizado_em": "2025-08-28T14:55:52+00:00",
   "criterio": "> 90 operacionais",
   "total": 4,
   "incendios": [
@@ -30,8 +30,8 @@
       "latitude": 41.765422,
       "longitude": -7.134773,
       "operacionais": 213,
-      "terrestres": 60,
-      "aereos": 11,
+      "terrestres": 62,
+      "aereos": 9,
       "area_km2": 17.892118,
       "tem_kml": true,
       "kml_source": "kmlVost",
@@ -46,13 +46,13 @@
       "status": "Em Curso",
       "latitude": 40.59406,
       "longitude": -8.56064,
-      "operacionais": 109,
-      "terrestres": 30,
+      "operacionais": 111,
+      "terrestres": 31,
       "aereos": 3,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
+      "area_km2": 3.168013,
+      "tem_kml": true,
+      "kml_source": "kmlVost",
+      "kml_file": "kml/20251154385_ÁREA_DE_INTERESSE.kml"
     },
     {
       "id": "20251154561",
@@ -63,13 +63,13 @@
       "status": "Em Curso",
       "latitude": 40.56057,
       "longitude": -7.825,
-      "operacionais": 113,
-      "terrestres": 23,
+      "operacionais": 119,
+      "terrestres": 25,
       "aereos": 6,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
+      "area_km2": 4.03651,
+      "tem_kml": true,
+      "kml_source": "kmlVost",
+      "kml_file": "kml/20251154561_ÁREA_DE_INTERESSE.kml"
     }
   ]
 }
