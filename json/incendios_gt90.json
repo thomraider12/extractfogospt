@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-08-29T15:38:38+00:00",
+  "atualizado_em": "2025-08-29T15:50:50+00:00",
   "criterio": "> 90 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20251153335",
@@ -12,13 +12,30 @@
       "status": "Em Curso",
       "latitude": 41.765422,
       "longitude": -7.134773,
-      "operacionais": 487,
-      "terrestres": 156,
+      "operacionais": 494,
+      "terrestres": 157,
       "aereos": 14,
       "area_km2": 17.892118,
       "tem_kml": true,
       "kml_source": "kmlVost",
       "kml_file": "kml/20251153335_ÁREA_DE_INTERESSE.kml"
+    },
+    {
+      "id": "20251159353",
+      "data_inicio": "29-08-2025 14:44",
+      "concelho": "Idanha-a-nova",
+      "freguesia": "Zebreira E Segura",
+      "distrito": "Castelo Branco",
+      "status": "Em Resolução",
+      "latitude": 39.854388,
+      "longitude": -7.044543,
+      "operacionais": 93,
+      "terrestres": 24,
+      "aereos": 5,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
     }
   ]
 }
