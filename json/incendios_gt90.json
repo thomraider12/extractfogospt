@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-08-29T17:50:45+00:00",
+  "atualizado_em": "2025-08-29T18:24:26+00:00",
   "criterio": "> 90 operacionais",
-  "total": 2,
+  "total": 1,
   "incendios": [
     {
       "id": "20251153335",
@@ -12,30 +12,13 @@
       "status": "Em Curso",
       "latitude": 41.765422,
       "longitude": -7.134773,
-      "operacionais": 482,
-      "terrestres": 157,
-      "aereos": 7,
+      "operacionais": 476,
+      "terrestres": 158,
+      "aereos": 2,
       "area_km2": 17.892118,
       "tem_kml": true,
       "kml_source": "kmlVost",
       "kml_file": "kml/20251153335_ÁREA_DE_INTERESSE.kml"
-    },
-    {
-      "id": "20251159952",
-      "data_inicio": "29-08-2025 16:53",
-      "concelho": "Vila Velha De Ródão",
-      "freguesia": "Sarnadas De Ródão",
-      "distrito": "Castelo Branco",
-      "status": "Em Resolução",
-      "latitude": 39.743723,
-      "longitude": -7.618993,
-      "operacionais": 102,
-      "terrestres": 26,
-      "aereos": 6,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
     }
   ]
 }
