@@ -1,8 +1,25 @@
 {
-  "atualizado_em": "2025-08-29T15:50:50+00:00",
+  "atualizado_em": "2025-08-29T16:23:27+00:00",
   "criterio": "> 90 operacionais",
   "total": 2,
   "incendios": [
+    {
+      "id": "20251075979",
+      "data_inicio": "13-08-2025 04:08",
+      "concelho": "Arganil",
+      "freguesia": "Piódão",
+      "distrito": "Coimbra",
+      "status": "Vigilância",
+      "latitude": 40.23083,
+      "longitude": -7.81972,
+      "operacionais": 95,
+      "terrestres": 29,
+      "aereos": 0,
+      "area_km2": 1941.214845,
+      "tem_kml": true,
+      "kml_source": "kmlVost",
+      "kml_file": "kml/20251075979_AOI_PIODAO_21082025_00h00.kml.kml"
+    },
     {
       "id": "20251153335",
       "data_inicio": "28-08-2025 10:08",
@@ -19,23 +36,6 @@
       "tem_kml": true,
       "kml_source": "kmlVost",
       "kml_file": "kml/20251153335_ÁREA_DE_INTERESSE.kml"
-    },
-    {
-      "id": "20251159353",
-      "data_inicio": "29-08-2025 14:44",
-      "concelho": "Idanha-a-nova",
-      "freguesia": "Zebreira E Segura",
-      "distrito": "Castelo Branco",
-      "status": "Em Resolução",
-      "latitude": 39.854388,
-      "longitude": -7.044543,
-      "operacionais": 93,
-      "terrestres": 24,
-      "aereos": 5,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
     }
   ]
 }
