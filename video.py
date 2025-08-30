@@ -631,7 +631,7 @@ def main():
     filtered = []
     for rec in incidents:
         oper = safe_get_int(rec, ["operacionais", "man", "oper"])
-        if oper > 90:
+        if oper > 1:
             filtered.append(rec)
 
     # ordenar por operacionais desc (mais operacionais primeiro)
