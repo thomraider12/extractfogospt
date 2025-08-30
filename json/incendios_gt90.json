@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-08-30T19:13:30+00:00",
+  "atualizado_em": "2025-08-30T19:24:59+00:00",
   "criterio": "> 1 operacionais",
-  "total": 14,
+  "total": 13,
   "incendios": [
     {
       "id": "20251075979",
@@ -208,23 +208,6 @@
       "kml_file": null
     },
     {
-      "id": "20251164941",
-      "data_inicio": "30-08-2025 18:58",
-      "concelho": "Coimbra",
-      "freguesia": "Santa Clara E Castelo Viegas",
-      "distrito": "Coimbra",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 40.191983,
-      "longitude": -8.450184,
-      "operacionais": 17,
-      "terrestres": 4,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251164961",
       "data_inicio": "30-08-2025 19:03",
       "concelho": "Palmela",
@@ -233,8 +216,8 @@
       "status": "Despacho de 1º Alerta",
       "latitude": 38.56794,
       "longitude": -8.89901,
-      "operacionais": 13,
-      "terrestres": 3,
+      "operacionais": 22,
+      "terrestres": 5,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
