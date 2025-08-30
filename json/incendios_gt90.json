@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-08-30T06:24:22+00:00",
+  "atualizado_em": "2025-08-30T06:45:06+00:00",
   "criterio": "> 90 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Vinhais",
       "freguesia": "Rebordelo",
       "distrito": "Bragança",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.765422,
       "longitude": -7.134773,
       "operacionais": 421,
