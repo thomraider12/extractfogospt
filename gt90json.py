@@ -28,7 +28,7 @@ API_URL = "https://api-dev.fogos.pt/new/fires"
 OUTPUT_JSON = "json/incendios_gt90.json"
 KML_DIR = "kml"
 TIMEOUT = 15
-MIN_OPERACIONAIS = 90  # critério: estritamente > 90
+MIN_OPERACIONAIS = 1  # critério: estritamente > 1
 
 # ---- HEADERS / SESSION -------------------------------------------------------
 DEFAULT_HEADERS = {
