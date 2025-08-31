@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-08-31T18:55:24+00:00",
+  "atualizado_em": "2025-08-31T19:13:52+00:00",
   "criterio": "> 1 operacionais",
   "total": 9,
   "incendios": [
@@ -114,8 +114,8 @@
       "status": "Vigilância",
       "latitude": 41.765422,
       "longitude": -7.134773,
-      "operacionais": 38,
-      "terrestres": 14,
+      "operacionais": 33,
+      "terrestres": 13,
       "aereos": 0,
       "area_km2": 17.892118,
       "tem_kml": true,
@@ -145,7 +145,7 @@
       "concelho": "Maia",
       "freguesia": "Nogueira E Silva Escura",
       "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 41.245601,
       "longitude": -8.583457,
       "operacionais": 2,
