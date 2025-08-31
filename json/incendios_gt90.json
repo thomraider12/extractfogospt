@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-08-31T05:17:05+00:00",
+  "atualizado_em": "2025-08-31T05:39:11+00:00",
   "criterio": "> 1 operacionais",
-  "total": 14,
+  "total": 13,
   "incendios": [
     {
       "id": "20251075979",
@@ -191,31 +191,14 @@
       "kml_file": null
     },
     {
-      "id": "20251166114",
-      "data_inicio": "31-08-2025 04:01",
-      "concelho": "Bragança",
-      "freguesia": "Rio Frio E Milhão",
-      "distrito": "Bragança",
-      "status": "Conclusão",
-      "latitude": 41.714597,
-      "longitude": -6.610063,
-      "operacionais": 9,
-      "terrestres": 4,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251166136",
       "data_inicio": "31-08-2025 04:08",
       "concelho": "Lourinhã",
       "freguesia": "Lourinhã E Atalaia",
       "distrito": "Lisboa",
       "status": "Em Resolução",
-      "latitude": 39.244365,
-      "longitude": -9.311131,
+      "latitude": 39.245972,
+      "longitude": -9.306654,
       "operacionais": 15,
       "terrestres": 5,
       "aereos": 0,
