@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-08-31T23:37:31+00:00",
+  "atualizado_em": "2025-08-31T23:50:40+00:00",
   "criterio": "> 1 operacionais",
-  "total": 8,
+  "total": 9,
   "incendios": [
     {
       "id": "20251075979",
@@ -131,8 +131,25 @@
       "status": "Despacho de 1º Alerta",
       "latitude": 38.789047,
       "longitude": -8.381612,
-      "operacionais": 16,
-      "terrestres": 5,
+      "operacionais": 11,
+      "terrestres": 4,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251169678",
+      "data_inicio": "31-08-2025 23:26",
+      "concelho": "Figueira De Castelo Rodrigo",
+      "freguesia": "Castelo Rodrigo",
+      "distrito": "Guarda",
+      "status": "Conclusão",
+      "latitude": 40.86947,
+      "longitude": -6.919915,
+      "operacionais": 12,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
