@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-08-31T09:16:45+00:00",
+  "atualizado_em": "2025-08-31T09:36:54+00:00",
   "criterio": "> 1 operacionais",
-  "total": 11,
+  "total": 9,
   "incendios": [
     {
       "id": "20251075979",
@@ -97,8 +97,8 @@
       "status": "Vigilância",
       "latitude": 41.765422,
       "longitude": -7.134773,
-      "operacionais": 154,
-      "terrestres": 52,
+      "operacionais": 137,
+      "terrestres": 45,
       "aereos": 0,
       "area_km2": 17.892118,
       "tem_kml": true,
@@ -140,23 +140,6 @@
       "kml_file": null
     },
     {
-      "id": "20251166546",
-      "data_inicio": "31-08-2025 07:53",
-      "concelho": "Loulé",
-      "freguesia": "Loulé (São Sebastião)",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.15589,
-      "longitude": -8.064314,
-      "operacionais": 12,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251166704",
       "data_inicio": "31-08-2025 08:29",
       "concelho": "Montijo",
@@ -167,23 +150,6 @@
       "longitude": -8.6863,
       "operacionais": 17,
       "terrestres": 4,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251166799",
-      "data_inicio": "31-08-2025 08:59",
-      "concelho": "Bombarral",
-      "freguesia": "Roliça",
-      "distrito": "Leiria",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 39.29847,
-      "longitude": -9.162941,
-      "operacionais": 7,
-      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
