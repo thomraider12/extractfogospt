@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-08-31T17:41:42+00:00",
+  "atualizado_em": "2025-08-31T17:52:03+00:00",
   "criterio": "> 1 operacionais",
   "total": 7,
   "incendios": [
@@ -111,7 +111,7 @@
       "concelho": "Anadia",
       "freguesia": "São Lourenço Do Bairro",
       "distrito": "Aveiro",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 40.45396,
       "longitude": -8.479709,
       "operacionais": 20,
