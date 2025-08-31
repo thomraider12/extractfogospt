@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-08-31T21:36:39+00:00",
+  "atualizado_em": "2025-08-31T21:50:45+00:00",
   "criterio": "> 1 operacionais",
   "total": 10,
   "incendios": [
@@ -162,7 +162,7 @@
       "concelho": "Murtosa",
       "freguesia": "Bunheiro",
       "distrito": "Aveiro",
-      "status": "Chegada ao TO",
+      "status": "Em Resolução",
       "latitude": 40.761174,
       "longitude": -8.676712,
       "operacionais": 5,
