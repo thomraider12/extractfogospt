@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-08-31T11:13:50+00:00",
+  "atualizado_em": "2025-08-31T11:25:58+00:00",
   "criterio": "> 1 operacionais",
-  "total": 7,
+  "total": 8,
   "incendios": [
     {
       "id": "20251075979",
@@ -117,6 +117,23 @@
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251167349",
+      "data_inicio": "31-08-2025 11:15",
+      "concelho": "Olhão",
+      "freguesia": "Moncarapacho E Fuseta",
+      "distrito": "Faro",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 37.08386,
+      "longitude": -7.78799,
+      "operacionais": 6,
+      "terrestres": 1,
+      "aereos": 1,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
