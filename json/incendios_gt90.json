@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-08-31T02:54:35+00:00",
+  "atualizado_em": "2025-08-31T03:36:50+00:00",
   "criterio": "> 1 operacionais",
   "total": 12,
   "incendios": [
@@ -196,7 +196,7 @@
       "concelho": "Amarante",
       "freguesia": "Amarante (São Gonçalo), Madalena, Cepelos E Gatão",
       "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 41.2544,
       "longitude": -8.07782,
       "operacionais": 5,
