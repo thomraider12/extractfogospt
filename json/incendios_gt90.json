@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-08-31T07:16:44+00:00",
+  "atualizado_em": "2025-08-31T07:36:46+00:00",
   "criterio": "> 1 operacionais",
   "total": 11,
   "incendios": [
@@ -179,7 +179,7 @@
       "concelho": "Caldas Da Rainha",
       "freguesia": "Nossa Senhora Do Pópulo, Coto E São Gregório",
       "distrito": "Leiria",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 39.403882,
       "longitude": -9.106006,
       "operacionais": 5,
