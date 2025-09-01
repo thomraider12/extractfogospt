@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-01T19:26:11+00:00",
+  "atualizado_em": "2025-09-01T19:38:25+00:00",
   "criterio": "> 1 operacionais",
-  "total": 10,
+  "total": 9,
   "incendios": [
     {
       "id": "20251075979",
@@ -63,8 +63,8 @@
       "status": "Conclusão",
       "latitude": 41.805473,
       "longitude": -7.570508,
-      "operacionais": 69,
-      "terrestres": 22,
+      "operacionais": 66,
+      "terrestres": 20,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -106,23 +106,6 @@
       "kml_file": null
     },
     {
-      "id": "20251173526",
-      "data_inicio": "01-09-2025 18:15",
-      "concelho": "Estarreja",
-      "freguesia": "Canelas E Fermelã",
-      "distrito": "Aveiro",
-      "status": "Conclusão",
-      "latitude": 40.713252,
-      "longitude": -8.575435,
-      "operacionais": 14,
-      "terrestres": 4,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251173547",
       "data_inicio": "01-09-2025 18:19",
       "concelho": "Mira",
@@ -145,7 +128,7 @@
       "concelho": "Viseu",
       "freguesia": "Cavernães",
       "distrito": "Viseu",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 40.708058,
       "longitude": -7.838472,
       "operacionais": 18,
@@ -162,7 +145,7 @@
       "concelho": "Vila Nova De Cerveira",
       "freguesia": "Cornes",
       "distrito": "Viana Do Castelo",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 41.955083,
       "longitude": -8.679523,
       "operacionais": 5,
