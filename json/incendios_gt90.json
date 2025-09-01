@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-01T06:57:25+00:00",
+  "atualizado_em": "2025-09-01T07:24:21+00:00",
   "criterio": "> 1 operacionais",
-  "total": 7,
+  "total": 6,
   "incendios": [
     {
       "id": "20251075979",
@@ -98,23 +98,6 @@
       "latitude": 38.912402,
       "longitude": -9.030557,
       "operacionais": 16,
-      "terrestres": 5,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251170171",
-      "data_inicio": "01-09-2025 06:19",
-      "concelho": "Mirandela",
-      "freguesia": "São Salvador",
-      "distrito": "Bragança",
-      "status": "Em Resolução",
-      "latitude": 41.42485,
-      "longitude": -7.160325,
-      "operacionais": 21,
       "terrestres": 5,
       "aereos": 0,
       "area_km2": null,
