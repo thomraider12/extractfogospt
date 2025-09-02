@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-02T20:19:10+00:00",
+  "atualizado_em": "2025-09-02T20:38:00+00:00",
   "criterio": "> 1 operacionais",
-  "total": 7,
+  "total": 6,
   "incendios": [
     {
       "id": "20251075979",
@@ -46,8 +46,8 @@
       "status": "Vigilância",
       "latitude": 41.08768,
       "longitude": -8.279413,
-      "operacionais": 16,
-      "terrestres": 4,
+      "operacionais": 11,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -72,29 +72,12 @@
       "kml_file": null
     },
     {
-      "id": "20251178275",
-      "data_inicio": "02-09-2025 19:06",
-      "concelho": "Maia",
-      "freguesia": "Águas Santas",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.22034,
-      "longitude": -8.56379,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251178377",
       "data_inicio": "02-09-2025 19:33",
       "concelho": "Sernancelhe",
       "freguesia": "Fonte Arcada E Escurquela",
       "distrito": "Viseu",
-      "status": "Chegada ao TO",
+      "status": "Em Resolução",
       "latitude": 40.9709,
       "longitude": -7.531557,
       "operacionais": 22,
