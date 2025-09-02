@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-02T15:19:57+00:00",
+  "atualizado_em": "2025-09-02T15:41:59+00:00",
   "criterio": "> 1 operacionais",
-  "total": 7,
+  "total": 6,
   "incendios": [
     {
       "id": "20251075979",
@@ -72,23 +72,6 @@
       "kml_file": null
     },
     {
-      "id": "20251176725",
-      "data_inicio": "02-09-2025 12:56",
-      "concelho": "Moita",
-      "freguesia": "Alhos Vedros",
-      "distrito": "Setúbal",
-      "status": "Conclusão",
-      "latitude": 38.650197,
-      "longitude": -9.027205,
-      "operacionais": 18,
-      "terrestres": 7,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251176865",
       "data_inicio": "02-09-2025 13:21",
       "concelho": "Cinfães",
@@ -106,16 +89,16 @@
       "kml_file": null
     },
     {
-      "id": "20251177062",
-      "data_inicio": "02-09-2025 13:59",
-      "concelho": "Albufeira",
-      "freguesia": "Albufeira E Olhos De Água",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.101659,
-      "longitude": -8.229809,
-      "operacionais": 14,
-      "terrestres": 5,
+      "id": "20251177503",
+      "data_inicio": "02-09-2025 15:37",
+      "concelho": "Aveiro",
+      "freguesia": "Glória E Vera Cruz",
+      "distrito": "Aveiro",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 40.645992,
+      "longitude": -8.659223,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
