@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-02T21:39:56+00:00",
+  "atualizado_em": "2025-09-02T21:50:51+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251075979",
@@ -48,23 +48,6 @@
       "longitude": -8.456536,
       "operacionais": 7,
       "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251178568",
-      "data_inicio": "02-09-2025 20:29",
-      "concelho": "Tavira",
-      "freguesia": "Tavira (santa Maria E Santiago)",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.130442,
-      "longitude": -7.64691,
-      "operacionais": 11,
-      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
