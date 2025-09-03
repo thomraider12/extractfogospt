@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-03T04:52:48+00:00",
+  "atualizado_em": "2025-09-03T05:16:59+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -38,16 +38,16 @@
       "kml_file": null
     },
     {
-      "id": "20251179115",
-      "data_inicio": "03-09-2025 00:56",
-      "concelho": "Sernancelhe",
-      "freguesia": "Fonte Arcada E Escurquela",
-      "distrito": "Viseu",
-      "status": "Conclusão",
-      "latitude": 40.96848,
-      "longitude": -7.51957,
-      "operacionais": 9,
-      "terrestres": 3,
+      "id": "20251179295",
+      "data_inicio": "03-09-2025 04:46",
+      "concelho": "Palmela",
+      "freguesia": "Poceirão E Marateca",
+      "distrito": "Setúbal",
+      "status": "Em Curso",
+      "latitude": 38.65337,
+      "longitude": -8.718724,
+      "operacionais": 7,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
