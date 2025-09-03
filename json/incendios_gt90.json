@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-03T21:36:34+00:00",
+  "atualizado_em": "2025-09-03T21:51:01+00:00",
   "criterio": "> 1 operacionais",
-  "total": 7,
+  "total": 8,
   "incendios": [
     {
       "id": "20251075979",
@@ -116,6 +116,23 @@
       "longitude": -8.498907,
       "operacionais": 12,
       "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251183490",
+      "data_inicio": "03-09-2025 21:36",
+      "concelho": "Montemor-o-velho",
+      "freguesia": "Carapinheira",
+      "distrito": "Coimbra",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 40.20269,
+      "longitude": -8.655233,
+      "operacionais": 17,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
