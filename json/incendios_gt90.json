@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-03T05:51:00+00:00",
+  "atualizado_em": "2025-09-03T06:26:33+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -44,10 +44,10 @@
       "freguesia": "Santo António Dos Cavaleiros E Frielas",
       "distrito": "Lisboa",
       "status": "Em Curso",
-      "latitude": 38.828005,
-      "longitude": -9.143018,
-      "operacionais": 17,
-      "terrestres": 4,
+      "latitude": 38.812688,
+      "longitude": -9.142522,
+      "operacionais": 22,
+      "terrestres": 7,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
