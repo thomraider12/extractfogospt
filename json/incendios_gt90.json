@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-03T11:15:16+00:00",
+  "atualizado_em": "2025-09-03T11:27:51+00:00",
   "criterio": "> 1 operacionais",
   "total": 4,
   "incendios": [
@@ -55,17 +55,17 @@
       "kml_file": null
     },
     {
-      "id": "20251180444",
-      "data_inicio": "03-09-2025 09:50",
-      "concelho": "Cadaval",
-      "freguesia": "Peral",
-      "distrito": "Lisboa",
+      "id": "20251180857",
+      "data_inicio": "03-09-2025 11:15",
+      "concelho": "Mértola",
+      "freguesia": "Mértola",
+      "distrito": "Beja",
       "status": "Despacho de 1º Alerta",
-      "latitude": 39.254808,
-      "longitude": -9.051808,
-      "operacionais": 11,
+      "latitude": 37.63123,
+      "longitude": -7.70173,
+      "operacionais": 18,
       "terrestres": 4,
-      "aereos": 0,
+      "aereos": 1,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
