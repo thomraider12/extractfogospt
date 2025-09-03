@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-03T02:40:40+00:00",
+  "atualizado_em": "2025-09-03T03:17:27+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -29,8 +29,8 @@
       "status": "Vigilância",
       "latitude": 39.83745,
       "longitude": -8.673463,
-      "operacionais": 4,
-      "terrestres": 2,
+      "operacionais": 2,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -43,7 +43,7 @@
       "concelho": "Sernancelhe",
       "freguesia": "Fonte Arcada E Escurquela",
       "distrito": "Viseu",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 40.96848,
       "longitude": -7.51957,
       "operacionais": 17,
