@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-03T05:39:11+00:00",
+  "atualizado_em": "2025-09-03T05:51:00+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -43,7 +43,7 @@
       "concelho": "Loures",
       "freguesia": "Santo António Dos Cavaleiros E Frielas",
       "distrito": "Lisboa",
-      "status": "Despacho de 1º Alerta",
+      "status": "Em Curso",
       "latitude": 38.828005,
       "longitude": -9.143018,
       "operacionais": 17,
