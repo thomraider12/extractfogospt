@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-03T11:27:51+00:00",
+  "atualizado_em": "2025-09-03T11:39:52+00:00",
   "criterio": "> 1 operacionais",
   "total": 4,
   "incendios": [
@@ -60,11 +60,11 @@
       "concelho": "Mértola",
       "freguesia": "Mértola",
       "distrito": "Beja",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 37.63123,
-      "longitude": -7.70173,
-      "operacionais": 18,
-      "terrestres": 4,
+      "status": "Em Curso",
+      "latitude": 37.629365,
+      "longitude": -7.687435,
+      "operacionais": 33,
+      "terrestres": 8,
       "aereos": 1,
       "area_km2": null,
       "tem_kml": false,
