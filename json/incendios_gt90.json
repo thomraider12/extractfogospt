@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-03T09:22:11+00:00",
+  "atualizado_em": "2025-09-03T09:39:56+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 4,
   "incendios": [
     {
       "id": "20251075979",
@@ -49,6 +49,23 @@
       "operacionais": 38,
       "terrestres": 12,
       "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251180264",
+      "data_inicio": "03-09-2025 09:17",
+      "concelho": "Guarda",
+      "freguesia": "Guarda",
+      "distrito": "Guarda",
+      "status": "Em Resolução",
+      "latitude": 40.51809,
+      "longitude": -7.227158,
+      "operacionais": 23,
+      "terrestres": 4,
+      "aereos": 1,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
