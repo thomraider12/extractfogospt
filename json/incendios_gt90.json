@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-03T23:36:53+00:00",
+  "atualizado_em": "2025-09-03T23:50:58+00:00",
   "criterio": "> 1 operacionais",
-  "total": 7,
+  "total": 6,
   "incendios": [
     {
       "id": "20251075979",
@@ -72,33 +72,16 @@
       "kml_file": null
     },
     {
-      "id": "20251183588",
-      "data_inicio": "03-09-2025 22:15",
-      "concelho": "Moita",
-      "freguesia": "Alhos Vedros",
-      "distrito": "Setúbal",
-      "status": "Conclusão",
-      "latitude": 38.649192,
-      "longitude": -9.015055,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251183609",
       "data_inicio": "03-09-2025 22:26",
       "concelho": "Odemira",
       "freguesia": "São Teotónio",
       "distrito": "Beja",
-      "status": "Em Curso",
+      "status": "Conclusão",
       "latitude": 37.46709,
       "longitude": -8.731885,
-      "operacionais": 26,
-      "terrestres": 7,
+      "operacionais": 19,
+      "terrestres": 5,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
