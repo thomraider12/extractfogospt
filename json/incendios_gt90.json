@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-03T08:23:53+00:00",
+  "atualizado_em": "2025-09-03T08:45:15+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251075979",
@@ -55,29 +55,12 @@
       "kml_file": null
     },
     {
-      "id": "20251179794",
-      "data_inicio": "03-09-2025 07:54",
-      "concelho": "Fundão",
-      "freguesia": "Souto Da Casa",
-      "distrito": "Castelo Branco",
-      "status": "Em Resolução",
-      "latitude": 40.107765,
-      "longitude": -7.563058,
-      "operacionais": 23,
-      "terrestres": 4,
-      "aereos": 1,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251179897",
       "data_inicio": "03-09-2025 08:08",
       "concelho": "Sintra",
       "freguesia": "Colares",
       "distrito": "Lisboa",
-      "status": "Despacho de 1º Alerta",
+      "status": "Em Resolução",
       "latitude": 38.807058,
       "longitude": -9.438572,
       "operacionais": 7,
