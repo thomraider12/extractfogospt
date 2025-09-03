@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-03T08:56:54+00:00",
+  "atualizado_em": "2025-09-03T09:22:11+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 3,
   "incendios": [
     {
       "id": "20251075979",
@@ -48,23 +48,6 @@
       "longitude": -9.142847,
       "operacionais": 38,
       "terrestres": 12,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251179897",
-      "data_inicio": "03-09-2025 08:08",
-      "concelho": "Sintra",
-      "freguesia": "Colares",
-      "distrito": "Lisboa",
-      "status": "Em Resolução",
-      "latitude": 38.807058,
-      "longitude": -9.438572,
-      "operacionais": 7,
-      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
