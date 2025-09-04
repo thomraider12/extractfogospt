@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-04T08:23:46+00:00",
+  "atualizado_em": "2025-09-04T08:45:45+00:00",
   "criterio": "> 1 operacionais",
-  "total": 8,
+  "total": 6,
   "incendios": [
     {
       "id": "20251075979",
@@ -55,23 +55,6 @@
       "kml_file": null
     },
     {
-      "id": "20251184370",
-      "data_inicio": "04-09-2025 07:33",
-      "concelho": "Aguiar Da Beira",
-      "freguesia": "Pinheiro",
-      "distrito": "Guarda",
-      "status": "Conclusão",
-      "latitude": 40.803562,
-      "longitude": -7.601045,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251184393",
       "data_inicio": "04-09-2025 07:39",
       "concelho": "Maia",
@@ -94,27 +77,10 @@
       "concelho": "Albergaria-a-velha",
       "freguesia": "Angeja",
       "distrito": "Aveiro",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 40.689689,
       "longitude": -8.573428,
       "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251184468",
-      "data_inicio": "04-09-2025 07:51",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Pedroso E Seixezelo",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.067659,
-      "longitude": -8.55728,
-      "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
