@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-04T11:40:01+00:00",
+  "atualizado_em": "2025-09-04T11:51:05+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -43,12 +43,12 @@
       "concelho": "Celorico Da Beira",
       "freguesia": "São Pedro E Santa Maria E Vila Boa Do Mondego",
       "distrito": "Guarda",
-      "status": "Despacho de 1º Alerta",
+      "status": "Chegada ao TO",
       "latitude": 40.63578,
       "longitude": -7.4165,
-      "operacionais": 2,
-      "terrestres": 1,
-      "aereos": 0,
+      "operacionais": 53,
+      "terrestres": 12,
+      "aereos": 1,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
