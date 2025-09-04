@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-04T10:41:14+00:00",
+  "atualizado_em": "2025-09-04T10:51:48+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 2,
   "incendios": [
     {
       "id": "20251075979",
@@ -19,23 +19,6 @@
       "tem_kml": true,
       "kml_source": "kmlVost",
       "kml_file": "kml/20251075979_AOI_PIODAO_21082025_00h00.kml.kml"
-    },
-    {
-      "id": "20251178809",
-      "data_inicio": "02-09-2025 21:56",
-      "concelho": "Pombal",
-      "freguesia": "Vermoil",
-      "distrito": "Leiria",
-      "status": "Vigilância",
-      "latitude": 39.83745,
-      "longitude": -8.673463,
-      "operacionais": 7,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
     },
     {
       "id": "20251185116",
