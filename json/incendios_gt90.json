@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-04T22:50:57+00:00",
+  "atualizado_em": "2025-09-04T23:16:55+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 4,
   "incendios": [
     {
       "id": "20251075979",
@@ -21,23 +21,6 @@
       "kml_file": "kml/20251075979_AOI_PIODAO_21082025_00h00.kml.kml"
     },
     {
-      "id": "20251185583",
-      "data_inicio": "04-09-2025 11:34",
-      "concelho": "Celorico Da Beira",
-      "freguesia": "São Pedro E Santa Maria E Vila Boa Do Mondego",
-      "distrito": "Guarda",
-      "status": "Vigilância",
-      "latitude": 40.63419,
-      "longitude": -7.414827,
-      "operacionais": 14,
-      "terrestres": 5,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251186559",
       "data_inicio": "04-09-2025 15:10",
       "concelho": "Nisa",
@@ -46,8 +29,8 @@
       "status": "Vigilância",
       "latitude": 39.462882,
       "longitude": -7.764517,
-      "operacionais": 18,
-      "terrestres": 5,
+      "operacionais": 13,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -82,23 +65,6 @@
       "longitude": -8.874325,
       "operacionais": 55,
       "terrestres": 19,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251188065",
-      "data_inicio": "04-09-2025 21:42",
-      "concelho": "Almada",
-      "freguesia": "Caparica E Trafaria",
-      "distrito": "Setúbal",
-      "status": "Conclusão",
-      "latitude": 38.66491,
-      "longitude": -9.201859,
-      "operacionais": 20,
-      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
