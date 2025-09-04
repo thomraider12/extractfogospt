@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-04T04:52:33+00:00",
+  "atualizado_em": "2025-09-04T05:17:36+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 3,
   "incendios": [
     {
       "id": "20251075979",
@@ -31,6 +31,23 @@
       "longitude": -8.673463,
       "operacionais": 7,
       "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251184028",
+      "data_inicio": "04-09-2025 04:59",
+      "concelho": "Estarreja",
+      "freguesia": "Beduído E Veiros",
+      "distrito": "Aveiro",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 40.766256,
+      "longitude": -8.535813,
+      "operacionais": 4,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
