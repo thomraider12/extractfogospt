@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-04T10:18:59+00:00",
+  "atualizado_em": "2025-09-04T10:41:14+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 3,
   "incendios": [
     {
       "id": "20251075979",
@@ -19,23 +19,6 @@
       "tem_kml": true,
       "kml_source": "kmlVost",
       "kml_file": "kml/20251075979_AOI_PIODAO_21082025_00h00.kml.kml"
-    },
-    {
-      "id": "20251083724",
-      "data_inicio": "14-08-2025 12:46",
-      "concelho": "Lousã",
-      "freguesia": "Lousã E Vilarinho",
-      "distrito": "Coimbra",
-      "status": "Vigilância",
-      "latitude": 40.080016,
-      "longitude": -8.201561,
-      "operacionais": 6,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": 71.819164,
-      "tem_kml": true,
-      "kml_source": "kmlVost",
-      "kml_file": "kml/20251083724_Área_de_interesse.kml"
     },
     {
       "id": "20251178809",
@@ -60,12 +43,12 @@
       "concelho": "Portalegre",
       "freguesia": "Sé E São Lourenço",
       "distrito": "Portalegre",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 39.295695,
       "longitude": -7.443708,
-      "operacionais": 44,
-      "terrestres": 9,
-      "aereos": 1,
+      "operacionais": 17,
+      "terrestres": 7,
+      "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
