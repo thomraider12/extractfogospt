@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-04T19:14:32+00:00",
+  "atualizado_em": "2025-09-04T19:25:46+00:00",
   "criterio": "> 1 operacionais",
   "total": 9,
   "incendios": [
@@ -131,8 +131,8 @@
       "status": "Conclusão",
       "latitude": 40.06944,
       "longitude": -8.21444,
-      "operacionais": 13,
-      "terrestres": 4,
+      "operacionais": 8,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -145,7 +145,7 @@
       "concelho": "Loures",
       "freguesia": "Santa Iria De Azoia, São João Da Talha E Bobadela",
       "distrito": "Lisboa",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 38.80166,
       "longitude": -9.097806,
       "operacionais": 17,
