@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-05T05:51:23+00:00",
+  "atualizado_em": "2025-09-05T06:27:39+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 6,
   "incendios": [
     {
       "id": "20251075979",
@@ -19,6 +19,23 @@
       "tem_kml": true,
       "kml_source": "kmlVost",
       "kml_file": "kml/20251075979_AOI_PIODAO_21082025_00h00.kml.kml"
+    },
+    {
+      "id": "20251083724",
+      "data_inicio": "14-08-2025 12:46",
+      "concelho": "Lousã",
+      "freguesia": "Lousã E Vilarinho",
+      "distrito": "Coimbra",
+      "status": "Vigilância",
+      "latitude": 40.080016,
+      "longitude": -8.201561,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": 71.819164,
+      "tem_kml": true,
+      "kml_source": "kmlVost",
+      "kml_file": "kml/20251083724_Área_de_interesse.kml"
     },
     {
       "id": "20251186559",
@@ -65,6 +82,23 @@
       "longitude": -8.874325,
       "operacionais": 10,
       "terrestres": 5,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251188689",
+      "data_inicio": "05-09-2025 05:54",
+      "concelho": "Lamego",
+      "freguesia": "Cambres",
+      "distrito": "Viseu",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.12952,
+      "longitude": -7.80631,
+      "operacionais": 15,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
