@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-05T10:41:54+00:00",
+  "atualizado_em": "2025-09-05T10:52:26+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 6,
   "incendios": [
     {
       "id": "20251075979",
@@ -82,6 +82,23 @@
       "longitude": -7.24842,
       "operacionais": 11,
       "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251189950",
+      "data_inicio": "05-09-2025 10:30",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Grijó E Sermonde",
+      "distrito": "Porto",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.04609,
+      "longitude": -8.592231,
+      "operacionais": 10,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
