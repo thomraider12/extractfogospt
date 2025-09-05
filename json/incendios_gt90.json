@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-05T06:49:07+00:00",
+  "atualizado_em": "2025-09-05T07:17:33+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 5,
   "incendios": [
     {
       "id": "20251075979",
@@ -63,23 +63,6 @@
       "status": "Vigilância",
       "latitude": 40.25917,
       "longitude": -8.3475,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251187781",
-      "data_inicio": "04-09-2025 20:03",
-      "concelho": "Setúbal",
-      "freguesia": "Setúbal (São Sebastião)",
-      "distrito": "Setúbal",
-      "status": "Conclusão",
-      "latitude": 38.52003,
-      "longitude": -8.874325,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
