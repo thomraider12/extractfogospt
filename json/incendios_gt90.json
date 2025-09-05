@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-05T23:16:54+00:00",
+  "atualizado_em": "2025-09-05T23:37:29+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251075979",
@@ -55,23 +55,6 @@
       "kml_file": null
     },
     {
-      "id": "20251192457",
-      "data_inicio": "05-09-2025 19:23",
-      "concelho": "Celorico De Basto",
-      "freguesia": "Rego",
-      "distrito": "Braga",
-      "status": "Conclusão",
-      "latitude": 41.401177,
-      "longitude": -8.06587,
-      "operacionais": 14,
-      "terrestres": 4,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251192817",
       "data_inicio": "05-09-2025 21:20",
       "concelho": "Almada",
@@ -80,8 +63,8 @@
       "status": "Conclusão",
       "latitude": 38.66682,
       "longitude": -9.205259,
-      "operacionais": 10,
-      "terrestres": 2,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
