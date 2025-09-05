@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-05T09:39:44+00:00",
+  "atualizado_em": "2025-09-05T09:51:05+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 5,
   "incendios": [
     {
       "id": "20251075979",
@@ -66,6 +66,23 @@
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251189633",
+      "data_inicio": "05-09-2025 09:35",
+      "concelho": "Guarda",
+      "freguesia": "Ramela",
+      "distrito": "Guarda",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 40.48917,
+      "longitude": -7.24842,
+      "operacionais": 30,
+      "terrestres": 6,
+      "aereos": 1,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
