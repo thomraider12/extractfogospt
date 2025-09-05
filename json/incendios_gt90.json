@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-05T07:50:59+00:00",
+  "atualizado_em": "2025-09-05T08:23:52+00:00",
   "criterio": "> 1 operacionais",
   "total": 5,
   "incendios": [
@@ -19,23 +19,6 @@
       "tem_kml": true,
       "kml_source": "kmlVost",
       "kml_file": "kml/20251075979_AOI_PIODAO_21082025_00h00.kml.kml"
-    },
-    {
-      "id": "20251083724",
-      "data_inicio": "14-08-2025 12:46",
-      "concelho": "Lousã",
-      "freguesia": "Lousã E Vilarinho",
-      "distrito": "Coimbra",
-      "status": "Vigilância",
-      "latitude": 40.080016,
-      "longitude": -8.201561,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": 71.819164,
-      "tem_kml": true,
-      "kml_source": "kmlVost",
-      "kml_file": "kml/20251083724_Área_de_interesse.kml"
     },
     {
       "id": "20251186559",
@@ -82,6 +65,23 @@
       "longitude": -7.80631,
       "operacionais": 5,
       "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251189011",
+      "data_inicio": "05-09-2025 07:34",
+      "concelho": "Valongo",
+      "freguesia": "Ermesinde",
+      "distrito": "Porto",
+      "status": "Conclusão",
+      "latitude": 41.2109,
+      "longitude": -8.542616,
+      "operacionais": 7,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
