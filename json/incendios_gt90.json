@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-05T22:39:31+00:00",
+  "atualizado_em": "2025-09-05T22:51:05+00:00",
   "criterio": "> 1 operacionais",
-  "total": 7,
+  "total": 6,
   "incendios": [
     {
       "id": "20251075979",
@@ -82,23 +82,6 @@
       "longitude": -9.205259,
       "operacionais": 10,
       "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251192862",
-      "data_inicio": "05-09-2025 21:27",
-      "concelho": "Oliveira De Azeméis",
-      "freguesia": "O. Azeméis, Riba-ul, Ul, Macinhata Seixa, Madail",
-      "distrito": "Aveiro",
-      "status": "Conclusão",
-      "latitude": 40.85284,
-      "longitude": -8.470386,
-      "operacionais": 5,
-      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
