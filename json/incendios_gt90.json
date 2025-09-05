@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-05T04:52:52+00:00",
+  "atualizado_em": "2025-09-05T05:17:56+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 5,
   "incendios": [
     {
       "id": "20251075979",
@@ -63,8 +63,25 @@
       "status": "Conclusão",
       "latitude": 38.52003,
       "longitude": -8.874325,
-      "operacionais": 12,
-      "terrestres": 6,
+      "operacionais": 10,
+      "terrestres": 5,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251188613",
+      "data_inicio": "05-09-2025 04:47",
+      "concelho": "Matosinhos",
+      "freguesia": "São Mamede De Infesta E Senhora Da Hora",
+      "distrito": "Porto",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.19227,
+      "longitude": -8.61163,
+      "operacionais": 4,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
