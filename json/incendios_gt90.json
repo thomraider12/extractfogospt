@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-06T03:43:35+00:00",
+  "atualizado_em": "2025-09-06T03:53:50+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 4,
   "incendios": [
     {
       "id": "20251075979",
@@ -38,6 +38,23 @@
       "kml_file": null
     },
     {
+      "id": "20251193466",
+      "data_inicio": "06-09-2025 03:32",
+      "concelho": "Sintra",
+      "freguesia": "Rio De Mouro",
+      "distrito": "Lisboa",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.79166,
+      "longitude": -9.31785,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
       "id": "20251193456",
       "data_inicio": "06-09-2025 03:26",
       "concelho": "Silves",
@@ -46,8 +63,8 @@
       "status": "Despacho de 1º Alerta",
       "latitude": 37.167351,
       "longitude": -8.304204,
-      "operacionais": 15,
-      "terrestres": 3,
+      "operacionais": 16,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
