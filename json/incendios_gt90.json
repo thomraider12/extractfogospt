@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-06T01:19:23+00:00",
+  "atualizado_em": "2025-09-06T02:39:22+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -29,8 +29,8 @@
       "status": "Conclusão",
       "latitude": 41.457142,
       "longitude": -7.412273,
-      "operacionais": 17,
-      "terrestres": 5,
+      "operacionais": 7,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -38,14 +38,14 @@
       "kml_file": null
     },
     {
-      "id": "20251193315",
+      "id": "20251193307",
       "data_inicio": "06-09-2025 01:08",
-      "concelho": "Serpa",
-      "freguesia": "Vila Nova De São Bento E Vale De Vargo",
+      "concelho": "Odemira",
+      "freguesia": "São Teotónio",
       "distrito": "Beja",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 37.900446,
-      "longitude": -7.405413,
+      "status": "Conclusão",
+      "latitude": 37.469275,
+      "longitude": -8.75322,
       "operacionais": 7,
       "terrestres": 2,
       "aereos": 0,
