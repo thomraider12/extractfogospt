@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-06T04:50:45+00:00",
+  "atualizado_em": "2025-09-06T05:16:15+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251075979",
@@ -38,23 +38,6 @@
       "kml_file": null
     },
     {
-      "id": "20251193466",
-      "data_inicio": "06-09-2025 03:32",
-      "concelho": "Sintra",
-      "freguesia": "Rio De Mouro",
-      "distrito": "Lisboa",
-      "status": "Conclusão",
-      "latitude": 38.791685,
-      "longitude": -9.317843,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251193456",
       "data_inicio": "06-09-2025 03:26",
       "concelho": "Silves",
@@ -77,11 +60,11 @@
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Sandim, Olival, Lever E Crestuma",
       "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
+      "status": "Chegada ao TO",
       "latitude": 41.046266,
       "longitude": -8.545846,
-      "operacionais": 5,
-      "terrestres": 1,
+      "operacionais": 11,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
