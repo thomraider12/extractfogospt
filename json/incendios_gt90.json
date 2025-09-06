@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-06T04:20:59+00:00",
+  "atualizado_em": "2025-09-06T04:40:41+00:00",
   "criterio": "> 1 operacionais",
   "total": 4,
   "incendios": [
@@ -60,11 +60,11 @@
       "concelho": "Silves",
       "freguesia": "Algoz E Tunes",
       "distrito": "Faro",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 37.13959,
       "longitude": -8.316663,
-      "operacionais": 16,
-      "terrestres": 4,
+      "operacionais": 6,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
