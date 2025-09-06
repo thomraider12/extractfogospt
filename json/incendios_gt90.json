@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-06T02:39:22+00:00",
+  "atualizado_em": "2025-09-06T03:17:01+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 2,
   "incendios": [
     {
       "id": "20251075979",
@@ -31,23 +31,6 @@
       "longitude": -7.412273,
       "operacionais": 7,
       "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251193307",
-      "data_inicio": "06-09-2025 01:08",
-      "concelho": "Odemira",
-      "freguesia": "São Teotónio",
-      "distrito": "Beja",
-      "status": "Conclusão",
-      "latitude": 37.469275,
-      "longitude": -8.75322,
-      "operacionais": 7,
-      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
