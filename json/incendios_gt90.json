@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-06T06:44:15+00:00",
+  "atualizado_em": "2025-09-06T06:54:42+00:00",
   "criterio": "> 1 operacionais",
   "total": 4,
   "incendios": [
@@ -60,7 +60,7 @@
       "concelho": "Torres Vedras",
       "freguesia": "Dois Portos E Runa",
       "distrito": "Lisboa",
-      "status": "Despacho de 1º Alerta",
+      "status": "Em Resolução",
       "latitude": 39.076073,
       "longitude": -9.20329,
       "operacionais": 7,
