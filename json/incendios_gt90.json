@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-06T07:15:17+00:00",
+  "atualizado_em": "2025-09-06T07:27:33+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251075979",
@@ -21,23 +21,6 @@
       "kml_file": "kml/20251075979_AOI_PIODAO_21082025_00h00.kml.kml"
     },
     {
-      "id": "20251193541",
-      "data_inicio": "06-09-2025 04:38",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Sandim, Olival, Lever E Crestuma",
-      "distrito": "Porto",
-      "status": "Em Resolução",
-      "latitude": 41.046266,
-      "longitude": -8.545846,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251193598",
       "data_inicio": "06-09-2025 05:37",
       "concelho": "Montijo",
@@ -55,23 +38,6 @@
       "kml_file": null
     },
     {
-      "id": "20251193634",
-      "data_inicio": "06-09-2025 06:02",
-      "concelho": "Torres Vedras",
-      "freguesia": "Dois Portos E Runa",
-      "distrito": "Lisboa",
-      "status": "Em Resolução",
-      "latitude": 39.076073,
-      "longitude": -9.20329,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251193795",
       "data_inicio": "06-09-2025 06:59",
       "concelho": "Aveiro",
@@ -80,7 +46,24 @@
       "status": "Despacho de 1º Alerta",
       "latitude": 40.61063,
       "longitude": -8.58422,
-      "operacionais": 8,
+      "operacionais": 12,
+      "terrestres": 4,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251193841",
+      "data_inicio": "06-09-2025 07:17",
+      "concelho": "Lagos",
+      "freguesia": "Bensafrim E Barão De São João",
+      "distrito": "Faro",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 37.206462,
+      "longitude": -8.740241,
+      "operacionais": 15,
       "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
