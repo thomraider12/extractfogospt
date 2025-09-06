@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-06T05:38:41+00:00",
+  "atualizado_em": "2025-09-06T05:50:57+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 3,
   "incendios": [
     {
       "id": "20251075979",
@@ -19,23 +19,6 @@
       "tem_kml": true,
       "kml_source": "kmlVost",
       "kml_file": "kml/20251075979_AOI_PIODAO_21082025_00h00.kml.kml"
-    },
-    {
-      "id": "20251193456",
-      "data_inicio": "06-09-2025 03:26",
-      "concelho": "Silves",
-      "freguesia": "Algoz E Tunes",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.13959,
-      "longitude": -8.316663,
-      "operacionais": 6,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
     },
     {
       "id": "20251193541",
@@ -63,8 +46,8 @@
       "status": "Despacho de 1º Alerta",
       "latitude": 41.47819,
       "longitude": -7.952445,
-      "operacionais": 5,
-      "terrestres": 1,
+      "operacionais": 25,
+      "terrestres": 5,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
