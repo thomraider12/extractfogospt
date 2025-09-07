@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-07T17:50:57+00:00",
+  "atualizado_em": "2025-09-07T18:22:48+00:00",
   "criterio": "> 1 operacionais",
   "total": 8,
   "incendios": [
@@ -123,16 +123,16 @@
       "kml_file": null
     },
     {
-      "id": "20251201108",
-      "data_inicio": "07-09-2025 17:32",
-      "concelho": "Setúbal",
-      "freguesia": "S.Julião, N.S. Da Anunciada E S. Maria Da Graça",
-      "distrito": "Setúbal",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 38.529955,
-      "longitude": -8.889983,
-      "operacionais": 8,
-      "terrestres": 3,
+      "id": "20251201148",
+      "data_inicio": "07-09-2025 17:48",
+      "concelho": "Sintra",
+      "freguesia": "Queluz E Belas",
+      "distrito": "Lisboa",
+      "status": "Conclusão",
+      "latitude": 38.78865,
+      "longitude": -9.309325,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
