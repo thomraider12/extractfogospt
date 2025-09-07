@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-07T17:47:57+00:00",
+  "atualizado_em": "2025-09-07T17:50:57+00:00",
   "criterio": "> 1 operacionais",
   "total": 8,
   "incendios": [
@@ -111,7 +111,7 @@
       "concelho": "Lisboa",
       "freguesia": "Alvalade",
       "distrito": "Lisboa",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 38.754131,
       "longitude": -9.144275,
       "operacionais": 5,
