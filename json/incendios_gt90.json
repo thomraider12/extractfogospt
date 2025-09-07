@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-07T13:03:00+00:00",
+  "atualizado_em": "2025-09-07T13:29:44+00:00",
   "criterio": "> 1 operacionais",
   "total": 7,
   "incendios": [
@@ -29,8 +29,8 @@
       "status": "Em Resolução",
       "latitude": 40.351547,
       "longitude": -7.76001,
-      "operacionais": 231,
-      "terrestres": 70,
+      "operacionais": 203,
+      "terrestres": 62,
       "aereos": 0,
       "area_km2": 43.675174,
       "tem_kml": true,
@@ -111,7 +111,7 @@
       "concelho": "Tavira",
       "freguesia": "Conceição E Cabanas De Tavira",
       "distrito": "Faro",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 37.149151,
       "longitude": -7.597263,
       "operacionais": 17,
