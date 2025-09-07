@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-07T17:39:49+00:00",
+  "atualizado_em": "2025-09-07T17:47:57+00:00",
   "criterio": "> 1 operacionais",
-  "total": 7,
+  "total": 8,
   "incendios": [
     {
       "id": "20251075979",
@@ -116,6 +116,23 @@
       "longitude": -9.144275,
       "operacionais": 5,
       "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251201108",
+      "data_inicio": "07-09-2025 17:32",
+      "concelho": "Setúbal",
+      "freguesia": "S.Julião, N.S. Da Anunciada E S. Maria Da Graça",
+      "distrito": "Setúbal",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.529955,
+      "longitude": -8.889983,
+      "operacionais": 8,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
