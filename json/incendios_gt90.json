@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-07T04:41:14+00:00",
+  "atualizado_em": "2025-09-07T04:51:15+00:00",
   "criterio": "> 1 operacionais",
   "total": 7,
   "incendios": [
@@ -60,7 +60,7 @@
       "concelho": "Figueira De Castelo Rodrigo",
       "freguesia": "Figueira De Castelo Rodrigo",
       "distrito": "Guarda",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 40.906778,
       "longitude": -6.934648,
       "operacionais": 45,
