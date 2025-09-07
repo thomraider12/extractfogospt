@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-07T03:32:53+00:00",
+  "atualizado_em": "2025-09-07T03:52:48+00:00",
   "criterio": "> 1 operacionais",
   "total": 7,
   "incendios": [
@@ -106,16 +106,16 @@
       "kml_file": null
     },
     {
-      "id": "20251198297",
-      "data_inicio": "07-09-2025 03:05",
-      "concelho": "Elvas",
-      "freguesia": "Caia, São Pedro E Alcáçova",
-      "distrito": "Portalegre",
-      "status": "Conclusão",
-      "latitude": 38.878732,
-      "longitude": -7.147912,
-      "operacionais": 7,
-      "terrestres": 2,
+      "id": "20251198341",
+      "data_inicio": "07-09-2025 03:41",
+      "concelho": "Fundão",
+      "freguesia": "Alpedrinha",
+      "distrito": "Castelo Branco",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 40.098685,
+      "longitude": -7.472874,
+      "operacionais": 12,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
