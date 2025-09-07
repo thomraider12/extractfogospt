@@ -43,7 +43,7 @@ jobs:
       - name: Generate HLS (.m3u8 + .ts)
         run: |
           cd video
-          sudo apt-get install -y ffmpeg
+          sudo apt-get install -y ffmpeg --fix-missing
           ffmpeg -i incendios_gt90_video.mp4 -c:v libx264 -c:a aac -strict -2 \
           -hls_time 10 -hls_list_size 0 -f hls playlist.m3u8
 
