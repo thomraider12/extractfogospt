@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-07T17:28:40+00:00",
+  "atualizado_em": "2025-09-07T17:39:49+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 7,
   "incendios": [
     {
       "id": "20251075979",
@@ -99,6 +99,23 @@
       "longitude": -7.282853,
       "operacionais": 24,
       "terrestres": 6,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251201080",
+      "data_inicio": "07-09-2025 17:23",
+      "concelho": "Lisboa",
+      "freguesia": "Alvalade",
+      "distrito": "Lisboa",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.754131,
+      "longitude": -9.144275,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
