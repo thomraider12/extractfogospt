@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-08T05:50:57+00:00",
+  "atualizado_em": "2025-09-08T06:29:09+00:00",
   "criterio": "> 1 operacionais",
   "total": 6,
   "incendios": [
@@ -94,7 +94,7 @@
       "concelho": "Vinhais",
       "freguesia": "Ervedosa",
       "distrito": "Bragança",
-      "status": "Despacho de 1º Alerta",
+      "status": "Em Curso",
       "latitude": 41.72798,
       "longitude": -7.089912,
       "operacionais": 21,
