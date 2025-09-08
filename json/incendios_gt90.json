@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-08T05:40:36+00:00",
+  "atualizado_em": "2025-09-08T05:50:57+00:00",
   "criterio": "> 1 operacionais",
   "total": 6,
   "incendios": [
@@ -95,8 +95,8 @@
       "freguesia": "Ervedosa",
       "distrito": "Bragança",
       "status": "Despacho de 1º Alerta",
-      "latitude": 41.71712,
-      "longitude": -7.086678,
+      "latitude": 41.72798,
+      "longitude": -7.089912,
       "operacionais": 21,
       "terrestres": 5,
       "aereos": 0,
