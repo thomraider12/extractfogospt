@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-10T18:47:44+00:00",
+  "atualizado_em": "2025-09-10T19:14:44+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 5,
   "incendios": [
     {
       "id": "20251075979",
@@ -82,23 +82,6 @@
       "longitude": -8.672553,
       "operacionais": 5,
       "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251215231",
-      "data_inicio": "10-09-2025 18:00",
-      "concelho": "Arronches",
-      "freguesia": "Assunção",
-      "distrito": "Portalegre",
-      "status": "Conclusão",
-      "latitude": 39.128995,
-      "longitude": -7.279373,
-      "operacionais": 13,
-      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
