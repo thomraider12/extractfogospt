@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-10T19:50:41+00:00",
+  "atualizado_em": "2025-09-10T20:19:49+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 5,
   "incendios": [
     {
       "id": "20251075979",
@@ -65,6 +65,23 @@
       "longitude": -8.672553,
       "operacionais": 5,
       "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251215689",
+      "data_inicio": "10-09-2025 19:56",
+      "concelho": "Vila Real",
+      "freguesia": "Pena, Quintã E Vila Cova",
+      "distrito": "Vila Real",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.292513,
+      "longitude": -7.863326,
+      "operacionais": 25,
+      "terrestres": 5,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
