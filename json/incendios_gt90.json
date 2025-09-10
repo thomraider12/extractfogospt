@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-10T15:19:07+00:00",
+  "atualizado_em": "2025-09-10T15:39:48+00:00",
   "criterio": "> 1 operacionais",
   "total": 6,
   "incendios": [
@@ -89,16 +89,16 @@
       "kml_file": null
     },
     {
-      "id": "20251214327",
-      "data_inicio": "10-09-2025 14:34",
-      "concelho": "Faro",
-      "freguesia": "Faro (Sé E São Pedro)",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.020395,
-      "longitude": -7.909439,
-      "operacionais": 7,
-      "terrestres": 2,
+      "id": "20251214592",
+      "data_inicio": "10-09-2025 15:25",
+      "concelho": "Alijó",
+      "freguesia": "Alijó",
+      "distrito": "Vila Real",
+      "status": "Em Curso",
+      "latitude": 41.280149,
+      "longitude": -7.475454,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
