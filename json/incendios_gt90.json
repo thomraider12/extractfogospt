@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-10T01:20:29+00:00",
+  "atualizado_em": "2025-09-10T02:40:58+00:00",
   "criterio": "> 1 operacionais",
   "total": 6,
   "incendios": [
@@ -94,11 +94,11 @@
       "concelho": "Silves",
       "freguesia": "Silves",
       "distrito": "Faro",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 37.192221,
       "longitude": -8.470949,
-      "operacionais": 19,
-      "terrestres": 5,
+      "operacionais": 12,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
