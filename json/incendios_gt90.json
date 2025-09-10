@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-10T22:16:40+00:00",
+  "atualizado_em": "2025-09-10T22:39:09+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251075979",
@@ -55,31 +55,14 @@
       "kml_file": null
     },
     {
-      "id": "20251215961",
-      "data_inicio": "10-09-2025 21:19",
-      "concelho": "Maia",
-      "freguesia": "Nogueira E Silva Escura",
-      "distrito": "Porto",
-      "status": "Em Resolução",
-      "latitude": 41.23149,
-      "longitude": -8.5917,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251216035",
       "data_inicio": "10-09-2025 21:48",
       "concelho": "Freixo De Espada À Cinta",
       "freguesia": "Ligares",
       "distrito": "Bragança",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.087029,
-      "longitude": -6.965644,
+      "status": "Conclusão",
+      "latitude": 41.068593,
+      "longitude": -6.970162,
       "operacionais": 27,
       "terrestres": 7,
       "aereos": 0,
