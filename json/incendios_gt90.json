@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-10T20:19:49+00:00",
+  "atualizado_em": "2025-09-10T20:39:43+00:00",
   "criterio": "> 1 operacionais",
   "total": 5,
   "incendios": [
@@ -77,11 +77,11 @@
       "concelho": "Vila Real",
       "freguesia": "Pena, Quintã E Vila Cova",
       "distrito": "Vila Real",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.292513,
-      "longitude": -7.863326,
-      "operacionais": 25,
-      "terrestres": 5,
+      "status": "Conclusão",
+      "latitude": 41.291028,
+      "longitude": -7.855392,
+      "operacionais": 27,
+      "terrestres": 6,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
