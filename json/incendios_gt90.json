@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-10T14:51:57+00:00",
+  "atualizado_em": "2025-09-10T15:19:07+00:00",
   "criterio": "> 1 operacionais",
   "total": 6,
   "incendios": [
@@ -94,11 +94,11 @@
       "concelho": "Faro",
       "freguesia": "Faro (Sé E São Pedro)",
       "distrito": "Faro",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 37.020395,
       "longitude": -7.909439,
-      "operacionais": 8,
-      "terrestres": 3,
+      "operacionais": 7,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
