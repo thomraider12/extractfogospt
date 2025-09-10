@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-10T03:44:44+00:00",
+  "atualizado_em": "2025-09-10T03:55:01+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 5,
   "incendios": [
     {
       "id": "20251075979",
@@ -82,23 +82,6 @@
       "longitude": -7.24149,
       "operacionais": 8,
       "terrestres": 4,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251211604",
-      "data_inicio": "10-09-2025 00:45",
-      "concelho": "Silves",
-      "freguesia": "Silves",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.192221,
-      "longitude": -8.470949,
-      "operacionais": 5,
-      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
