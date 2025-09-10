@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-10T02:40:58+00:00",
+  "atualizado_em": "2025-09-10T03:17:48+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 7,
   "incendios": [
     {
       "id": "20251075979",
@@ -97,8 +97,25 @@
       "status": "Conclusão",
       "latitude": 37.192221,
       "longitude": -8.470949,
-      "operacionais": 12,
-      "terrestres": 3,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251211746",
+      "data_inicio": "10-09-2025 02:46",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Mafamude E Vilar Do Paraíso",
+      "distrito": "Porto",
+      "status": "Conclusão",
+      "latitude": 41.107184,
+      "longitude": -8.611105,
+      "operacionais": 6,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
