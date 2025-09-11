@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-11T07:50:35+00:00",
+  "atualizado_em": "2025-09-11T08:24:12+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 4,
   "incendios": [
     {
       "id": "20251075979",
@@ -48,6 +48,23 @@
       "longitude": -6.934648,
       "operacionais": 17,
       "terrestres": 4,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251216950",
+      "data_inicio": "11-09-2025 07:39",
+      "concelho": "Porto",
+      "freguesia": "Campanhã",
+      "distrito": "Porto",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.15149,
+      "longitude": -8.57553,
+      "operacionais": 6,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
