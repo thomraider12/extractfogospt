@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-11T04:21:53+00:00",
+  "atualizado_em": "2025-09-11T04:42:05+00:00",
   "criterio": "> 1 operacionais",
   "total": 4,
   "incendios": [
@@ -60,11 +60,11 @@
       "concelho": "Ourém",
       "freguesia": "Seiça",
       "distrito": "Santarém",
-      "status": "Chegada ao TO",
-      "latitude": 39.677422,
-      "longitude": -8.525593,
-      "operacionais": 24,
-      "terrestres": 6,
+      "status": "Conclusão",
+      "latitude": 39.691946,
+      "longitude": -8.514326,
+      "operacionais": 14,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
