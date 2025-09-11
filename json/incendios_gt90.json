@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-11T13:13:37+00:00",
+  "atualizado_em": "2025-09-11T13:34:15+00:00",
   "criterio": "> 1 operacionais",
   "total": 4,
   "incendios": [
@@ -55,16 +55,16 @@
       "kml_file": null
     },
     {
-      "id": "20251217978",
-      "data_inicio": "11-09-2025 10:52",
-      "concelho": "Évora",
-      "freguesia": "Bacelo E Senhora Da Saúde",
-      "distrito": "Évora",
-      "status": "Em Resolução",
-      "latitude": 38.588517,
-      "longitude": -7.909892,
-      "operacionais": 13,
-      "terrestres": 5,
+      "id": "20251218676",
+      "data_inicio": "11-09-2025 13:10",
+      "concelho": "Arouca",
+      "freguesia": "Moldes",
+      "distrito": "Aveiro",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 40.90536,
+      "longitude": -8.217855,
+      "operacionais": 7,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
