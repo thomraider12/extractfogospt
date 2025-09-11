@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-11T06:27:53+00:00",
+  "atualizado_em": "2025-09-11T06:49:47+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 3,
   "incendios": [
     {
       "id": "20251075979",
@@ -48,23 +48,6 @@
       "longitude": -6.934648,
       "operacionais": 7,
       "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251216506",
-      "data_inicio": "11-09-2025 04:00",
-      "concelho": "Ourém",
-      "freguesia": "Seiça",
-      "distrito": "Santarém",
-      "status": "Conclusão",
-      "latitude": 39.695797,
-      "longitude": -8.510357,
-      "operacionais": 2,
-      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
