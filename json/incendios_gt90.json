@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-11T04:42:05+00:00",
+  "atualizado_em": "2025-09-11T04:52:38+00:00",
   "criterio": "> 1 operacionais",
   "total": 4,
   "incendios": [
@@ -61,8 +61,8 @@
       "freguesia": "Seiça",
       "distrito": "Santarém",
       "status": "Conclusão",
-      "latitude": 39.691946,
-      "longitude": -8.514326,
+      "latitude": 39.679202,
+      "longitude": -8.510448,
       "operacionais": 14,
       "terrestres": 4,
       "aereos": 0,
