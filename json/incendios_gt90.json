@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-12T08:23:26+00:00",
+  "atualizado_em": "2025-09-12T08:44:36+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 4,
   "incendios": [
     {
       "id": "20251075979",
@@ -48,6 +48,23 @@
       "longitude": -6.934648,
       "operacionais": 7,
       "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251221881",
+      "data_inicio": "12-09-2025 08:19",
+      "concelho": "Montijo",
+      "freguesia": "Pegões",
+      "distrito": "Setúbal",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.678234,
+      "longitude": -8.618044,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
