@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-12T10:19:14+00:00",
+  "atualizado_em": "2025-09-12T10:41:23+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 5,
   "incendios": [
     {
       "id": "20251075979",
@@ -46,6 +46,23 @@
       "status": "Conclusão",
       "latitude": 40.906778,
       "longitude": -6.934648,
+      "operacionais": 7,
+      "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251222165",
+      "data_inicio": "12-09-2025 09:16",
+      "concelho": "Almeida",
+      "freguesia": "Miuzela E Porto De Ovelha",
+      "distrito": "Guarda",
+      "status": "Em Resolução",
+      "latitude": 40.505032,
+      "longitude": -7.005778,
       "operacionais": 7,
       "terrestres": 2,
       "aereos": 0,
