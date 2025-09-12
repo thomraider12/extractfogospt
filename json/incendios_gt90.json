@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-12T09:51:14+00:00",
+  "atualizado_em": "2025-09-12T10:19:14+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 4,
   "incendios": [
     {
       "id": "20251075979",
@@ -48,6 +48,23 @@
       "longitude": -6.934648,
       "operacionais": 7,
       "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251222298",
+      "data_inicio": "12-09-2025 09:41",
+      "concelho": "Portalegre",
+      "freguesia": "Sé E São Lourenço",
+      "distrito": "Portalegre",
+      "status": "Conclusão",
+      "latitude": 39.272318,
+      "longitude": -7.4317,
+      "operacionais": 12,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
