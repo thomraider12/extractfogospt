@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-12T07:36:56+00:00",
+  "atualizado_em": "2025-09-12T07:50:55+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 4,
   "incendios": [
     {
       "id": "20251075979",
@@ -55,23 +55,6 @@
       "kml_file": null
     },
     {
-      "id": "20251221261",
-      "data_inicio": "12-09-2025 05:12",
-      "concelho": "Cantanhede",
-      "freguesia": "Tocha",
-      "distrito": "Coimbra",
-      "status": "Conclusão",
-      "latitude": 40.305107,
-      "longitude": -8.756545,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251221467",
       "data_inicio": "12-09-2025 06:50",
       "concelho": "Évora",
@@ -80,25 +63,8 @@
       "status": "Conclusão",
       "latitude": 38.48338,
       "longitude": -7.743963,
-      "operacionais": 17,
-      "terrestres": 4,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251221606",
-      "data_inicio": "12-09-2025 07:21",
-      "concelho": "Seixal",
-      "freguesia": "Seixal, Arrentela E Aldeia De Paio Pires",
-      "distrito": "Setúbal",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 38.601591,
-      "longitude": -9.073255,
-      "operacionais": 9,
-      "terrestres": 2,
+      "operacionais": 12,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
