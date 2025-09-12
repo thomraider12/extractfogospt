@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-12T11:27:21+00:00",
+  "atualizado_em": "2025-09-12T11:38:58+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 5,
   "incendios": [
     {
       "id": "20251075979",
@@ -64,6 +64,23 @@
       "latitude": 40.505032,
       "longitude": -7.005778,
       "operacionais": 7,
+      "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251222778",
+      "data_inicio": "12-09-2025 11:15",
+      "concelho": "Viseu",
+      "freguesia": "Mundão",
+      "distrito": "Viseu",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 40.695511,
+      "longitude": -7.863372,
+      "operacionais": 6,
       "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
