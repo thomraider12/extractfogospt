@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-13T22:30:39+00:00",
+  "atualizado_em": "2025-09-13T22:50:35+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 5,
   "incendios": [
     {
       "id": "20251194456",
@@ -82,23 +82,6 @@
       "longitude": -7.945823,
       "operacionais": 8,
       "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251229981",
-      "data_inicio": "13-09-2025 21:46",
-      "concelho": "Ílhavo",
-      "freguesia": "Ílhavo (São Salvador)",
-      "distrito": "Aveiro",
-      "status": "Conclusão",
-      "latitude": 40.594677,
-      "longitude": -8.660915,
-      "operacionais": 7,
-      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
