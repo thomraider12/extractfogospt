@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-13T08:40:58+00:00",
+  "atualizado_em": "2025-09-13T08:51:07+00:00",
   "criterio": "> 1 operacionais",
   "total": 4,
   "incendios": [
@@ -26,12 +26,12 @@
       "concelho": "Murça",
       "freguesia": "Carva E Vilares",
       "distrito": "Vila Real",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 41.401343,
       "longitude": -7.55901,
-      "operacionais": 360,
+      "operacionais": 358,
       "terrestres": 107,
-      "aereos": 3,
+      "aereos": 5,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
