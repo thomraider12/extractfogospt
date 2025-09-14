@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-14T11:24:02+00:00",
+  "atualizado_em": "2025-09-14T11:37:02+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 5,
   "incendios": [
     {
       "id": "20251194456",
@@ -29,9 +29,9 @@
       "status": "Em Resolução",
       "latitude": 41.401343,
       "longitude": -7.55901,
-      "operacionais": 262,
-      "terrestres": 89,
-      "aereos": 2,
+      "operacionais": 259,
+      "terrestres": 88,
+      "aereos": 1,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
@@ -72,29 +72,12 @@
       "kml_file": null
     },
     {
-      "id": "20251231588",
-      "data_inicio": "14-09-2025 09:35",
-      "concelho": "Viseu",
-      "freguesia": "Repeses E São Salvador",
-      "distrito": "Viseu",
-      "status": "Conclusão",
-      "latitude": 40.636983,
-      "longitude": -7.951107,
-      "operacionais": 9,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251231680",
       "data_inicio": "14-09-2025 09:45",
       "concelho": "Sintra",
       "freguesia": "Colares",
       "distrito": "Lisboa",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 38.802581,
       "longitude": -9.480392,
       "operacionais": 8,
