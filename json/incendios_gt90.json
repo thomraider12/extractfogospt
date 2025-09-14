@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-14T11:50:28+00:00",
+  "atualizado_em": "2025-09-14T12:32:38+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 6,
   "incendios": [
     {
       "id": "20251194456",
@@ -29,7 +29,7 @@
       "status": "Em Resolução",
       "latitude": 41.401343,
       "longitude": -7.55901,
-      "operacionais": 259,
+      "operacionais": 258,
       "terrestres": 88,
       "aereos": 1,
       "area_km2": null,
@@ -82,6 +82,23 @@
       "longitude": -9.480392,
       "operacionais": 8,
       "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251232250",
+      "data_inicio": "14-09-2025 12:07",
+      "concelho": "Vila Franca De Xira",
+      "freguesia": "Vialonga",
+      "distrito": "Lisboa",
+      "status": "Em Curso",
+      "latitude": 38.862668,
+      "longitude": -9.091665,
+      "operacionais": 43,
+      "terrestres": 11,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
