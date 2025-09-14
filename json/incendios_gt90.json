@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-14T05:38:09+00:00",
+  "atualizado_em": "2025-09-14T05:50:52+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 5,
   "incendios": [
     {
       "id": "20251194456",
@@ -65,6 +65,23 @@
       "longitude": -7.39094,
       "operacionais": 9,
       "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251230765",
+      "data_inicio": "14-09-2025 05:40",
+      "concelho": "Belmonte",
+      "freguesia": "Belmonte E Colmeal Da Torre",
+      "distrito": "Castelo Branco",
+      "status": "Chegada ao TO",
+      "latitude": 40.331975,
+      "longitude": -7.336464,
+      "operacionais": 7,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
