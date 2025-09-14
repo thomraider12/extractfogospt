@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-14T23:37:19+00:00",
+  "atualizado_em": "2025-09-14T23:51:09+00:00",
   "criterio": "> 1 operacionais",
   "total": 7,
   "incendios": [
@@ -111,7 +111,7 @@
       "concelho": "Vila Franca De Xira",
       "freguesia": "Vialonga",
       "distrito": "Lisboa",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 38.888188,
       "longitude": -9.07461,
       "operacionais": 115,
