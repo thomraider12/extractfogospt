@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-14T11:37:02+00:00",
+  "atualizado_em": "2025-09-14T11:50:28+00:00",
   "criterio": "> 1 operacionais",
   "total": 5,
   "incendios": [
@@ -12,8 +12,8 @@
       "status": "Vigilância",
       "latitude": 40.351547,
       "longitude": -7.76001,
-      "operacionais": 15,
-      "terrestres": 3,
+      "operacionais": 10,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": 43.675174,
       "tem_kml": true,
