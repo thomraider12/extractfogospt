@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-14T10:50:36+00:00",
+  "atualizado_em": "2025-09-14T11:12:57+00:00",
   "criterio": "> 1 operacionais",
   "total": 6,
   "incendios": [
@@ -95,8 +95,8 @@
       "freguesia": "Colares",
       "distrito": "Lisboa",
       "status": "Em Resolução",
-      "latitude": 38.81512,
-      "longitude": -9.474937,
+      "latitude": 38.802581,
+      "longitude": -9.480392,
       "operacionais": 8,
       "terrestres": 3,
       "aereos": 0,
