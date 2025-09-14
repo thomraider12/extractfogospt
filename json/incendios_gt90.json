@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-14T02:48:43+00:00",
+  "atualizado_em": "2025-09-14T03:32:44+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 5,
   "incendios": [
     {
       "id": "20251194456",
@@ -72,33 +72,16 @@
       "kml_file": null
     },
     {
-      "id": "20251230335",
-      "data_inicio": "14-09-2025 00:22",
-      "concelho": "Aveiro",
-      "freguesia": "Requeixo, Nossa Senhora De Fátima E Nariz",
-      "distrito": "Aveiro",
-      "status": "Conclusão",
-      "latitude": 40.591368,
-      "longitude": -8.580048,
-      "operacionais": 13,
-      "terrestres": 4,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251230537",
       "data_inicio": "14-09-2025 02:25",
       "concelho": "Aljezur",
       "freguesia": "Odeceixe",
       "distrito": "Faro",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 37.434235,
-      "longitude": -8.774846,
-      "operacionais": 24,
-      "terrestres": 6,
+      "status": "Conclusão",
+      "latitude": 37.433945,
+      "longitude": -8.77165,
+      "operacionais": 14,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
