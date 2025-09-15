@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-15T05:18:18+00:00",
+  "atualizado_em": "2025-09-15T05:40:56+00:00",
   "criterio": "> 1 operacionais",
   "total": 8,
   "incendios": [
@@ -114,8 +114,8 @@
       "status": "Conclusão",
       "latitude": 38.888188,
       "longitude": -9.07461,
-      "operacionais": 44,
-      "terrestres": 16,
+      "operacionais": 39,
+      "terrestres": 15,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -128,7 +128,7 @@
       "concelho": "Évora",
       "freguesia": "Torre De Coelheiros",
       "distrito": "Évora",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 38.517775,
       "longitude": -7.831655,
       "operacionais": 21,
