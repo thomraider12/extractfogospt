@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-15T10:43:00+00:00",
+  "atualizado_em": "2025-09-15T10:53:32+00:00",
   "criterio": "> 1 operacionais",
-  "total": 9,
+  "total": 8,
   "incendios": [
     {
       "id": "20251194456",
@@ -123,23 +123,6 @@
       "kml_file": null
     },
     {
-      "id": "20251235901",
-      "data_inicio": "15-09-2025 09:01",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Canidelo",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.11833,
-      "longitude": -8.66064,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251236333",
       "data_inicio": "15-09-2025 10:15",
       "concelho": "Sabugal",
@@ -148,9 +131,9 @@
       "status": "Conclusão",
       "latitude": 40.46185,
       "longitude": -7.02867,
-      "operacionais": 11,
+      "operacionais": 5,
       "terrestres": 1,
-      "aereos": 1,
+      "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
