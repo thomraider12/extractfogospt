@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-16T16:45:25+00:00",
+  "atualizado_em": "2025-09-16T16:56:02+00:00",
   "criterio": "> 1 operacionais",
-  "total": 15,
+  "total": 13,
   "incendios": [
     {
       "id": "20251194456",
@@ -174,40 +174,6 @@
       "kml_file": null
     },
     {
-      "id": "20251242558",
-      "data_inicio": "16-09-2025 14:12",
-      "concelho": "Marinha Grande",
-      "freguesia": "Marinha Grande",
-      "distrito": "Leiria",
-      "status": "Conclusão",
-      "latitude": 39.751397,
-      "longitude": -8.919287,
-      "operacionais": 2,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251242798",
-      "data_inicio": "16-09-2025 14:56",
-      "concelho": "Fafe",
-      "freguesia": "Vinhós",
-      "distrito": "Braga",
-      "status": "Conclusão",
-      "latitude": 41.48777,
-      "longitude": -8.182112,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251242768",
       "data_inicio": "16-09-2025 14:51",
       "concelho": "Tabuaço",
@@ -250,9 +216,9 @@
       "status": "Despacho de 1º Alerta",
       "latitude": 38.84589,
       "longitude": -9.082623,
-      "operacionais": 12,
-      "terrestres": 3,
-      "aereos": 0,
+      "operacionais": 23,
+      "terrestres": 4,
+      "aereos": 1,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
