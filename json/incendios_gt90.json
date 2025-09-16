@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-16T22:50:38+00:00",
+  "atualizado_em": "2025-09-16T23:13:22+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 7,
   "incendios": [
     {
       "id": "20251194456",
@@ -99,6 +99,23 @@
       "longitude": -7.903958,
       "operacionais": 12,
       "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251244546",
+      "data_inicio": "16-09-2025 23:03",
+      "concelho": "Vila Franca De Xira",
+      "freguesia": "Alverca Do Ribatejo E Sobralinho",
+      "distrito": "Lisboa",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.918738,
+      "longitude": -9.025265,
+      "operacionais": 10,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
