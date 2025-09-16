@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-16T11:16:29+00:00",
+  "atualizado_em": "2025-09-16T11:28:21+00:00",
   "criterio": "> 1 operacionais",
   "total": 12,
   "incendios": [
@@ -165,8 +165,8 @@
       "status": "Conclusão",
       "latitude": 41.552067,
       "longitude": -7.54159,
-      "operacionais": 10,
-      "terrestres": 2,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -196,7 +196,7 @@
       "concelho": "Tábua",
       "freguesia": "Mouronho",
       "distrito": "Coimbra",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 40.24389,
       "longitude": -8.04222,
       "operacionais": 34,
