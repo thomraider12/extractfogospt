@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-17T04:52:50+00:00",
+  "atualizado_em": "2025-09-17T05:17:56+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 7,
   "incendios": [
     {
       "id": "20251194456",
@@ -97,6 +97,23 @@
       "status": "Conclusão",
       "latitude": 39.797637,
       "longitude": -8.425235,
+      "operacionais": 7,
+      "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251244937",
+      "data_inicio": "17-09-2025 04:56",
+      "concelho": "Arouca",
+      "freguesia": "Escariz",
+      "distrito": "Aveiro",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 40.90823,
+      "longitude": -8.386905,
       "operacionais": 7,
       "terrestres": 2,
       "aereos": 0,
