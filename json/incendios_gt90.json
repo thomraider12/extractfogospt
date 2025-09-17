@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-17T05:17:56+00:00",
+  "atualizado_em": "2025-09-17T05:40:28+00:00",
   "criterio": "> 1 operacionais",
   "total": 7,
   "incendios": [
@@ -111,11 +111,11 @@
       "concelho": "Arouca",
       "freguesia": "Escariz",
       "distrito": "Aveiro",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 40.90823,
-      "longitude": -8.386905,
-      "operacionais": 7,
-      "terrestres": 2,
+      "status": "Chegada ao TO",
+      "latitude": 40.911952,
+      "longitude": -8.391807,
+      "operacionais": 14,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
