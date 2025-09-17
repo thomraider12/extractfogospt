@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-17T06:49:42+00:00",
+  "atualizado_em": "2025-09-17T07:18:02+00:00",
   "criterio": "> 1 operacionais",
   "total": 7,
   "incendios": [
@@ -29,9 +29,9 @@
       "status": "Conclusão",
       "latitude": 41.401343,
       "longitude": -7.55901,
-      "operacionais": 51,
-      "terrestres": 16,
-      "aereos": 0,
+      "operacionais": 59,
+      "terrestres": 17,
+      "aereos": 1,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
@@ -111,7 +111,7 @@
       "concelho": "Chaves",
       "freguesia": "Travancas E Roriz",
       "distrito": "Vila Real",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.8165,
       "longitude": -7.308297,
       "operacionais": 32,
