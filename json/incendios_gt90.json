@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-17T11:15:25+00:00",
+  "atualizado_em": "2025-09-17T11:27:36+00:00",
   "criterio": "> 1 operacionais",
   "total": 11,
   "incendios": [
@@ -29,8 +29,8 @@
       "status": "Conclusão",
       "latitude": 41.401343,
       "longitude": -7.55901,
-      "operacionais": 73,
-      "terrestres": 19,
+      "operacionais": 68,
+      "terrestres": 18,
       "aereos": 4,
       "area_km2": null,
       "tem_kml": false,
@@ -182,8 +182,8 @@
       "status": "Despacho de 1º Alerta",
       "latitude": 40.751202,
       "longitude": -7.808679,
-      "operacionais": 13,
-      "terrestres": 2,
+      "operacionais": 45,
+      "terrestres": 11,
       "aereos": 1,
       "area_km2": null,
       "tem_kml": false,
