@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-18T07:37:49+00:00",
+  "atualizado_em": "2025-09-18T07:50:33+00:00",
   "criterio": "> 1 operacionais",
   "total": 6,
   "incendios": [
@@ -63,8 +63,8 @@
       "status": "Vigilância",
       "latitude": 40.745844,
       "longitude": -7.825281,
-      "operacionais": 2,
-      "terrestres": 1,
+      "operacionais": 7,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -94,7 +94,7 @@
       "concelho": "Chaves",
       "freguesia": "Cimo De Vila Da Castanheira",
       "distrito": "Vila Real",
-      "status": "Conclusão",
+      "status": "Vigilância",
       "latitude": 41.809952,
       "longitude": -7.303757,
       "operacionais": 15,
