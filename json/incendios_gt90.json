@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-18T23:16:32+00:00",
+  "atualizado_em": "2025-09-18T23:37:21+00:00",
   "criterio": "> 1 operacionais",
   "total": 8,
   "incendios": [
@@ -97,8 +97,8 @@
       "status": "Conclusão",
       "latitude": 41.003132,
       "longitude": -8.491102,
-      "operacionais": 30,
-      "terrestres": 8,
+      "operacionais": 25,
+      "terrestres": 7,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -129,8 +129,8 @@
       "freguesia": "Candemil",
       "distrito": "Porto",
       "status": "Despacho de 1º Alerta",
-      "latitude": 41.24726,
-      "longitude": -7.965348,
+      "latitude": 41.249685,
+      "longitude": -7.973833,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
