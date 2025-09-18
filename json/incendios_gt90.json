@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-18T22:31:28+00:00",
+  "atualizado_em": "2025-09-18T22:50:41+00:00",
   "criterio": "> 1 operacionais",
-  "total": 8,
+  "total": 9,
   "incendios": [
     {
       "id": "20251194456",
@@ -131,8 +131,25 @@
       "status": "Conclusão",
       "latitude": 37.137966,
       "longitude": -8.532608,
-      "operacionais": 20,
-      "terrestres": 6,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251254523",
+      "data_inicio": "18-09-2025 21:55",
+      "concelho": "Rio Maior",
+      "freguesia": "Rio Maior",
+      "distrito": "Santarém",
+      "status": "Chegada ao TO",
+      "latitude": 39.31347,
+      "longitude": -8.93635,
+      "operacionais": 7,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
