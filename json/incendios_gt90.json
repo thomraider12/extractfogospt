@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-18T20:40:25+00:00",
+  "atualizado_em": "2025-09-18T20:51:05+00:00",
   "criterio": "> 1 operacionais",
   "total": 10,
   "incendios": [
@@ -106,23 +106,6 @@
       "kml_file": null
     },
     {
-      "id": "20251253456",
-      "data_inicio": "18-09-2025 17:19",
-      "concelho": "Marco De Canaveses",
-      "freguesia": "Bem Viver",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.116295,
-      "longitude": -8.2352,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251253810",
       "data_inicio": "18-09-2025 18:43",
       "concelho": "Arcos De Valdevez",
@@ -167,6 +150,23 @@
       "longitude": -8.33575,
       "operacionais": 14,
       "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251254194",
+      "data_inicio": "18-09-2025 20:35",
+      "concelho": "Marco De Canaveses",
+      "freguesia": "Vila Boa De Quires E Maureles",
+      "distrito": "Porto",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.1886,
+      "longitude": -8.21377,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
