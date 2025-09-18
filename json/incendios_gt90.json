@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-18T23:37:21+00:00",
+  "atualizado_em": "2025-09-18T23:51:05+00:00",
   "criterio": "> 1 operacionais",
   "total": 8,
   "incendios": [
@@ -128,7 +128,7 @@
       "concelho": "Amarante",
       "freguesia": "Candemil",
       "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
+      "status": "Em Curso",
       "latitude": 41.249685,
       "longitude": -7.973833,
       "operacionais": 5,
