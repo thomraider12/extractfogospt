@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-18T05:17:18+00:00",
+  "atualizado_em": "2025-09-18T05:39:35+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 6,
   "incendios": [
     {
       "id": "20251194456",
@@ -80,6 +80,23 @@
       "status": "Vigilância",
       "latitude": 40.644483,
       "longitude": -7.95257,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251249902",
+      "data_inicio": "18-09-2025 05:29",
+      "concelho": "Chaves",
+      "freguesia": "Travancas E Roriz",
+      "distrito": "Vila Real",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.82217,
+      "longitude": -7.320969,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
