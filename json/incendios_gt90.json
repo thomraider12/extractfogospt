@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-18T01:20:14+00:00",
+  "atualizado_em": "2025-09-18T02:42:57+00:00",
   "criterio": "> 1 operacionais",
-  "total": 7,
+  "total": 6,
   "incendios": [
     {
       "id": "20251194456",
@@ -89,31 +89,14 @@
       "kml_file": null
     },
     {
-      "id": "20251248814",
-      "data_inicio": "17-09-2025 19:04",
-      "concelho": "Vizela",
-      "freguesia": "Santa Eulália",
-      "distrito": "Braga",
-      "status": "Conclusão",
-      "latitude": 41.34991,
-      "longitude": -8.2858,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251249651",
       "data_inicio": "18-09-2025 00:42",
       "concelho": "Cartaxo",
       "freguesia": "Ereira E Lapa",
       "distrito": "Santarém",
-      "status": "Chegada ao TO",
-      "latitude": 39.164206,
-      "longitude": -8.873604,
+      "status": "Conclusão",
+      "latitude": 39.167733,
+      "longitude": -8.904613,
       "operacionais": 16,
       "terrestres": 5,
       "aereos": 0,
