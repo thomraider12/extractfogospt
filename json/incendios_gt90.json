@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-19T06:49:35+00:00",
+  "atualizado_em": "2025-09-19T07:17:38+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251194456",
@@ -19,23 +19,6 @@
       "tem_kml": true,
       "kml_source": "kmlVost",
       "kml_file": "kml/20251194456_AOI_IR_SEIA_06_09_2025.kml.kml"
-    },
-    {
-      "id": "20251244726",
-      "data_inicio": "17-09-2025 01:13",
-      "concelho": "Alvaiázere",
-      "freguesia": "Pelmá",
-      "distrito": "Leiria",
-      "status": "Vigilância",
-      "latitude": 39.797637,
-      "longitude": -8.425235,
-      "operacionais": 2,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
     },
     {
       "id": "20251246577",
