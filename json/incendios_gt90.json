@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-19T09:40:08+00:00",
+  "atualizado_em": "2025-09-19T09:50:36+00:00",
   "criterio": "> 1 operacionais",
-  "total": 8,
+  "total": 7,
   "incendios": [
     {
       "id": "20251194456",
@@ -55,23 +55,6 @@
       "kml_file": null
     },
     {
-      "id": "20251255332",
-      "data_inicio": "19-09-2025 07:23",
-      "concelho": "Monchique",
-      "freguesia": "Monchique",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.369138,
-      "longitude": -8.635435,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251255713",
       "data_inicio": "19-09-2025 08:31",
       "concelho": "Odemira",
@@ -80,8 +63,8 @@
       "status": "Conclusão",
       "latitude": 37.50632,
       "longitude": -8.694348,
-      "operacionais": 18,
-      "terrestres": 5,
+      "operacionais": 10,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -131,8 +114,8 @@
       "status": "Despacho de 1º Alerta",
       "latitude": 41.81551,
       "longitude": -6.76263,
-      "operacionais": 7,
-      "terrestres": 2,
+      "operacionais": 8,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
