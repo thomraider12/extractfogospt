@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-21T05:17:35+00:00",
+  "atualizado_em": "2025-09-21T05:39:22+00:00",
   "criterio": "> 1 operacionais",
-  "total": 10,
+  "total": 11,
   "incendios": [
     {
       "id": "20251194456",
@@ -167,6 +167,23 @@
       "longitude": -8.128985,
       "operacionais": 7,
       "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251264919",
+      "data_inicio": "21-09-2025 05:25",
+      "concelho": "Felgueiras",
+      "freguesia": "Vila Cova Da Lixa E Borba De Godim",
+      "distrito": "Porto",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.328039,
+      "longitude": -8.143559,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
