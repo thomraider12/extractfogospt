@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-21T05:39:22+00:00",
+  "atualizado_em": "2025-09-21T05:50:53+00:00",
   "criterio": "> 1 operacionais",
   "total": 11,
   "incendios": [
@@ -179,9 +179,9 @@
       "concelho": "Felgueiras",
       "freguesia": "Vila Cova Da Lixa E Borba De Godim",
       "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.328039,
-      "longitude": -8.143559,
+      "status": "Conclusão",
+      "latitude": 41.31383,
+      "longitude": -8.147082,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
