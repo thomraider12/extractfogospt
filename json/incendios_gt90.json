@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-21T03:55:56+00:00",
+  "atualizado_em": "2025-09-21T04:21:58+00:00",
   "criterio": "> 1 operacionais",
-  "total": 9,
+  "total": 10,
   "incendios": [
     {
       "id": "20251194456",
@@ -148,6 +148,23 @@
       "status": "Vigilância",
       "latitude": 40.609133,
       "longitude": -7.639468,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251264776",
+      "data_inicio": "21-09-2025 03:08",
+      "concelho": "Terras De Bouro",
+      "freguesia": "Campo Do Gerês",
+      "distrito": "Braga",
+      "status": "Chegada ao TO",
+      "latitude": 41.803567,
+      "longitude": -8.128985,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
