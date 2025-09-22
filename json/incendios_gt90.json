@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-22T05:40:36+00:00",
+  "atualizado_em": "2025-09-22T05:51:12+00:00",
   "criterio": "> 1 operacionais",
-  "total": 14,
+  "total": 15,
   "incendios": [
     {
       "id": "20251194456",
@@ -235,6 +235,23 @@
       "longitude": -6.67984,
       "operacionais": 2,
       "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251269252",
+      "data_inicio": "22-09-2025 05:32",
+      "concelho": "Santiago Do Cacém",
+      "freguesia": "Santiago Do Cacém, S.Cruz E São Bartolomeu Da Serra",
+      "distrito": "Setúbal",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.017495,
+      "longitude": -8.708165,
+      "operacionais": 4,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
