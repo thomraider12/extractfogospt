@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-22T04:52:43+00:00",
+  "atualizado_em": "2025-09-22T05:18:32+00:00",
   "criterio": "> 1 operacionais",
   "total": 14,
   "incendios": [
@@ -60,11 +60,11 @@
       "concelho": "Viseu",
       "freguesia": "Barreiros E Cepões",
       "distrito": "Viseu",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 40.76602,
       "longitude": -7.786007,
-      "operacionais": 27,
-      "terrestres": 6,
+      "operacionais": 29,
+      "terrestres": 7,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
