@@ -12,12 +12,14 @@ playlist2.ts
 playlist3.ts
 #EXTINF:10.066667,
 playlist4.ts
-#EXTINF:12.933333,
+#EXTINF:16.666667,
 playlist5.ts
 #EXTINF:8.333333,
 playlist6.ts
-#EXTINF:8.333333,
+#EXTINF:7.233333,
 playlist7.ts
-#EXTINF:11.800000,
+#EXTINF:8.333333,
 playlist8.ts
+#EXTINF:0.833333,
+playlist9.ts
 #EXT-X-ENDLIST
