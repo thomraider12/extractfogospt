@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-23T02:42:53+00:00",
+  "atualizado_em": "2025-09-23T03:21:36+00:00",
   "criterio": "> 1 operacionais",
   "total": 16,
   "incendios": [
@@ -63,8 +63,8 @@
       "status": "Conclusão",
       "latitude": 40.76602,
       "longitude": -7.786007,
-      "operacionais": 25,
-      "terrestres": 6,
+      "operacionais": 26,
+      "terrestres": 7,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -264,7 +264,7 @@
       "concelho": "Penafiel",
       "freguesia": "Canelas",
       "distrito": "Porto",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 41.077193,
       "longitude": -8.348435,
       "operacionais": 46,
