@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-24T05:39:51+00:00",
+  "atualizado_em": "2025-09-24T05:50:41+00:00",
   "criterio": "> 1 operacionais",
   "total": 18,
   "incendios": [
@@ -298,9 +298,9 @@
       "concelho": "Alvaiázere",
       "freguesia": "Pelmá",
       "distrito": "Leiria",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 39.79735,
-      "longitude": -8.43167,
+      "status": "Em Curso",
+      "latitude": 39.797555,
+      "longitude": -8.435515,
       "operacionais": 34,
       "terrestres": 8,
       "aereos": 0,
