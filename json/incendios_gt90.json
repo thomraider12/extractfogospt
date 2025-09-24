@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-24T03:22:52+00:00",
+  "atualizado_em": "2025-09-24T03:47:21+00:00",
   "criterio": "> 1 operacionais",
   "total": 19,
   "incendios": [
@@ -315,7 +315,7 @@
       "concelho": "Valongo",
       "freguesia": "Alfena",
       "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
+      "status": "Em Resolução",
       "latitude": 41.249,
       "longitude": -8.516398,
       "operacionais": 5,
