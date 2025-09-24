@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-24T01:21:37+00:00",
+  "atualizado_em": "2025-09-24T02:44:49+00:00",
   "criterio": "> 1 operacionais",
   "total": 18,
   "incendios": [
@@ -242,23 +242,6 @@
       "kml_file": null
     },
     {
-      "id": "20251278408",
-      "data_inicio": "23-09-2025 20:09",
-      "concelho": "Sintra",
-      "freguesia": "S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
-      "distrito": "Lisboa",
-      "status": "Conclusão",
-      "latitude": 38.770303,
-      "longitude": -9.36339,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251278734",
       "data_inicio": "23-09-2025 22:15",
       "concelho": "Penafiel",
@@ -303,6 +286,23 @@
       "longitude": -6.866968,
       "operacionais": 7,
       "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251278978",
+      "data_inicio": "24-09-2025 01:04",
+      "concelho": "Boticas",
+      "freguesia": "Alturas Do Barroso E Cerdedo",
+      "distrito": "Vila Real",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.704029,
+      "longitude": -7.883247,
+      "operacionais": 20,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
