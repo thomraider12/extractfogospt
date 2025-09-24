@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-24T05:50:41+00:00",
+  "atualizado_em": "2025-09-24T06:28:10+00:00",
   "criterio": "> 1 operacionais",
-  "total": 18,
+  "total": 17,
   "incendios": [
     {
       "id": "20251194456",
@@ -242,23 +242,6 @@
       "kml_file": null
     },
     {
-      "id": "20251278734",
-      "data_inicio": "23-09-2025 22:15",
-      "concelho": "Penafiel",
-      "freguesia": "Luzim E Vila Cova",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.186543,
-      "longitude": -8.24205,
-      "operacionais": 12,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251278895",
       "data_inicio": "23-09-2025 23:52",
       "concelho": "Figueira De Castelo Rodrigo",
@@ -298,11 +281,11 @@
       "concelho": "Alvaiázere",
       "freguesia": "Pelmá",
       "distrito": "Leiria",
-      "status": "Em Curso",
-      "latitude": 39.797555,
-      "longitude": -8.435515,
-      "operacionais": 34,
-      "terrestres": 8,
+      "status": "Em Resolução",
+      "latitude": 39.797163,
+      "longitude": -8.431617,
+      "operacionais": 39,
+      "terrestres": 11,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
