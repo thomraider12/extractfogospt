@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-24T05:17:49+00:00",
+  "atualizado_em": "2025-09-24T05:39:51+00:00",
   "criterio": "> 1 operacionais",
   "total": 18,
   "incendios": [
@@ -293,16 +293,16 @@
       "kml_file": null
     },
     {
-      "id": "20251279105",
-      "data_inicio": "24-09-2025 03:10",
-      "concelho": "Valongo",
-      "freguesia": "Alfena",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.249,
-      "longitude": -8.516398,
-      "operacionais": 10,
-      "terrestres": 2,
+      "id": "20251279204",
+      "data_inicio": "24-09-2025 05:05",
+      "concelho": "Alvaiázere",
+      "freguesia": "Pelmá",
+      "distrito": "Leiria",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 39.79735,
+      "longitude": -8.43167,
+      "operacionais": 34,
+      "terrestres": 8,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
