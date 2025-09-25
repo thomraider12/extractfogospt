@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-25T02:47:22+00:00",
+  "atualizado_em": "2025-09-25T03:33:49+00:00",
   "criterio": "> 1 operacionais",
-  "total": 13,
+  "total": 12,
   "incendios": [
     {
       "id": "20251194456",
@@ -201,23 +201,6 @@
       "longitude": -7.078549,
       "operacionais": 5,
       "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251282896",
-      "data_inicio": "24-09-2025 18:04",
-      "concelho": "Montalegre",
-      "freguesia": "Reigoso",
-      "distrito": "Vila Real",
-      "status": "Conclusão",
-      "latitude": 41.722405,
-      "longitude": -7.875838,
-      "operacionais": 25,
-      "terrestres": 7,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
