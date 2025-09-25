@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-25T05:18:04+00:00",
+  "atualizado_em": "2025-09-25T05:40:18+00:00",
   "criterio": "> 1 operacionais",
-  "total": 12,
+  "total": 13,
   "incendios": [
     {
       "id": "20251194456",
@@ -201,6 +201,23 @@
       "longitude": -7.078549,
       "operacionais": 5,
       "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251284227",
+      "data_inicio": "25-09-2025 05:13",
+      "concelho": "Odemira",
+      "freguesia": "Longueira/almograve",
+      "distrito": "Beja",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 37.657654,
+      "longitude": -8.779034,
+      "operacionais": 5,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
