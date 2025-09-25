@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-25T09:40:28+00:00",
+  "atualizado_em": "2025-09-25T09:50:51+00:00",
   "criterio": "> 1 operacionais",
-  "total": 24,
+  "total": 25,
   "incendios": [
     {
       "id": "20251194456",
@@ -403,6 +403,23 @@
       "status": "Em Resolução",
       "latitude": 41.264545,
       "longitude": -8.31785,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251285334",
+      "data_inicio": "25-09-2025 09:39",
+      "concelho": "Santo Tirso",
+      "freguesia": "Areias, Sequeiró, Lama E Palmeira",
+      "distrito": "Porto",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.362274,
+      "longitude": -8.475731,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
