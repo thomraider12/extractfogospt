@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-26T04:22:19+00:00",
+  "atualizado_em": "2025-09-26T04:42:01+00:00",
   "criterio": "> 1 operacionais",
-  "total": 11,
+  "total": 12,
   "incendios": [
     {
       "id": "20251194456",
@@ -184,6 +184,23 @@
       "longitude": -8.570292,
       "operacionais": 22,
       "terrestres": 7,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251289174",
+      "data_inicio": "26-09-2025 04:08",
+      "concelho": "Trofa",
+      "freguesia": "Bougado (São Martinho E Santiago)",
+      "distrito": "Porto",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.31025,
+      "longitude": -8.568874,
+      "operacionais": 12,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
