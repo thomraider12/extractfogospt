@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-26T04:42:01+00:00",
+  "atualizado_em": "2025-09-26T04:52:05+00:00",
   "criterio": "> 1 operacionais",
   "total": 12,
   "incendios": [
@@ -179,7 +179,7 @@
       "concelho": "Maia",
       "freguesia": "Nogueira E Silva Escura",
       "distrito": "Porto",
-      "status": "Chegada ao TO",
+      "status": "Em Resolução",
       "latitude": 41.24671,
       "longitude": -8.570292,
       "operacionais": 22,
@@ -196,9 +196,9 @@
       "concelho": "Trofa",
       "freguesia": "Bougado (São Martinho E Santiago)",
       "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.31025,
-      "longitude": -8.568874,
+      "status": "Chegada ao TO",
+      "latitude": 41.309898,
+      "longitude": -8.559707,
       "operacionais": 12,
       "terrestres": 3,
       "aereos": 0,
