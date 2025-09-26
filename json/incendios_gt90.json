@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-26T02:45:14+00:00",
+  "atualizado_em": "2025-09-26T03:24:07+00:00",
   "criterio": "> 1 operacionais",
   "total": 11,
   "incendios": [
@@ -174,16 +174,16 @@
       "kml_file": null
     },
     {
-      "id": "20251288910",
-      "data_inicio": "25-09-2025 23:58",
-      "concelho": "Castro Daire",
-      "freguesia": "Monteiras",
-      "distrito": "Viseu",
-      "status": "Conclusão",
-      "latitude": 40.950222,
-      "longitude": -7.865165,
-      "operacionais": 10,
-      "terrestres": 2,
+      "id": "20251289111",
+      "data_inicio": "26-09-2025 02:44",
+      "concelho": "Maia",
+      "freguesia": "Nogueira E Silva Escura",
+      "distrito": "Porto",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.245601,
+      "longitude": -8.583457,
+      "operacionais": 13,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
