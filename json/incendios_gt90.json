@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-26T05:39:51+00:00",
+  "atualizado_em": "2025-09-26T05:50:30+00:00",
   "criterio": "> 1 operacionais",
-  "total": 12,
+  "total": 13,
   "incendios": [
     {
       "id": "20251194456",
@@ -201,6 +201,23 @@
       "longitude": -8.559707,
       "operacionais": 19,
       "terrestres": 5,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251289246",
+      "data_inicio": "26-09-2025 05:36",
+      "concelho": "Vila Franca De Xira",
+      "freguesia": "Vila Franca De Xira",
+      "distrito": "Lisboa",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.95258,
+      "longitude": -8.998185,
+      "operacionais": 10,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
