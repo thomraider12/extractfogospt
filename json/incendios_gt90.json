@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-27T13:29:32+00:00",
+  "atualizado_em": "2025-09-27T13:39:48+00:00",
   "criterio": "> 1 operacionais",
   "total": 10,
   "incendios": [
@@ -80,9 +80,9 @@
       "status": "Em Resolução",
       "latitude": 39.882915,
       "longitude": -7.976706,
-      "operacionais": 166,
+      "operacionais": 160,
       "terrestres": 44,
-      "aereos": 1,
+      "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
@@ -145,7 +145,7 @@
       "concelho": "Santo Tirso",
       "freguesia": "Vilarinho",
       "distrito": "Porto",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 41.37003,
       "longitude": -8.346349,
       "operacionais": 9,
