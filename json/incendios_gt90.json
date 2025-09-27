@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-27T03:54:10+00:00",
+  "atualizado_em": "2025-09-27T04:21:03+00:00",
   "criterio": "> 1 operacionais",
-  "total": 10,
+  "total": 9,
   "incendios": [
     {
       "id": "20251194456",
@@ -106,23 +106,6 @@
       "kml_file": null
     },
     {
-      "id": "20251294186",
-      "data_inicio": "26-09-2025 23:23",
-      "concelho": "Campo Maior",
-      "freguesia": "Nossa Senhora Da Expectação",
-      "distrito": "Portalegre",
-      "status": "Conclusão",
-      "latitude": 39.029292,
-      "longitude": -7.016395,
-      "operacionais": 2,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251294348",
       "data_inicio": "27-09-2025 01:10",
       "concelho": "Penafiel",
@@ -140,23 +123,6 @@
       "kml_file": null
     },
     {
-      "id": "20251294467",
-      "data_inicio": "27-09-2025 02:44",
-      "concelho": "Lagos",
-      "freguesia": "Lagos (São Sebastião E Santa Maria)",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.098242,
-      "longitude": -8.68433,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251294463",
       "data_inicio": "27-09-2025 02:43",
       "concelho": "Moita",
@@ -167,6 +133,23 @@
       "longitude": -8.988475,
       "operacionais": 7,
       "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251294530",
+      "data_inicio": "27-09-2025 03:46",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "São João De Ver",
+      "distrito": "Aveiro",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 40.96695,
+      "longitude": -8.543754,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
