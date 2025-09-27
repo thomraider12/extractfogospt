@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-27T21:27:11+00:00",
+  "atualizado_em": "2025-09-27T21:38:27+00:00",
   "criterio": "> 1 operacionais",
-  "total": 11,
+  "total": 10,
   "incendios": [
     {
       "id": "20251194456",
@@ -64,23 +64,6 @@
       "latitude": 39.651515,
       "longitude": -8.89598,
       "operacionais": 2,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251296882",
-      "data_inicio": "27-09-2025 14:25",
-      "concelho": "Cantanhede",
-      "freguesia": "Covões E Camarneira",
-      "distrito": "Coimbra",
-      "status": "Vigilância",
-      "latitude": 40.468871,
-      "longitude": -8.581894,
-      "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
