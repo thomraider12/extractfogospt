@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-27T04:21:03+00:00",
+  "atualizado_em": "2025-09-27T04:41:36+00:00",
   "criterio": "> 1 operacionais",
-  "total": 9,
+  "total": 10,
   "incendios": [
     {
       "id": "20251194456",
@@ -148,6 +148,23 @@
       "status": "Despacho de 1º Alerta",
       "latitude": 40.96695,
       "longitude": -8.543754,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251294561",
+      "data_inicio": "27-09-2025 04:12",
+      "concelho": "Alenquer",
+      "freguesia": "Alenquer (Santo Estêvão E Triana)",
+      "distrito": "Lisboa",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 39.082345,
+      "longitude": -8.989469,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
