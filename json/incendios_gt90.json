@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-27T21:38:27+00:00",
+  "atualizado_em": "2025-09-27T21:50:49+00:00",
   "criterio": "> 1 operacionais",
-  "total": 10,
+  "total": 8,
   "incendios": [
     {
       "id": "20251194456",
@@ -89,23 +89,6 @@
       "kml_file": null
     },
     {
-      "id": "20251297533",
-      "data_inicio": "27-09-2025 16:53",
-      "concelho": "Santa Maria Da Feira",
-      "freguesia": "Argoncilhe",
-      "distrito": "Aveiro",
-      "status": "Conclusão",
-      "latitude": 41.03218,
-      "longitude": -8.543464,
-      "operacionais": 10,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251297833",
       "data_inicio": "27-09-2025 18:12",
       "concelho": "Oliveira De Frades",
@@ -114,8 +97,8 @@
       "status": "Em Resolução",
       "latitude": 40.735107,
       "longitude": -8.167883,
-      "operacionais": 24,
-      "terrestres": 6,
+      "operacionais": 12,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -150,23 +133,6 @@
       "longitude": -9.181054,
       "operacionais": 2,
       "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251298157",
-      "data_inicio": "27-09-2025 19:27",
-      "concelho": "Pombal",
-      "freguesia": "Louriçal",
-      "distrito": "Leiria",
-      "status": "Conclusão",
-      "latitude": 40.00463,
-      "longitude": -8.74038,
-      "operacionais": 9,
-      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
