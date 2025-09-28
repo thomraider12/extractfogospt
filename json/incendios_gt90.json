@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-28T03:55:41+00:00",
+  "atualizado_em": "2025-09-28T04:21:58+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 5,
   "incendios": [
     {
       "id": "20251194456",
@@ -81,23 +81,6 @@
       "latitude": 40.204972,
       "longitude": -8.08478,
       "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251298048",
-      "data_inicio": "27-09-2025 19:03",
-      "concelho": "Mirandela",
-      "freguesia": "Carvalhais",
-      "distrito": "Bragança",
-      "status": "Conclusão",
-      "latitude": 41.50026,
-      "longitude": -7.147612,
-      "operacionais": 2,
       "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
