@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-28T19:13:17+00:00",
+  "atualizado_em": "2025-09-28T19:23:51+00:00",
   "criterio": "> 1 operacionais",
   "total": 6,
   "incendios": [
@@ -89,16 +89,16 @@
       "kml_file": null
     },
     {
-      "id": "20251302401",
-      "data_inicio": "28-09-2025 17:55",
-      "concelho": "Santarém",
-      "freguesia": "Moçarria",
-      "distrito": "Santarém",
-      "status": "Conclusão",
-      "latitude": 39.258013,
-      "longitude": -8.774058,
-      "operacionais": 14,
-      "terrestres": 4,
+      "id": "20251302637",
+      "data_inicio": "28-09-2025 19:00",
+      "concelho": "Beja",
+      "freguesia": "Nossa Senhora Das Neves",
+      "distrito": "Beja",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.02161,
+      "longitude": -7.81069,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
