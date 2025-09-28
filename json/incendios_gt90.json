@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-28T10:17:10+00:00",
+  "atualizado_em": "2025-09-28T10:39:14+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 7,
   "incendios": [
     {
       "id": "20251194456",
@@ -97,6 +97,23 @@
       "status": "Conclusão",
       "latitude": 39.05024,
       "longitude": -9.269368,
+      "operacionais": 2,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251300612",
+      "data_inicio": "28-09-2025 10:24",
+      "concelho": "Loures",
+      "freguesia": "Camarate, Unhos E Apelação",
+      "distrito": "Lisboa",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.818158,
+      "longitude": -9.13597,
       "operacionais": 7,
       "terrestres": 2,
       "aereos": 0,
