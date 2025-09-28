@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-28T12:34:20+00:00",
+  "atualizado_em": "2025-09-28T13:03:56+00:00",
   "criterio": "> 1 operacionais",
   "total": 6,
   "incendios": [
@@ -94,7 +94,7 @@
       "concelho": "Póvoa De Varzim",
       "freguesia": "Estela",
       "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 41.44442,
       "longitude": -8.737543,
       "operacionais": 5,
