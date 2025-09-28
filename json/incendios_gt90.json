@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-27T23:51:18+00:00",
+  "atualizado_em": "2025-09-28T01:36:54+00:00",
   "criterio": "> 1 operacionais",
   "total": 6,
   "incendios": [
@@ -77,11 +77,11 @@
       "concelho": "Arganil",
       "freguesia": "Arganil",
       "distrito": "Coimbra",
-      "status": "Conclusão",
+      "status": "Vigilância",
       "latitude": 40.204972,
       "longitude": -8.08478,
-      "operacionais": 96,
-      "terrestres": 25,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
