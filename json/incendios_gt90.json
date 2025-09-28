@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-28T11:50:44+00:00",
+  "atualizado_em": "2025-09-28T12:34:20+00:00",
   "criterio": "> 1 operacionais",
   "total": 6,
   "incendios": [
@@ -89,16 +89,16 @@
       "kml_file": null
     },
     {
-      "id": "20251300612",
-      "data_inicio": "28-09-2025 10:24",
-      "concelho": "Loures",
-      "freguesia": "Santo António Dos Cavaleiros E Frielas",
-      "distrito": "Lisboa",
-      "status": "Conclusão",
-      "latitude": 38.819546,
-      "longitude": -9.13575,
-      "operacionais": 14,
-      "terrestres": 4,
+      "id": "20251301007",
+      "data_inicio": "28-09-2025 11:52",
+      "concelho": "Póvoa De Varzim",
+      "freguesia": "Estela",
+      "distrito": "Porto",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.44442,
+      "longitude": -8.737543,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
