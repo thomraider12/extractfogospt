@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-28T17:28:22+00:00",
+  "atualizado_em": "2025-09-28T17:39:18+00:00",
   "criterio": "> 1 operacionais",
-  "total": 10,
+  "total": 9,
   "incendios": [
     {
       "id": "20251194456",
@@ -89,23 +89,6 @@
       "kml_file": null
     },
     {
-      "id": "20251301931",
-      "data_inicio": "28-09-2025 15:43",
-      "concelho": "Gondomar",
-      "freguesia": "Fânzeres E São Pedro Da Cova",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.155311,
-      "longitude": -8.511531,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251301979",
       "data_inicio": "28-09-2025 16:01",
       "concelho": "Montalegre",
@@ -114,8 +97,8 @@
       "status": "Conclusão",
       "latitude": 41.71821,
       "longitude": -7.806057,
-      "operacionais": 15,
-      "terrestres": 3,
+      "operacionais": 10,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -145,7 +128,7 @@
       "concelho": "Castro Daire",
       "freguesia": "Gosende",
       "distrito": "Viseu",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 40.99951,
       "longitude": -7.923548,
       "operacionais": 5,
