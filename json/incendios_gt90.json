@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-28T18:22:55+00:00",
+  "atualizado_em": "2025-09-28T18:43:12+00:00",
   "criterio": "> 1 operacionais",
-  "total": 9,
+  "total": 8,
   "incendios": [
     {
       "id": "20251194456",
@@ -97,8 +97,8 @@
       "status": "Conclusão",
       "latitude": 38.025723,
       "longitude": -7.866393,
-      "operacionais": 9,
-      "terrestres": 3,
+      "operacionais": 2,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -123,23 +123,6 @@
       "kml_file": null
     },
     {
-      "id": "20251302255",
-      "data_inicio": "28-09-2025 17:12",
-      "concelho": "Arcos De Valdevez",
-      "freguesia": "São Jorge E Ermelo",
-      "distrito": "Viana Do Castelo",
-      "status": "Em Resolução",
-      "latitude": 41.816165,
-      "longitude": -8.369945,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251302401",
       "data_inicio": "28-09-2025 17:55",
       "concelho": "Santarém",
@@ -148,9 +131,9 @@
       "status": "Em Resolução",
       "latitude": 39.258013,
       "longitude": -8.774058,
-      "operacionais": 25,
+      "operacionais": 19,
       "terrestres": 5,
-      "aereos": 1,
+      "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
