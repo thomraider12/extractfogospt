@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-28T18:43:12+00:00",
+  "atualizado_em": "2025-09-28T18:53:31+00:00",
   "criterio": "> 1 operacionais",
-  "total": 8,
+  "total": 7,
   "incendios": [
     {
       "id": "20251194456",
@@ -106,33 +106,16 @@
       "kml_file": null
     },
     {
-      "id": "20251302244",
-      "data_inicio": "28-09-2025 17:06",
-      "concelho": "Castro Daire",
-      "freguesia": "Gosende",
-      "distrito": "Viseu",
-      "status": "Conclusão",
-      "latitude": 40.99951,
-      "longitude": -7.923548,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251302401",
       "data_inicio": "28-09-2025 17:55",
       "concelho": "Santarém",
       "freguesia": "Moçarria",
       "distrito": "Santarém",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 39.258013,
       "longitude": -8.774058,
-      "operacionais": 19,
-      "terrestres": 5,
+      "operacionais": 14,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
