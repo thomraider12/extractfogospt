@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-28T13:03:56+00:00",
+  "atualizado_em": "2025-09-28T13:29:53+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 5,
   "incendios": [
     {
       "id": "20251194456",
@@ -81,23 +81,6 @@
       "latitude": 40.204972,
       "longitude": -8.08478,
       "operacionais": 2,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251301007",
-      "data_inicio": "28-09-2025 11:52",
-      "concelho": "Póvoa De Varzim",
-      "freguesia": "Estela",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.44442,
-      "longitude": -8.737543,
-      "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
