@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-28T11:13:38+00:00",
+  "atualizado_em": "2025-09-28T11:24:44+00:00",
   "criterio": "> 1 operacionais",
   "total": 6,
   "incendios": [
@@ -94,9 +94,9 @@
       "concelho": "Loures",
       "freguesia": "Camarate, Unhos E Apelação",
       "distrito": "Lisboa",
-      "status": "Em Resolução",
-      "latitude": 38.818158,
-      "longitude": -9.13597,
+      "status": "Conclusão",
+      "latitude": 38.819097,
+      "longitude": -9.135198,
       "operacionais": 14,
       "terrestres": 4,
       "aereos": 0,
