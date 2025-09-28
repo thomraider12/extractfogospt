@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-28T19:37:22+00:00",
+  "atualizado_em": "2025-09-28T19:50:44+00:00",
   "criterio": "> 1 operacionais",
   "total": 6,
   "incendios": [
@@ -94,7 +94,7 @@
       "concelho": "Beja",
       "freguesia": "Nossa Senhora Das Neves",
       "distrito": "Beja",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 38.02161,
       "longitude": -7.81069,
       "operacionais": 5,
