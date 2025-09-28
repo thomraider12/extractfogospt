@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-28T08:20:45+00:00",
+  "atualizado_em": "2025-09-28T08:40:52+00:00",
   "criterio": "> 1 operacionais",
   "total": 6,
   "incendios": [
@@ -94,9 +94,9 @@
       "concelho": "Torres Vedras",
       "freguesia": "S.Pedro E Santiago, S.Maria E S.Miguel E Matacães",
       "distrito": "Lisboa",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 39.094712,
-      "longitude": -9.250296,
+      "status": "Conclusão",
+      "latitude": 39.05024,
+      "longitude": -9.269368,
       "operacionais": 7,
       "terrestres": 2,
       "aereos": 0,
