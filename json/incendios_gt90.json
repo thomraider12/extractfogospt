@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-28T16:50:40+00:00",
+  "atualizado_em": "2025-09-28T17:13:53+00:00",
   "criterio": "> 1 operacionais",
-  "total": 7,
+  "total": 8,
   "incendios": [
     {
       "id": "20251194456",
@@ -114,9 +114,26 @@
       "status": "Conclusão",
       "latitude": 41.71821,
       "longitude": -7.806057,
-      "operacionais": 26,
+      "operacionais": 15,
+      "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251302181",
+      "data_inicio": "28-09-2025 16:53",
+      "concelho": "Beja",
+      "freguesia": "Beja (salvador E Santa Maria Da Feira)",
+      "distrito": "Beja",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.0306,
+      "longitude": -7.86383,
+      "operacionais": 17,
       "terrestres": 4,
-      "aereos": 1,
+      "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
