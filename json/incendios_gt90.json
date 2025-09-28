@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-28T16:19:59+00:00",
+  "atualizado_em": "2025-09-28T16:40:11+00:00",
   "criterio": "> 1 operacionais",
-  "total": 8,
+  "total": 7,
   "incendios": [
     {
       "id": "20251194456",
@@ -89,23 +89,6 @@
       "kml_file": null
     },
     {
-      "id": "20251301889",
-      "data_inicio": "28-09-2025 15:38",
-      "concelho": "Valongo",
-      "freguesia": "Ermesinde",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.21537,
-      "longitude": -8.53761,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251301931",
       "data_inicio": "28-09-2025 15:43",
       "concelho": "Gondomar",
@@ -125,14 +108,14 @@
     {
       "id": "20251301979",
       "data_inicio": "28-09-2025 16:01",
-      "concelho": "Boticas",
-      "freguesia": "Alturas Do Barroso E Cerdedo",
+      "concelho": "Montalegre",
+      "freguesia": "Negrões",
       "distrito": "Vila Real",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.706581,
-      "longitude": -7.821962,
-      "operacionais": 21,
-      "terrestres": 3,
+      "status": "Em Curso",
+      "latitude": 41.71821,
+      "longitude": -7.806057,
+      "operacionais": 26,
+      "terrestres": 4,
       "aereos": 1,
       "area_km2": null,
       "tem_kml": false,
