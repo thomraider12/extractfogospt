@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-29T17:16:33+00:00",
+  "atualizado_em": "2025-09-29T17:37:26+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251194456",
@@ -63,23 +63,6 @@
       "status": "Despacho de 1º Alerta",
       "latitude": 41.846175,
       "longitude": -7.838146,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251306906",
-      "data_inicio": "29-09-2025 15:50",
-      "concelho": "Valpaços",
-      "freguesia": "Vilarandelo",
-      "distrito": "Vila Real",
-      "status": "Conclusão",
-      "latitude": 41.666675,
-      "longitude": -7.32503,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
