@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-29T19:51:07+00:00",
+  "atualizado_em": "2025-09-29T20:18:20+00:00",
   "criterio": "> 1 operacionais",
   "total": 4,
   "incendios": [
@@ -60,11 +60,11 @@
       "concelho": "Cascais",
       "freguesia": "São Domingos De Rana",
       "distrito": "Lisboa",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 38.73887,
-      "longitude": -9.344559,
-      "operacionais": 7,
-      "terrestres": 2,
+      "status": "Em Resolução",
+      "latitude": 38.739671,
+      "longitude": -9.345657,
+      "operacionais": 29,
+      "terrestres": 7,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
