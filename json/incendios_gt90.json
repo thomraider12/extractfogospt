@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-29T07:50:46+00:00",
+  "atualizado_em": "2025-09-29T08:27:48+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 6,
   "incendios": [
     {
       "id": "20251194456",
@@ -80,8 +80,25 @@
       "status": "Vigilância",
       "latitude": 40.490052,
       "longitude": -7.59114,
-      "operacionais": 19,
-      "terrestres": 6,
+      "operacionais": 9,
+      "terrestres": 4,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251304319",
+      "data_inicio": "29-09-2025 08:08",
+      "concelho": "Loures",
+      "freguesia": "Santo Antão E São Julião Do Tojal",
+      "distrito": "Lisboa",
+      "status": "Conclusão",
+      "latitude": 38.88138,
+      "longitude": -9.116117,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
