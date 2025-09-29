@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-29T17:37:26+00:00",
+  "atualizado_em": "2025-09-29T17:50:42+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 5,
   "incendios": [
     {
       "id": "20251194456",
@@ -65,6 +65,23 @@
       "longitude": -7.838146,
       "operacionais": 5,
       "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251307436",
+      "data_inicio": "29-09-2025 17:33",
+      "concelho": "Mirandela",
+      "freguesia": "Mirandela",
+      "distrito": "Bragança",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.484193,
+      "longitude": -7.170474,
+      "operacionais": 6,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
