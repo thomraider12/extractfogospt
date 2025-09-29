@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-29T18:49:12+00:00",
+  "atualizado_em": "2025-09-29T19:15:25+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 4,
   "incendios": [
     {
       "id": "20251194456",
@@ -29,8 +29,8 @@
       "status": "Vigilância",
       "latitude": 37.23495,
       "longitude": -8.825374,
-      "operacionais": 20,
-      "terrestres": 6,
+      "operacionais": 22,
+      "terrestres": 7,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -55,23 +55,6 @@
       "kml_file": null
     },
     {
-      "id": "20251307527",
-      "data_inicio": "29-09-2025 17:57",
-      "concelho": "Torres Vedras",
-      "freguesia": "Ramalhal",
-      "distrito": "Lisboa",
-      "status": "Conclusão",
-      "latitude": 39.139866,
-      "longitude": -9.220329,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251307453",
       "data_inicio": "29-09-2025 17:38",
       "concelho": "Montalegre",
@@ -82,23 +65,6 @@
       "longitude": -7.747187,
       "operacionais": 5,
       "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251307669",
-      "data_inicio": "29-09-2025 18:27",
-      "concelho": "Estremoz",
-      "freguesia": "Estremoz (Santa Maria E Santo André)",
-      "distrito": "Évora",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 38.841452,
-      "longitude": -7.591151,
-      "operacionais": 11,
-      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
