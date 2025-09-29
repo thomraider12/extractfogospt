@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-29T19:27:42+00:00",
+  "atualizado_em": "2025-09-29T19:39:39+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 3,
   "incendios": [
     {
       "id": "20251194456",
@@ -47,23 +47,6 @@
       "latitude": 40.251592,
       "longitude": -7.521592,
       "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251307453",
-      "data_inicio": "29-09-2025 17:38",
-      "concelho": "Montalegre",
-      "freguesia": "Morgade",
-      "distrito": "Vila Real",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.754073,
-      "longitude": -7.747187,
-      "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
