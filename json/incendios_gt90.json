@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-29T01:23:50+00:00",
+  "atualizado_em": "2025-09-29T02:49:19+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251194456",
@@ -64,23 +64,6 @@
       "latitude": 39.651515,
       "longitude": -8.89598,
       "operacionais": 2,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251303405",
-      "data_inicio": "29-09-2025 00:17",
-      "concelho": "Melgaço",
-      "freguesia": "Cousso",
-      "distrito": "Viana Do Castelo",
-      "status": "Conclusão",
-      "latitude": 42.053512,
-      "longitude": -8.290189,
-      "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
