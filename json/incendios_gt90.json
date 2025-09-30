@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-30T19:27:17+00:00",
+  "atualizado_em": "2025-09-30T19:38:59+00:00",
   "criterio": "> 1 operacionais",
-  "total": 7,
+  "total": 8,
   "incendios": [
     {
       "id": "20251194456",
@@ -116,6 +116,23 @@
       "longitude": -8.54162,
       "operacionais": 10,
       "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251312912",
+      "data_inicio": "30-09-2025 19:26",
+      "concelho": "Castro Daire",
+      "freguesia": "Mões",
+      "distrito": "Viseu",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 40.896358,
+      "longitude": -7.880362,
+      "operacionais": 20,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
