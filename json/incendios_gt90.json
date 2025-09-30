@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-30T08:26:25+00:00",
+  "atualizado_em": "2025-09-30T08:49:32+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 4,
   "incendios": [
     {
       "id": "20251194456",
@@ -48,6 +48,23 @@
       "longitude": -7.521592,
       "operacionais": 4,
       "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251309621",
+      "data_inicio": "30-09-2025 08:32",
+      "concelho": "Lourinhã",
+      "freguesia": "Miragaia E Marteleira",
+      "distrito": "Lisboa",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 39.20887,
+      "longitude": -9.257283,
+      "operacionais": 7,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
