@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-30T06:28:57+00:00",
+  "atualizado_em": "2025-09-30T06:51:51+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251194456",
@@ -63,23 +63,6 @@
       "status": "Conclusão",
       "latitude": 39.786828,
       "longitude": -8.547856,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251308907",
-      "data_inicio": "30-09-2025 05:16",
-      "concelho": "São João Da Pesqueira",
-      "freguesia": "São João Da Pesqueira E Várzea De Trevões",
-      "distrito": "Viseu",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.09312,
-      "longitude": -7.46777,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
