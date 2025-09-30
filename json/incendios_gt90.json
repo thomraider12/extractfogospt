@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-30T20:40:30+00:00",
+  "atualizado_em": "2025-09-30T20:50:32+00:00",
   "criterio": "> 1 operacionais",
   "total": 8,
   "incendios": [
@@ -60,7 +60,7 @@
       "concelho": "Fafe",
       "freguesia": "Estorãos",
       "distrito": "Braga",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.495933,
       "longitude": -8.128778,
       "operacionais": 47,
@@ -128,9 +128,9 @@
       "concelho": "Montalegre",
       "freguesia": "Solveira",
       "distrito": "Vila Real",
-      "status": "Chegada ao TO",
-      "latitude": 41.842009,
-      "longitude": -7.667197,
+      "status": "Em Curso",
+      "latitude": 41.839635,
+      "longitude": -7.65053,
       "operacionais": 15,
       "terrestres": 3,
       "aereos": 0,
