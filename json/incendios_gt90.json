@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-30T22:39:18+00:00",
+  "atualizado_em": "2025-09-30T22:50:56+00:00",
   "criterio": "> 1 operacionais",
-  "total": 7,
+  "total": 6,
   "incendios": [
     {
       "id": "20251194456",
@@ -72,23 +72,6 @@
       "kml_file": null
     },
     {
-      "id": "20251313157",
-      "data_inicio": "30-09-2025 20:50",
-      "concelho": "Cinfães",
-      "freguesia": "Tendais",
-      "distrito": "Viseu",
-      "status": "Conclusão",
-      "latitude": 40.9916,
-      "longitude": -8.04943,
-      "operacionais": 10,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251313253",
       "data_inicio": "30-09-2025 21:18",
       "concelho": "Alijó",
@@ -111,11 +94,11 @@
       "concelho": "Portimão",
       "freguesia": "Mexilhoeira Grande",
       "distrito": "Faro",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 37.15391,
       "longitude": -8.606988,
-      "operacionais": 19,
-      "terrestres": 6,
+      "operacionais": 10,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
