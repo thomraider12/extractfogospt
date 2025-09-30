@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-09-30T10:19:54+00:00",
+  "atualizado_em": "2025-09-30T10:43:20+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 5,
   "incendios": [
     {
       "id": "20251194456",
@@ -63,8 +63,25 @@
       "status": "Conclusão",
       "latitude": 40.621912,
       "longitude": -7.878937,
-      "operacionais": 13,
-      "terrestres": 4,
+      "operacionais": 9,
+      "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251310285",
+      "data_inicio": "30-09-2025 10:23",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Sandim, Olival, Lever E Crestuma",
+      "distrito": "Porto",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.03793,
+      "longitude": -8.52234,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
