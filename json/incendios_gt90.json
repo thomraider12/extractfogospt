@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-09-30T19:38:59+00:00",
+  "atualizado_em": "2025-09-30T19:51:19+00:00",
   "criterio": "> 1 operacionais",
   "total": 8,
   "incendios": [
@@ -63,8 +63,8 @@
       "status": "Em Curso",
       "latitude": 41.495933,
       "longitude": -8.128778,
-      "operacionais": 45,
-      "terrestres": 12,
+      "operacionais": 47,
+      "terrestres": 13,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -128,7 +128,7 @@
       "concelho": "Castro Daire",
       "freguesia": "Mões",
       "distrito": "Viseu",
-      "status": "Despacho de 1º Alerta",
+      "status": "Chegada ao TO",
       "latitude": 40.896358,
       "longitude": -7.880362,
       "operacionais": 20,
