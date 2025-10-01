@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-01T03:49:20+00:00",
+  "atualizado_em": "2025-10-01T04:21:15+00:00",
   "criterio": "> 1 operacionais",
   "total": 4,
   "incendios": [
@@ -60,7 +60,7 @@
       "concelho": "Vieira Do Minho",
       "freguesia": "Anjos E Vilar Do Chão",
       "distrito": "Braga",
-      "status": "Despacho de 1º Alerta",
+      "status": "Em Resolução",
       "latitude": 41.59553,
       "longitude": -8.063477,
       "operacionais": 15,
