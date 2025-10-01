@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-01T01:38:49+00:00",
+  "atualizado_em": "2025-10-01T03:03:12+00:00",
   "criterio": "> 1 operacionais",
   "total": 4,
   "incendios": [
@@ -55,15 +55,15 @@
       "kml_file": null
     },
     {
-      "id": "20251313629",
-      "data_inicio": "01-10-2025 00:53",
-      "concelho": "Loures",
-      "freguesia": "Santa Iria De Azoia, São João Da Talha E Bobadela",
-      "distrito": "Lisboa",
-      "status": "Conclusão",
-      "latitude": 38.84841,
-      "longitude": -9.091124,
-      "operacionais": 2,
+      "id": "20251313729",
+      "data_inicio": "01-10-2025 02:44",
+      "concelho": "Vieira Do Minho",
+      "freguesia": "Anjos E Vilar Do Chão",
+      "distrito": "Braga",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.59553,
+      "longitude": -8.063477,
+      "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
