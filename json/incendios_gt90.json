@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-01T23:37:33+00:00",
+  "atualizado_em": "2025-10-01T23:50:44+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 5,
   "incendios": [
     {
       "id": "20251194456",
@@ -48,23 +48,6 @@
       "longitude": -7.521592,
       "operacionais": 4,
       "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251316453",
-      "data_inicio": "01-10-2025 14:21",
-      "concelho": "Amares",
-      "freguesia": "Bouro (santa Marta)",
-      "distrito": "Braga",
-      "status": "Conclusão",
-      "latitude": 41.668547,
-      "longitude": -8.298015,
-      "operacionais": 6,
-      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
