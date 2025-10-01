@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-01T19:50:27+00:00",
+  "atualizado_em": "2025-10-01T20:21:03+00:00",
   "criterio": "> 1 operacionais",
-  "total": 7,
+  "total": 6,
   "incendios": [
     {
       "id": "20251194456",
@@ -55,23 +55,6 @@
       "kml_file": null
     },
     {
-      "id": "20251316405",
-      "data_inicio": "01-10-2025 14:10",
-      "concelho": "Arcos De Valdevez",
-      "freguesia": "Grade E Carralcova",
-      "distrito": "Viana Do Castelo",
-      "status": "Conclusão",
-      "latitude": 41.895975,
-      "longitude": -8.36621,
-      "operacionais": 7,
-      "terrestres": 4,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251316453",
       "data_inicio": "01-10-2025 14:21",
       "concelho": "Amares",
@@ -89,23 +72,6 @@
       "kml_file": null
     },
     {
-      "id": "20251316639",
-      "data_inicio": "01-10-2025 14:56",
-      "concelho": "Fafe",
-      "freguesia": "Aboim, Felgueiras, Gontim E Pedraído",
-      "distrito": "Braga",
-      "status": "Conclusão",
-      "latitude": 41.50146,
-      "longitude": -8.120875,
-      "operacionais": 2,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251316746",
       "data_inicio": "01-10-2025 15:15",
       "concelho": "Santarém",
@@ -114,8 +80,25 @@
       "status": "Conclusão",
       "latitude": 39.400588,
       "longitude": -8.787427,
-      "operacionais": 157,
-      "terrestres": 45,
+      "operacionais": 145,
+      "terrestres": 42,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251317976",
+      "data_inicio": "01-10-2025 20:00",
+      "concelho": "Beja",
+      "freguesia": "Beja (salvador E Santa Maria Da Feira)",
+      "distrito": "Beja",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.02806,
+      "longitude": -7.86332,
+      "operacionais": 14,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
