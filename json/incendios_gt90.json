@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-01T22:50:35+00:00",
+  "atualizado_em": "2025-10-01T23:16:03+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 6,
   "incendios": [
     {
       "id": "20251194456",
@@ -80,8 +80,25 @@
       "status": "Conclusão",
       "latitude": 39.400588,
       "longitude": -8.787427,
-      "operacionais": 19,
-      "terrestres": 5,
+      "operacionais": 17,
+      "terrestres": 4,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251318451",
+      "data_inicio": "01-10-2025 22:38",
+      "concelho": "Felgueiras",
+      "freguesia": "Torrados E Sousa",
+      "distrito": "Porto",
+      "status": "Em Resolução",
+      "latitude": 41.358922,
+      "longitude": -8.233463,
+      "operacionais": 7,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
