@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-02T04:51:59+00:00",
+  "atualizado_em": "2025-10-02T05:17:07+00:00",
   "criterio": "> 1 operacionais",
   "total": 5,
   "incendios": [
@@ -77,9 +77,9 @@
       "concelho": "Felgueiras",
       "freguesia": "Regilde",
       "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.365681,
-      "longitude": -8.265802,
+      "status": "Conclusão",
+      "latitude": 41.358677,
+      "longitude": -8.27229,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
