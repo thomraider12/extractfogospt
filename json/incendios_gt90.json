@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-02T19:37:30+00:00",
+  "atualizado_em": "2025-10-02T19:51:09+00:00",
   "criterio": "> 1 operacionais",
-  "total": 11,
+  "total": 10,
   "incendios": [
     {
       "id": "20251266274",
@@ -106,23 +106,6 @@
       "kml_file": null
     },
     {
-      "id": "20251322371",
-      "data_inicio": "02-10-2025 17:25",
-      "concelho": "Santa Maria Da Feira",
-      "freguesia": "Mozelos",
-      "distrito": "Aveiro",
-      "status": "Conclusão",
-      "latitude": 40.986712,
-      "longitude": -8.584245,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251322689",
       "data_inicio": "02-10-2025 18:49",
       "concelho": "Almada",
@@ -131,8 +114,8 @@
       "status": "Conclusão",
       "latitude": 38.66723,
       "longitude": -9.17807,
-      "operacionais": 19,
-      "terrestres": 5,
+      "operacionais": 12,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -182,8 +165,8 @@
       "status": "Despacho de 1º Alerta",
       "latitude": 38.909508,
       "longitude": -8.670345,
-      "operacionais": 12,
-      "terrestres": 3,
+      "operacionais": 14,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
