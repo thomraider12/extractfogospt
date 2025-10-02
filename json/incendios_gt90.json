@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-02T08:24:21+00:00",
+  "atualizado_em": "2025-10-02T08:44:57+00:00",
   "criterio": "> 1 operacionais",
   "total": 5,
   "incendios": [
@@ -72,14 +72,14 @@
       "kml_file": null
     },
     {
-      "id": "20251319241",
-      "data_inicio": "02-10-2025 07:33",
-      "concelho": "Santa Maria Da Feira",
-      "freguesia": "Sanguedo",
-      "distrito": "Aveiro",
-      "status": "Conclusão",
-      "latitude": 41.01811,
-      "longitude": -8.527772,
+      "id": "20251319574",
+      "data_inicio": "02-10-2025 08:39",
+      "concelho": "Covilhã",
+      "freguesia": "Ferro",
+      "distrito": "Castelo Branco",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 40.24104,
+      "longitude": -7.44574,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
