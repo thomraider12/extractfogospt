@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-02T11:51:03+00:00",
+  "atualizado_em": "2025-10-02T12:36:57+00:00",
   "criterio": "> 1 operacionais",
-  "total": 9,
+  "total": 7,
   "incendios": [
     {
       "id": "20251194456",
@@ -89,23 +89,6 @@
       "kml_file": null
     },
     {
-      "id": "20251320110",
-      "data_inicio": "02-10-2025 10:04",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Gulpilhares E Valadares",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.084091,
-      "longitude": -8.637978,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251320117",
       "data_inicio": "02-10-2025 10:13",
       "concelho": "Montalegre",
@@ -128,28 +111,11 @@
       "concelho": "Trofa",
       "freguesia": "Covelas",
       "distrito": "Porto",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.325542,
       "longitude": -8.564652,
       "operacionais": 10,
       "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251320380",
-      "data_inicio": "02-10-2025 11:00",
-      "concelho": "Beja",
-      "freguesia": "Beja (salvador E Santa Maria Da Feira)",
-      "distrito": "Beja",
-      "status": "Conclusão",
-      "latitude": 38.015879,
-      "longitude": -7.85522,
-      "operacionais": 12,
-      "terrestres": 5,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
