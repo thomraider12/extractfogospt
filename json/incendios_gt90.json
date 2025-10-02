@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-02T22:50:31+00:00",
+  "atualizado_em": "2025-10-02T23:16:00+00:00",
   "criterio": "> 1 operacionais",
-  "total": 7,
+  "total": 6,
   "incendios": [
     {
       "id": "20251266274",
@@ -89,29 +89,12 @@
       "kml_file": null
     },
     {
-      "id": "20251322997",
-      "data_inicio": "02-10-2025 20:18",
-      "concelho": "Chaves",
-      "freguesia": "Cimo De Vila Da Castanheira",
-      "distrito": "Vila Real",
-      "status": "Conclusão",
-      "latitude": 41.811042,
-      "longitude": -7.295535,
-      "operacionais": 10,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251323279",
       "data_inicio": "02-10-2025 21:55",
       "concelho": "Felgueiras",
       "freguesia": "Sendim",
       "distrito": "Porto",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 41.392908,
       "longitude": -8.176432,
       "operacionais": 11,
