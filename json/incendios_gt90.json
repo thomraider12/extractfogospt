@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-02T22:38:35+00:00",
+  "atualizado_em": "2025-10-02T22:50:31+00:00",
   "criterio": "> 1 operacionais",
   "total": 7,
   "incendios": [
@@ -63,8 +63,8 @@
       "status": "Vigilância",
       "latitude": 40.563733,
       "longitude": -7.635898,
-      "operacionais": 37,
-      "terrestres": 9,
+      "operacionais": 27,
+      "terrestres": 7,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -112,8 +112,8 @@
       "freguesia": "Sendim",
       "distrito": "Porto",
       "status": "Em Curso",
-      "latitude": 41.38562,
-      "longitude": -8.18078,
+      "latitude": 41.392908,
+      "longitude": -8.176432,
       "operacionais": 11,
       "terrestres": 3,
       "aereos": 0,
