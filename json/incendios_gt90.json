@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-02T23:16:00+00:00",
+  "atualizado_em": "2025-10-02T23:37:26+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 7,
   "incendios": [
     {
       "id": "20251266274",
@@ -99,6 +99,23 @@
       "longitude": -8.176432,
       "operacionais": 11,
       "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251323443",
+      "data_inicio": "02-10-2025 23:17",
+      "concelho": "Almada",
+      "freguesia": "Almada, Cova Da Piedade, Pragal E Cacilhas",
+      "distrito": "Setúbal",
+      "status": "Conclusão",
+      "latitude": 38.677312,
+      "longitude": -9.173069,
+      "operacionais": 17,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
