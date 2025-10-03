@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-03T15:38:55+00:00",
+  "atualizado_em": "2025-10-03T15:51:04+00:00",
   "criterio": "> 1 operacionais",
-  "total": 18,
+  "total": 15,
   "incendios": [
     {
       "id": "20251266274",
@@ -140,23 +140,6 @@
       "kml_file": null
     },
     {
-      "id": "20251326152",
-      "data_inicio": "03-10-2025 13:42",
-      "concelho": "Paredes",
-      "freguesia": "Lordelo",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.247812,
-      "longitude": -8.425217,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251326205",
       "data_inicio": "03-10-2025 13:56",
       "concelho": "Santo Tirso",
@@ -225,48 +208,14 @@
       "kml_file": null
     },
     {
-      "id": "20251326359",
-      "data_inicio": "03-10-2025 14:21",
-      "concelho": "Lousada",
-      "freguesia": "Cristelos, Boim E Ordem",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.272803,
-      "longitude": -8.29658,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251326478",
       "data_inicio": "03-10-2025 14:46",
       "concelho": "Bombarral",
       "freguesia": "Roliça",
       "distrito": "Leiria",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 39.329583,
       "longitude": -9.179975,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251326490",
-      "data_inicio": "03-10-2025 14:53",
-      "concelho": "Belmonte",
-      "freguesia": "Belmonte E Colmeal Da Torre",
-      "distrito": "Castelo Branco",
-      "status": "Conclusão",
-      "latitude": 40.369543,
-      "longitude": -7.34692,
       "operacionais": 7,
       "terrestres": 2,
       "aereos": 0,
