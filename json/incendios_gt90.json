@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-03T20:39:03+00:00",
+  "atualizado_em": "2025-10-03T20:50:44+00:00",
   "criterio": "> 1 operacionais",
-  "total": 12,
+  "total": 10,
   "incendios": [
     {
       "id": "20251266274",
@@ -97,8 +97,8 @@
       "status": "Em Resolução",
       "latitude": 41.794895,
       "longitude": -7.283753,
-      "operacionais": 25,
-      "terrestres": 6,
+      "operacionais": 17,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -140,23 +140,6 @@
       "kml_file": null
     },
     {
-      "id": "20251327694",
-      "data_inicio": "03-10-2025 19:22",
-      "concelho": "Figueira De Castelo Rodrigo",
-      "freguesia": "Algodres, Vale De Afonsinho E Vilar De Amargo",
-      "distrito": "Guarda",
-      "status": "Conclusão",
-      "latitude": 40.948722,
-      "longitude": -7.018208,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251327813",
       "data_inicio": "03-10-2025 19:52",
       "concelho": "Vizela",
@@ -184,23 +167,6 @@
       "longitude": -8.792215,
       "operacionais": 11,
       "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251327820",
-      "data_inicio": "03-10-2025 19:49",
-      "concelho": "Santa Maria Da Feira",
-      "freguesia": "Argoncilhe",
-      "distrito": "Aveiro",
-      "status": "Em Resolução",
-      "latitude": 41.01265,
-      "longitude": -8.549905,
-      "operacionais": 5,
-      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
