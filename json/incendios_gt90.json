@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-03T05:51:09+00:00",
+  "atualizado_em": "2025-10-03T06:27:23+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 5,
   "incendios": [
     {
       "id": "20251266274",
@@ -65,6 +65,23 @@
       "longitude": -7.635898,
       "operacionais": 16,
       "terrestres": 4,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251322071",
+      "data_inicio": "02-10-2025 16:31",
+      "concelho": "Mangualde",
+      "freguesia": "Tavares (Chãs, Várzea E Travanca)",
+      "distrito": "Viseu",
+      "status": "Vigilância",
+      "latitude": 40.609205,
+      "longitude": -7.638958,
+      "operacionais": 2,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
