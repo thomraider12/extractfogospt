@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-03T01:20:11+00:00",
+  "atualizado_em": "2025-10-03T02:41:27+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251266274",
@@ -65,23 +65,6 @@
       "longitude": -7.635898,
       "operacionais": 16,
       "terrestres": 4,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251323556",
-      "data_inicio": "03-10-2025 00:30",
-      "concelho": "Santo Tirso",
-      "freguesia": "Campo, S.salvador Campo, Negrelos",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.360105,
-      "longitude": -8.372153,
-      "operacionais": 5,
-      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
