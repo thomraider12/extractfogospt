@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-03T21:28:12+00:00",
+  "atualizado_em": "2025-10-03T21:39:30+00:00",
   "criterio": "> 1 operacionais",
-  "total": 11,
+  "total": 10,
   "incendios": [
     {
       "id": "20251266274",
@@ -106,23 +106,6 @@
       "kml_file": null
     },
     {
-      "id": "20251327393",
-      "data_inicio": "03-10-2025 18:04",
-      "concelho": "Pombal",
-      "freguesia": "Pelariga",
-      "distrito": "Leiria",
-      "status": "Conclusão",
-      "latitude": 39.966243,
-      "longitude": -8.62002,
-      "operacionais": 2,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251327987",
       "data_inicio": "03-10-2025 20:44",
       "concelho": "Fafe",
@@ -160,13 +143,13 @@
       "id": "20251328062",
       "data_inicio": "03-10-2025 21:07",
       "concelho": "Póvoa De Lanhoso",
-      "freguesia": "Esperança E Brunhais",
+      "freguesia": "Travassos",
       "distrito": "Braga",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.583791,
-      "longitude": -8.173805,
-      "operacionais": 15,
-      "terrestres": 3,
+      "status": "Em Curso",
+      "latitude": 41.580703,
+      "longitude": -8.196288,
+      "operacionais": 20,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
