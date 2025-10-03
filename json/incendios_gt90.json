@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-03T07:51:04+00:00",
+  "atualizado_em": "2025-10-03T08:23:36+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 5,
   "incendios": [
     {
       "id": "20251266274",
@@ -82,23 +82,6 @@
       "longitude": -7.638958,
       "operacionais": 2,
       "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251323955",
-      "data_inicio": "03-10-2025 06:34",
-      "concelho": "Lagos",
-      "freguesia": "Bensafrim E Barão De São João",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.136889,
-      "longitude": -8.776823,
-      "operacionais": 10,
-      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
