@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-03T11:15:06+00:00",
+  "atualizado_em": "2025-10-03T11:27:34+00:00",
   "criterio": "> 1 operacionais",
-  "total": 9,
+  "total": 8,
   "incendios": [
     {
       "id": "20251266274",
@@ -106,23 +106,6 @@
       "kml_file": null
     },
     {
-      "id": "20251325090",
-      "data_inicio": "03-10-2025 10:23",
-      "concelho": "Portimão",
-      "freguesia": "Mexilhoeira Grande",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.20353,
-      "longitude": -8.608198,
-      "operacionais": 17,
-      "terrestres": 5,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251325146",
       "data_inicio": "03-10-2025 10:32",
       "concelho": "Espinho",
@@ -145,7 +128,7 @@
       "concelho": "Arcos De Valdevez",
       "freguesia": "Cabreiro",
       "distrito": "Viana Do Castelo",
-      "status": "Despacho de 1º Alerta",
+      "status": "Em Curso",
       "latitude": 41.946262,
       "longitude": -8.355473,
       "operacionais": 9,
