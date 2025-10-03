@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-03T22:50:48+00:00",
+  "atualizado_em": "2025-10-03T23:15:39+00:00",
   "criterio": "> 1 operacionais",
-  "total": 7,
+  "total": 5,
   "incendios": [
     {
       "id": "20251266274",
@@ -55,23 +55,6 @@
       "kml_file": null
     },
     {
-      "id": "20251327023",
-      "data_inicio": "03-10-2025 16:53",
-      "concelho": "Chaves",
-      "freguesia": "Cimo De Vila Da Castanheira",
-      "distrito": "Vila Real",
-      "status": "Conclusão",
-      "latitude": 41.794895,
-      "longitude": -7.283753,
-      "operacionais": 12,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251327107",
       "data_inicio": "03-10-2025 17:11",
       "concelho": "Vinhais",
@@ -99,23 +82,6 @@
       "longitude": -8.15367,
       "operacionais": 10,
       "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251328062",
-      "data_inicio": "03-10-2025 21:07",
-      "concelho": "Póvoa De Lanhoso",
-      "freguesia": "Travassos",
-      "distrito": "Braga",
-      "status": "Conclusão",
-      "latitude": 41.580703,
-      "longitude": -8.196288,
-      "operacionais": 12,
-      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
