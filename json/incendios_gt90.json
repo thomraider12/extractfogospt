@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-03T23:37:03+00:00",
+  "atualizado_em": "2025-10-03T23:50:57+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 5,
   "incendios": [
     {
       "id": "20251266274",
@@ -48,23 +48,6 @@
       "longitude": -7.638958,
       "operacionais": 7,
       "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251327107",
-      "data_inicio": "03-10-2025 17:11",
-      "concelho": "Vinhais",
-      "freguesia": "Soeira, Fresulfe E Mofreita",
-      "distrito": "Bragança",
-      "status": "Vigilância",
-      "latitude": 41.862003,
-      "longitude": -6.933422,
-      "operacionais": 5,
-      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
