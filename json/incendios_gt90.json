@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-03T08:23:36+00:00",
+  "atualizado_em": "2025-10-03T08:44:44+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 6,
   "incendios": [
     {
       "id": "20251266274",
@@ -81,6 +81,23 @@
       "latitude": 40.609205,
       "longitude": -7.638958,
       "operacionais": 2,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251324466",
+      "data_inicio": "03-10-2025 08:31",
+      "concelho": "Valongo",
+      "freguesia": "Ermesinde",
+      "distrito": "Porto",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.20353,
+      "longitude": -8.53845,
+      "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
