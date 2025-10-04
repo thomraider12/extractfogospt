@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-04T23:37:07+00:00",
+  "atualizado_em": "2025-10-04T23:50:37+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -43,9 +43,9 @@
       "concelho": "Paços De Ferreira",
       "freguesia": "Ferreira",
       "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.26894,
-      "longitude": -8.363189,
+      "status": "Em Resolução",
+      "latitude": 41.271067,
+      "longitude": -8.363243,
       "operacionais": 3,
       "terrestres": 1,
       "aereos": 0,
