@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-04T23:16:14+00:00",
+  "atualizado_em": "2025-10-04T23:37:07+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 3,
   "incendios": [
     {
       "id": "20251331157",
@@ -31,6 +31,23 @@
       "longitude": -9.076595,
       "operacionais": 7,
       "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251332713",
+      "data_inicio": "04-10-2025 22:36",
+      "concelho": "Paços De Ferreira",
+      "freguesia": "Ferreira",
+      "distrito": "Porto",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.26894,
+      "longitude": -8.363189,
+      "operacionais": 3,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
