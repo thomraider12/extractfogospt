@@ -10,4 +10,6 @@ playlist1.ts
 playlist2.ts
 #EXTINF:8.066667,
 playlist3.ts
+#EXTINF:4.600000,
+playlist4.ts
 #EXT-X-ENDLIST
