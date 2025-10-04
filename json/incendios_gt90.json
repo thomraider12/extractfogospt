@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-04T05:16:43+00:00",
+  "atualizado_em": "2025-10-04T05:38:28+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 5,
   "incendios": [
     {
       "id": "20251266274",
@@ -65,6 +65,23 @@
       "longitude": -8.43167,
       "operacionais": 26,
       "terrestres": 7,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251328852",
+      "data_inicio": "04-10-2025 05:19",
+      "concelho": "Guimarães",
+      "freguesia": "Selho (São Cristóvão)",
+      "distrito": "Braga",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.41612,
+      "longitude": -8.35179,
+      "operacionais": 10,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
