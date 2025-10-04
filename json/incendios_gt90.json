@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-04T09:16:45+00:00",
+  "atualizado_em": "2025-10-04T09:36:49+00:00",
   "criterio": "> 1 operacionais",
   "total": 4,
   "incendios": [
@@ -60,11 +60,11 @@
       "concelho": "Condeixa-a-nova",
       "freguesia": "Sebal E Belide",
       "distrito": "Coimbra",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 40.118765,
       "longitude": -8.536649,
-      "operacionais": 24,
-      "terrestres": 7,
+      "operacionais": 19,
+      "terrestres": 6,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
