@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-04T02:36:26+00:00",
+  "atualizado_em": "2025-10-04T03:14:00+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251266274",
@@ -55,33 +55,16 @@
       "kml_file": null
     },
     {
-      "id": "20251328405",
-      "data_inicio": "03-10-2025 23:17",
-      "concelho": "Sesimbra",
-      "freguesia": "Quinta Do Conde",
-      "distrito": "Setúbal",
-      "status": "Conclusão",
-      "latitude": 38.576079,
-      "longitude": -9.037521,
-      "operacionais": 6,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251328680",
       "data_inicio": "04-10-2025 02:23",
       "concelho": "Alvaiázere",
       "freguesia": "Pelmá",
       "distrito": "Leiria",
-      "status": "Despacho de 1º Alerta",
+      "status": "Em Curso",
       "latitude": 39.79735,
       "longitude": -8.43167,
-      "operacionais": 7,
-      "terrestres": 2,
+      "operacionais": 21,
+      "terrestres": 6,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
