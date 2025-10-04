@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-04T17:28:28+00:00",
+  "atualizado_em": "2025-10-04T17:39:23+00:00",
   "criterio": "> 1 operacionais",
-  "total": 7,
+  "total": 8,
   "incendios": [
     {
       "id": "20251266274",
@@ -114,9 +114,26 @@
       "status": "Conclusão",
       "latitude": 41.435875,
       "longitude": -7.99125,
-      "operacionais": 7,
-      "terrestres": 2,
+      "operacionais": 2,
+      "terrestres": 1,
       "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251331683",
+      "data_inicio": "04-10-2025 17:29",
+      "concelho": "Santarém",
+      "freguesia": "Arneiro Das Milhariças",
+      "distrito": "Santarém",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 39.41185,
+      "longitude": -8.71314,
+      "operacionais": 43,
+      "terrestres": 10,
+      "aereos": 1,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
