@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-04T08:51:34+00:00",
+  "atualizado_em": "2025-10-04T09:16:45+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 4,
   "incendios": [
     {
       "id": "20251266274",
@@ -55,40 +55,6 @@
       "kml_file": null
     },
     {
-      "id": "20251328902",
-      "data_inicio": "04-10-2025 05:25",
-      "concelho": "Penafiel",
-      "freguesia": "Rio De Moinhos",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.106361,
-      "longitude": -8.265274,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251329314",
-      "data_inicio": "04-10-2025 07:57",
-      "concelho": "Santo Tirso",
-      "freguesia": "Água Longa",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.253312,
-      "longitude": -8.512267,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251329338",
       "data_inicio": "04-10-2025 08:02",
       "concelho": "Condeixa-a-nova",
@@ -97,9 +63,9 @@
       "status": "Em Resolução",
       "latitude": 40.118765,
       "longitude": -8.536649,
-      "operacionais": 30,
+      "operacionais": 24,
       "terrestres": 7,
-      "aereos": 1,
+      "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
