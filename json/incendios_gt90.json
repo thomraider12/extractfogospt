@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-04T13:29:10+00:00",
+  "atualizado_em": "2025-10-04T13:39:19+00:00",
   "criterio": "> 1 operacionais",
   "total": 7,
   "incendios": [
@@ -111,11 +111,11 @@
       "concelho": "Sintra",
       "freguesia": "Almargem Do Bispo, Pêro Pinheiro E Montelavar",
       "distrito": "Lisboa",
-      "status": "Conclusão",
+      "status": "Em Curso",
       "latitude": 38.853014,
       "longitude": -9.264324,
-      "operacionais": 5,
-      "terrestres": 1,
+      "operacionais": 7,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
