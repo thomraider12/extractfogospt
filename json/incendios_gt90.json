@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-05T22:50:38+00:00",
+  "atualizado_em": "2025-10-05T23:14:50+00:00",
   "criterio": "> 1 operacionais",
   "total": 4,
   "incendios": [
@@ -29,8 +29,8 @@
       "status": "Conclusão",
       "latitude": 41.346122,
       "longitude": -8.046162,
-      "operacionais": 15,
-      "terrestres": 4,
+      "operacionais": 10,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -43,7 +43,7 @@
       "concelho": "Montalegre",
       "freguesia": "Meixedo E Padornelos",
       "distrito": "Vila Real",
-      "status": "Em Curso",
+      "status": "Conclusão",
       "latitude": 41.862238,
       "longitude": -7.743222,
       "operacionais": 21,
