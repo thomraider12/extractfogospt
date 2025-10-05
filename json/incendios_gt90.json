@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-05T14:14:39+00:00",
+  "atualizado_em": "2025-10-05T14:30:31+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -26,11 +26,11 @@
       "concelho": "Santo Tirso",
       "freguesia": "Monte Córdova",
       "distrito": "Porto",
-      "status": "Em Resolução",
-      "latitude": 41.318509,
-      "longitude": -8.446047,
-      "operacionais": 15,
-      "terrestres": 3,
+      "status": "Conclusão",
+      "latitude": 41.320002,
+      "longitude": -8.444158,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
