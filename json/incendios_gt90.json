@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-05T02:55:09+00:00",
+  "atualizado_em": "2025-10-05T03:35:10+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 2,
   "incendios": [
     {
       "id": "20251331157",
@@ -21,31 +21,14 @@
       "kml_file": null
     },
     {
-      "id": "20251332981",
-      "data_inicio": "05-10-2025 00:51",
-      "concelho": "Freixo De Espada À Cinta",
-      "freguesia": "Ligares",
-      "distrito": "Bragança",
-      "status": "Conclusão",
-      "latitude": 41.065902,
-      "longitude": -6.969145,
-      "operacionais": 15,
-      "terrestres": 5,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251333082",
-      "data_inicio": "05-10-2025 01:49",
+      "id": "20251333201",
+      "data_inicio": "05-10-2025 03:18",
       "concelho": "Baião",
-      "freguesia": "Loivos Da Ribeira E Tresouras",
+      "freguesia": "Santa Marinha Do Zêzere",
       "distrito": "Porto",
-      "status": "Em Resolução",
-      "latitude": 41.1377,
-      "longitude": -7.9311,
+      "status": "Chegada ao TO",
+      "latitude": 41.152827,
+      "longitude": -7.949073,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
