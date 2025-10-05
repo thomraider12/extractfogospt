@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-05T23:14:50+00:00",
+  "atualizado_em": "2025-10-05T23:26:37+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 5,
   "incendios": [
     {
       "id": "20251336432",
@@ -65,6 +65,23 @@
       "longitude": -7.927072,
       "operacionais": 86,
       "terrestres": 21,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251337153",
+      "data_inicio": "05-10-2025 23:16",
+      "concelho": "Cinfães",
+      "freguesia": "São Cristóvão De Nogueira",
+      "distrito": "Viseu",
+      "status": "Em Resolução",
+      "latitude": 41.075338,
+      "longitude": -8.126928,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
