@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-05T14:30:31+00:00",
+  "atualizado_em": "2025-10-05T14:41:04+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 3,
   "incendios": [
     {
       "id": "20251334936",
@@ -32,6 +32,23 @@
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251335430",
+      "data_inicio": "05-10-2025 14:36",
+      "concelho": "Rio Maior",
+      "freguesia": "São João Da Ribeira E Ribeira De São João",
+      "distrito": "Santarém",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 39.278763,
+      "longitude": -8.846997,
+      "operacionais": 18,
+      "terrestres": 3,
+      "aereos": 1,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
