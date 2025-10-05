@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-05T10:38:37+00:00",
+  "atualizado_em": "2025-10-05T10:50:48+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 4,
   "incendios": [
     {
       "id": "20251334296",
@@ -46,9 +46,26 @@
       "status": "Despacho de 1º Alerta",
       "latitude": 40.50922,
       "longitude": -8.659223,
-      "operacionais": 8,
-      "terrestres": 2,
+      "operacionais": 18,
+      "terrestres": 4,
       "aereos": 1,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251334440",
+      "data_inicio": "05-10-2025 10:35",
+      "concelho": "Valongo",
+      "freguesia": "Alfena",
+      "distrito": "Porto",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.22185,
+      "longitude": -8.5276,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
