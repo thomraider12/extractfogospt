@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-05T05:50:39+00:00",
+  "atualizado_em": "2025-10-05T06:25:12+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20251331157",
@@ -12,6 +12,23 @@
       "status": "Vigilância",
       "latitude": 40.595962,
       "longitude": -7.731137,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251333393",
+      "data_inicio": "05-10-2025 06:10",
+      "concelho": "Moita",
+      "freguesia": "Alhos Vedros",
+      "distrito": "Setúbal",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.643428,
+      "longitude": -9.012767,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
