@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-05T09:50:57+00:00",
+  "atualizado_em": "2025-10-05T10:17:24+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Caminha",
       "freguesia": "Lanhelas",
       "distrito": "Viana Do Castelo",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 41.90313,
       "longitude": -8.800907,
       "operacionais": 5,
