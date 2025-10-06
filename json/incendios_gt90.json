@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-06T23:37:22+00:00",
+  "atualizado_em": "2025-10-06T23:50:29+00:00",
   "criterio": "> 1 operacionais",
   "total": 7,
   "incendios": [
@@ -94,7 +94,7 @@
       "concelho": "Montalegre",
       "freguesia": "Outeiro",
       "distrito": "Vila Real",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.795995,
       "longitude": -7.953877,
       "operacionais": 15,
@@ -114,8 +114,8 @@
       "status": "Conclusão",
       "latitude": 41.507358,
       "longitude": -8.086967,
-      "operacionais": 13,
-      "terrestres": 4,
+      "operacionais": 6,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
