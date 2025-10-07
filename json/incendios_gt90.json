@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-07T05:17:41+00:00",
+  "atualizado_em": "2025-10-07T05:39:38+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251336860",
@@ -65,23 +65,6 @@
       "longitude": -8.346582,
       "operacionais": 5,
       "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251342629",
-      "data_inicio": "07-10-2025 04:04",
-      "concelho": "Lagoa",
-      "freguesia": "Estômbar E Parchal",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.138032,
-      "longitude": -8.51235,
-      "operacionais": 9,
-      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
