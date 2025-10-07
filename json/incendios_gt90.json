@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-07T09:20:02+00:00",
+  "atualizado_em": "2025-10-07T09:40:31+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 6,
   "incendios": [
     {
       "id": "20251336860",
@@ -72,14 +72,31 @@
       "kml_file": null
     },
     {
-      "id": "20251343510",
-      "data_inicio": "07-10-2025 08:48",
-      "concelho": "Paredes",
-      "freguesia": "Baltar",
+      "id": "20251343700",
+      "data_inicio": "07-10-2025 09:20",
+      "concelho": "Marco De Canaveses",
+      "freguesia": "Penhalonga E Paços De Gaiolo",
       "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.188993,
-      "longitude": -8.388213,
+      "status": "Em Resolução",
+      "latitude": 41.115498,
+      "longitude": -8.135337,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251343731",
+      "data_inicio": "07-10-2025 09:23",
+      "concelho": "Paredes",
+      "freguesia": "Rebordosa",
+      "distrito": "Porto",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.217556,
+      "longitude": -8.413867,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
