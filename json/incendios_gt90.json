@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-07T21:37:06+00:00",
+  "atualizado_em": "2025-10-07T21:51:03+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -43,11 +43,11 @@
       "concelho": "Fafe",
       "freguesia": "Aboim, Felgueiras, Gontim E Pedraído",
       "distrito": "Braga",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.511093,
       "longitude": -8.102393,
-      "operacionais": 17,
-      "terrestres": 4,
+      "operacionais": 12,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
