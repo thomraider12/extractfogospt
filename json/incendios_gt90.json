@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-07T19:50:52+00:00",
+  "atualizado_em": "2025-10-07T20:20:00+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 5,
   "incendios": [
     {
       "id": "20251336860",
@@ -43,7 +43,7 @@
       "concelho": "Cinfães",
       "freguesia": "Ferreiros De Tendais",
       "distrito": "Viseu",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 41.032068,
       "longitude": -8.023815,
       "operacionais": 22,
@@ -63,23 +63,6 @@
       "status": "Conclusão",
       "latitude": 38.64503,
       "longitude": -9.19553,
-      "operacionais": 15,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251346651",
-      "data_inicio": "07-10-2025 19:08",
-      "concelho": "Felgueiras",
-      "freguesia": "Unhão E Lordelo",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.311517,
-      "longitude": -8.243793,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
