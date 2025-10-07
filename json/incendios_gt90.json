@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-07T02:42:57+00:00",
+  "atualizado_em": "2025-10-07T03:21:27+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 5,
   "incendios": [
     {
       "id": "20251336860",
@@ -65,6 +65,23 @@
       "longitude": -8.346582,
       "operacionais": 5,
       "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251342572",
+      "data_inicio": "07-10-2025 02:46",
+      "concelho": "Crato",
+      "freguesia": "Crato E Mártires, Flor Da Rosa E Vale Do Peso",
+      "distrito": "Portalegre",
+      "status": "Conclusão",
+      "latitude": 39.315238,
+      "longitude": -7.624222,
+      "operacionais": 7,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
