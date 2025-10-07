@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-07T11:15:27+00:00",
+  "atualizado_em": "2025-10-07T11:28:36+00:00",
   "criterio": "> 1 operacionais",
-  "total": 8,
+  "total": 7,
   "incendios": [
     {
       "id": "20251336860",
@@ -46,8 +46,8 @@
       "status": "Vigilância",
       "latitude": 41.687823,
       "longitude": -8.674877,
-      "operacionais": 12,
-      "terrestres": 4,
+      "operacionais": 16,
+      "terrestres": 5,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -106,23 +106,6 @@
       "kml_file": null
     },
     {
-      "id": "20251343768",
-      "data_inicio": "07-10-2025 09:33",
-      "concelho": "Valpaços",
-      "freguesia": "Santiago Da Ribeira De Alhariz",
-      "distrito": "Vila Real",
-      "status": "Conclusão",
-      "latitude": 41.630182,
-      "longitude": -7.42778,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251344159",
       "data_inicio": "07-10-2025 10:41",
       "concelho": "Alter Do Chão",
@@ -131,9 +114,9 @@
       "status": "Conclusão",
       "latitude": 39.183987,
       "longitude": -7.802982,
-      "operacionais": 32,
-      "terrestres": 5,
-      "aereos": 1,
+      "operacionais": 10,
+      "terrestres": 2,
+      "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
