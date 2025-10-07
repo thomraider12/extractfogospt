@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-07T23:36:49+00:00",
+  "atualizado_em": "2025-10-07T23:51:01+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 3,
   "incendios": [
     {
       "id": "20251337249",
@@ -29,24 +29,7 @@
       "status": "Conclusão",
       "latitude": 41.33554,
       "longitude": -8.636606,
-      "operacionais": 17,
-      "terrestres": 4,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251347216",
-      "data_inicio": "07-10-2025 22:30",
-      "concelho": "Murtosa",
-      "freguesia": "Bunheiro",
-      "distrito": "Aveiro",
-      "status": "Conclusão",
-      "latitude": 40.775028,
-      "longitude": -8.671127,
-      "operacionais": 6,
+      "operacionais": 10,
       "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
