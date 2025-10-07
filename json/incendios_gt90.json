@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-07T14:44:14+00:00",
+  "atualizado_em": "2025-10-07T14:54:58+00:00",
   "criterio": "> 1 operacionais",
-  "total": 8,
+  "total": 9,
   "incendios": [
     {
       "id": "20251336860",
@@ -134,6 +134,23 @@
       "operacionais": 16,
       "terrestres": 2,
       "aereos": 1,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251345396",
+      "data_inicio": "07-10-2025 14:40",
+      "concelho": "Moura",
+      "freguesia": "Sobral Da Adiça",
+      "distrito": "Beja",
+      "status": "Despacho",
+      "latitude": 38.028825,
+      "longitude": -7.335811,
+      "operacionais": 19,
+      "terrestres": 5,
+      "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
