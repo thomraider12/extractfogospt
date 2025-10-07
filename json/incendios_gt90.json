@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-07T08:46:45+00:00",
+  "atualizado_em": "2025-10-07T09:20:02+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 5,
   "incendios": [
     {
       "id": "20251336860",
@@ -63,6 +63,23 @@
       "status": "Vigilância",
       "latitude": 40.74071,
       "longitude": -8.346582,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251343510",
+      "data_inicio": "07-10-2025 08:48",
+      "concelho": "Paredes",
+      "freguesia": "Baltar",
+      "distrito": "Porto",
+      "status": "Conclusão",
+      "latitude": 41.188993,
+      "longitude": -8.388213,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
