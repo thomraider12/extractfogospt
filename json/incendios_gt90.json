@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-07T11:40:49+00:00",
+  "atualizado_em": "2025-10-07T11:51:27+00:00",
   "criterio": "> 1 operacionais",
-  "total": 7,
+  "total": 8,
   "incendios": [
     {
       "id": "20251336860",
@@ -114,6 +114,23 @@
       "status": "Conclusão",
       "latitude": 39.183987,
       "longitude": -7.802982,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251344496",
+      "data_inicio": "07-10-2025 11:41",
+      "concelho": "Sátão",
+      "freguesia": "Mioma",
+      "distrito": "Viseu",
+      "status": "Conclusão",
+      "latitude": 40.746433,
+      "longitude": -7.724637,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
