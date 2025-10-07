@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-07T04:22:14+00:00",
+  "atualizado_em": "2025-10-07T04:42:02+00:00",
   "criterio": "> 1 operacionais",
   "total": 5,
   "incendios": [
@@ -77,11 +77,11 @@
       "concelho": "Lagoa",
       "freguesia": "Estômbar E Parchal",
       "distrito": "Faro",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 37.138032,
       "longitude": -8.51235,
-      "operacionais": 17,
-      "terrestres": 4,
+      "operacionais": 19,
+      "terrestres": 6,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
