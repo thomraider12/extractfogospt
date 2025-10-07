@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-07T22:38:35+00:00",
+  "atualizado_em": "2025-10-07T22:51:01+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 4,
   "incendios": [
     {
       "id": "20251337249",
@@ -46,8 +46,25 @@
       "status": "Despacho de 1º Alerta",
       "latitude": 41.33554,
       "longitude": -8.636606,
-      "operacionais": 10,
-      "terrestres": 2,
+      "operacionais": 15,
+      "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251347216",
+      "data_inicio": "07-10-2025 22:30",
+      "concelho": "Murtosa",
+      "freguesia": "Bunheiro",
+      "distrito": "Aveiro",
+      "status": "Chegada ao TO",
+      "latitude": 40.776602,
+      "longitude": -8.650778,
+      "operacionais": 4,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
