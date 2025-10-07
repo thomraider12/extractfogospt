@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-07T17:39:28+00:00",
+  "atualizado_em": "2025-10-07T17:50:44+00:00",
   "criterio": "> 1 operacionais",
   "total": 8,
   "incendios": [
@@ -111,7 +111,7 @@
       "concelho": "Baião",
       "freguesia": "Santa Cruz Do Douro E São Tomé De Covelas",
       "distrito": "Porto",
-      "status": "Conclusão",
+      "status": "Vigilância",
       "latitude": 41.108637,
       "longitude": -8.001688,
       "operacionais": 15,
@@ -128,7 +128,7 @@
       "concelho": "Paredes",
       "freguesia": "Lordelo",
       "distrito": "Porto",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.236282,
       "longitude": -8.435825,
       "operacionais": 7,
