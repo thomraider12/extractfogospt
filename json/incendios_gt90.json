@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-08T05:51:25+00:00",
+  "atualizado_em": "2025-10-08T06:28:40+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -26,11 +26,11 @@
       "concelho": "Baião",
       "freguesia": "Santa Marinha Do Zêzere",
       "distrito": "Porto",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.155622,
       "longitude": -7.946568,
-      "operacionais": 15,
-      "terrestres": 3,
+      "operacionais": 10,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
