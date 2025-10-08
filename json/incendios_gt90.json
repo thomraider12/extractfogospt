@@ -1,8 +1,25 @@
 {
-  "atualizado_em": "2025-10-08T08:25:42+00:00",
+  "atualizado_em": "2025-10-08T08:47:19+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
+    {
+      "id": "20251336860",
+      "data_inicio": "05-10-2025 21:05",
+      "concelho": "Castro Daire",
+      "freguesia": "Castro Daire",
+      "distrito": "Viseu",
+      "status": "Vigilância",
+      "latitude": 40.925289,
+      "longitude": -7.9408,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
     {
       "id": "20251337249",
       "data_inicio": "06-10-2025 00:09",
