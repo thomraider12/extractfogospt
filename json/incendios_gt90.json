@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-08T11:51:00+00:00",
+  "atualizado_em": "2025-10-08T12:39:14+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 3,
   "incendios": [
     {
       "id": "20251337249",
@@ -38,29 +38,12 @@
       "kml_file": null
     },
     {
-      "id": "20251349175",
-      "data_inicio": "08-10-2025 10:49",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Serzedo E Perosinho",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.05533,
-      "longitude": -8.616682,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251349325",
       "data_inicio": "08-10-2025 11:07",
       "concelho": "Baião",
       "freguesia": "Santa Marinha Do Zêzere",
       "distrito": "Porto",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.155528,
       "longitude": -7.945993,
       "operacionais": 5,
