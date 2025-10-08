@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-10-08T22:39:54+00:00",
+  "atualizado_em": "2025-10-08T22:50:57+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251351893",
-      "data_inicio": "08-10-2025 21:43",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Gulpilhares E Valadares",
-      "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.07489,
-      "longitude": -8.617702,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
