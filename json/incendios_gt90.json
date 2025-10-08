@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-08T09:51:39+00:00",
+  "atualizado_em": "2025-10-08T10:19:22+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20251337249",
@@ -15,6 +15,23 @@
       "operacionais": 7,
       "terrestres": 2,
       "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251348911",
+      "data_inicio": "08-10-2025 10:00",
+      "concelho": "Boticas",
+      "freguesia": "Dornelas",
+      "distrito": "Vila Real",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.660714,
+      "longitude": -7.841392,
+      "operacionais": 16,
+      "terrestres": 2,
+      "aereos": 1,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
