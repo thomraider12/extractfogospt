@@ -1,25 +1,8 @@
 {
-  "atualizado_em": "2025-10-08T22:17:27+00:00",
+  "atualizado_em": "2025-10-08T22:39:54+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 1,
   "incendios": [
-    {
-      "id": "20251351874",
-      "data_inicio": "08-10-2025 21:21",
-      "concelho": "Lousada",
-      "freguesia": "Cristelos, Boim E Ordem",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.280102,
-      "longitude": -8.296661,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
     {
       "id": "20251351893",
       "data_inicio": "08-10-2025 21:43",
