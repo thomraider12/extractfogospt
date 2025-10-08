@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-08T11:28:46+00:00",
+  "atualizado_em": "2025-10-08T11:40:59+00:00",
   "criterio": "> 1 operacionais",
   "total": 4,
   "incendios": [
@@ -60,9 +60,9 @@
       "concelho": "Baião",
       "freguesia": "Santa Marinha Do Zêzere",
       "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.138624,
-      "longitude": -7.950478,
+      "status": "Em Resolução",
+      "latitude": 41.162195,
+      "longitude": -7.945992,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
