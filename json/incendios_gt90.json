@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-08T10:19:22+00:00",
+  "atualizado_em": "2025-10-08T10:42:44+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -26,9 +26,9 @@
       "concelho": "Boticas",
       "freguesia": "Dornelas",
       "distrito": "Vila Real",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.660714,
-      "longitude": -7.841392,
+      "status": "Em Curso",
+      "latitude": 41.664535,
+      "longitude": -7.838985,
       "operacionais": 16,
       "terrestres": 2,
       "aereos": 1,
