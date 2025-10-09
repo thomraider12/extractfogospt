@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-09T11:15:59+00:00",
+  "atualizado_em": "2025-10-09T11:38:00+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 3,
   "incendios": [
     {
       "id": "20251352673",
@@ -38,29 +38,12 @@
       "kml_file": null
     },
     {
-      "id": "20251353696",
-      "data_inicio": "09-10-2025 10:08",
-      "concelho": "Aljezur",
-      "freguesia": "Aljezur",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.325538,
-      "longitude": -8.796072,
-      "operacionais": 12,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251353926",
       "data_inicio": "09-10-2025 10:45",
       "concelho": "Marco De Canaveses",
       "freguesia": "Sande E São Lourenço",
       "distrito": "Porto",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.122907,
       "longitude": -8.16512,
       "operacionais": 5,
