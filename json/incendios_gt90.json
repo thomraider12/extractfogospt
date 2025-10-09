@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-09T19:37:15+00:00",
+  "atualizado_em": "2025-10-09T19:50:27+00:00",
   "criterio": "> 1 operacionais",
   "total": 6,
   "incendios": [
@@ -77,7 +77,7 @@
       "concelho": "Cadaval",
       "freguesia": "Painho E Figueiros",
       "distrito": "Lisboa",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 39.307034,
       "longitude": -9.05365,
       "operacionais": 9,
@@ -94,9 +94,9 @@
       "concelho": "Montalegre",
       "freguesia": "Viade De Baixo E Fervidelas",
       "distrito": "Vila Real",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.763422,
-      "longitude": -7.86979,
+      "status": "Em Curso",
+      "latitude": 41.76362,
+      "longitude": -7.868334,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
