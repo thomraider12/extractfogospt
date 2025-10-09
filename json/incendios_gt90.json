@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-09T10:54:15+00:00",
+  "atualizado_em": "2025-10-09T11:15:59+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251352673",
@@ -21,23 +21,6 @@
       "kml_file": null
     },
     {
-      "id": "20251353629",
-      "data_inicio": "09-10-2025 09:54",
-      "concelho": "Olhão",
-      "freguesia": "Pechão",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.05324,
-      "longitude": -7.87003,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251353692",
       "data_inicio": "09-10-2025 10:02",
       "concelho": "Macedo De Cavaleiros",
@@ -46,8 +29,8 @@
       "status": "Em Resolução",
       "latitude": 41.591523,
       "longitude": -7.074403,
-      "operacionais": 15,
-      "terrestres": 6,
+      "operacionais": 17,
+      "terrestres": 7,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -77,9 +60,9 @@
       "concelho": "Marco De Canaveses",
       "freguesia": "Sande E São Lourenço",
       "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.12102,
-      "longitude": -8.15544,
+      "status": "Em Resolução",
+      "latitude": 41.122907,
+      "longitude": -8.16512,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
