@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-09T20:40:33+00:00",
+  "atualizado_em": "2025-10-09T20:50:44+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 5,
   "incendios": [
     {
       "id": "20251353692",
@@ -14,23 +14,6 @@
       "longitude": -7.074403,
       "operacionais": 15,
       "terrestres": 6,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251354286",
-      "data_inicio": "09-10-2025 12:00",
-      "concelho": "Chaves",
-      "freguesia": "Nogueira Da Montanha",
-      "distrito": "Vila Real",
-      "status": "Vigilância",
-      "latitude": 41.67715,
-      "longitude": -7.449447,
-      "operacionais": 7,
-      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
