@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-10-09T01:21:42+00:00",
+  "atualizado_em": "2025-10-09T02:46:04+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251352187",
-      "data_inicio": "09-10-2025 00:29",
-      "concelho": "Póvoa De Lanhoso",
-      "freguesia": "Calvos E Frades",
-      "distrito": "Braga",
-      "status": "Em Resolução",
-      "latitude": 41.614153,
-      "longitude": -8.244085,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
