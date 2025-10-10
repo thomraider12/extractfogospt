@@ -1,25 +1,8 @@
 {
-  "atualizado_em": "2025-10-10T05:51:16+00:00",
+  "atualizado_em": "2025-10-10T06:28:31+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 2,
   "incendios": [
-    {
-      "id": "20251356540",
-      "data_inicio": "09-10-2025 19:51",
-      "concelho": "Montalegre",
-      "freguesia": "Gralhas",
-      "distrito": "Vila Real",
-      "status": "Conclusão",
-      "latitude": 41.856633,
-      "longitude": -7.719948,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
     {
       "id": "20251356983",
       "data_inicio": "09-10-2025 22:45",
