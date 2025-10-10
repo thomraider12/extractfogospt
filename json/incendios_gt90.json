@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-10T05:40:45+00:00",
+  "atualizado_em": "2025-10-10T05:51:16+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -43,9 +43,9 @@
       "concelho": "Marco De Canaveses",
       "freguesia": "Sande E São Lourenço",
       "distrito": "Porto",
-      "status": "Chegada ao TO",
-      "latitude": 41.10056,
-      "longitude": -8.19669,
+      "status": "Em Resolução",
+      "latitude": 41.096193,
+      "longitude": -8.190085,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
