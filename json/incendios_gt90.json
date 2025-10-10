@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-10T07:17:52+00:00",
+  "atualizado_em": "2025-10-10T07:38:11+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -26,7 +26,7 @@
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Sandim, Olival, Lever E Crestuma",
       "distrito": "Porto",
-      "status": "Chegada ao TO",
+      "status": "Conclusão",
       "latitude": 41.06633,
       "longitude": -8.47647,
       "operacionais": 13,
@@ -43,7 +43,7 @@
       "concelho": "Elvas",
       "freguesia": "São Vicente E Ventosa",
       "distrito": "Portalegre",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 38.9076,
       "longitude": -7.180858,
       "operacionais": 7,
