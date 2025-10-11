@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-11T20:37:13+00:00",
+  "atualizado_em": "2025-10-11T20:51:01+00:00",
   "criterio": "> 1 operacionais",
   "total": 9,
   "incendios": [
@@ -128,11 +128,11 @@
       "concelho": "Figueira De Castelo Rodrigo",
       "freguesia": "Algodres, Vale De Afonsinho E Vilar De Amargo",
       "distrito": "Guarda",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 40.93251,
       "longitude": -7.01107,
-      "operacionais": 48,
-      "terrestres": 13,
+      "operacionais": 50,
+      "terrestres": 14,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
