@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-11T08:41:40+00:00",
+  "atualizado_em": "2025-10-11T08:51:51+00:00",
   "criterio": "> 1 operacionais",
   "total": 8,
   "incendios": [
@@ -114,8 +114,8 @@
       "status": "Conclusão",
       "latitude": 38.91072,
       "longitude": -9.258323,
-      "operacionais": 15,
-      "terrestres": 3,
+      "operacionais": 10,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -128,7 +128,7 @@
       "concelho": "Figueira Da Foz",
       "freguesia": "Buarcos",
       "distrito": "Coimbra",
-      "status": "Chegada ao TO",
+      "status": "Conclusão",
       "latitude": 40.1836,
       "longitude": -8.895155,
       "operacionais": 29,
