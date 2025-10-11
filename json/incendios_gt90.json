@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-11T09:36:47+00:00",
+  "atualizado_em": "2025-10-11T09:50:29+00:00",
   "criterio": "> 1 operacionais",
-  "total": 7,
+  "total": 6,
   "incendios": [
     {
       "id": "20251357884",
@@ -97,25 +97,8 @@
       "status": "Vigilância",
       "latitude": 41.495262,
       "longitude": -8.127398,
-      "operacionais": 16,
-      "terrestres": 4,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251363281",
-      "data_inicio": "11-10-2025 08:25",
-      "concelho": "Figueira Da Foz",
-      "freguesia": "Buarcos",
-      "distrito": "Coimbra",
-      "status": "Conclusão",
-      "latitude": 40.1836,
-      "longitude": -8.895155,
-      "operacionais": 2,
-      "terrestres": 1,
+      "operacionais": 11,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
