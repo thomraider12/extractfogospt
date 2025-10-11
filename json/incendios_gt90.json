@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-11T21:38:29+00:00",
+  "atualizado_em": "2025-10-11T21:50:22+00:00",
   "criterio": "> 1 operacionais",
-  "total": 11,
+  "total": 10,
   "incendios": [
     {
       "id": "20251359108",
@@ -72,23 +72,6 @@
       "kml_file": null
     },
     {
-      "id": "20251366146",
-      "data_inicio": "11-10-2025 19:01",
-      "concelho": "Póvoa De Lanhoso",
-      "freguesia": "Taíde",
-      "distrito": "Braga",
-      "status": "Conclusão",
-      "latitude": 41.546875,
-      "longitude": -8.24936,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251366179",
       "data_inicio": "11-10-2025 19:10",
       "concelho": "Figueira De Castelo Rodrigo",
@@ -111,7 +94,7 @@
       "concelho": "Arcos De Valdevez",
       "freguesia": "Alvora E Loureda",
       "distrito": "Viana Do Castelo",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.943457,
       "longitude": -8.447903,
       "operacionais": 10,
@@ -131,8 +114,8 @@
       "status": "Chegada ao TO",
       "latitude": 41.42774,
       "longitude": -8.100176,
-      "operacionais": 17,
-      "terrestres": 4,
+      "operacionais": 29,
+      "terrestres": 7,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -179,7 +162,7 @@
       "concelho": "Arcos De Valdevez",
       "freguesia": "Prozelo",
       "distrito": "Viana Do Castelo",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.864377,
       "longitude": -8.441713,
       "operacionais": 5,
