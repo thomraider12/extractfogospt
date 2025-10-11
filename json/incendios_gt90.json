@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-11T14:29:09+00:00",
+  "atualizado_em": "2025-10-11T14:39:52+00:00",
   "criterio": "> 1 operacionais",
-  "total": 14,
+  "total": 12,
   "incendios": [
     {
       "id": "20251357884",
@@ -63,8 +63,8 @@
       "status": "Conclusão",
       "latitude": 40.31778,
       "longitude": -8.7675,
-      "operacionais": 21,
-      "terrestres": 9,
+      "operacionais": 16,
+      "terrestres": 8,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -123,23 +123,6 @@
       "kml_file": null
     },
     {
-      "id": "20251364375",
-      "data_inicio": "11-10-2025 12:17",
-      "concelho": "Vidigueira",
-      "freguesia": "Selmes",
-      "distrito": "Beja",
-      "status": "Conclusão",
-      "latitude": 38.190823,
-      "longitude": -7.844697,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251364573",
       "data_inicio": "11-10-2025 13:00",
       "concelho": "Baião",
@@ -191,23 +174,6 @@
       "kml_file": null
     },
     {
-      "id": "20251364861",
-      "data_inicio": "11-10-2025 13:57",
-      "concelho": "Murtosa",
-      "freguesia": "Murtosa",
-      "distrito": "Aveiro",
-      "status": "Em Curso",
-      "latitude": 40.73712,
-      "longitude": -8.6422,
-      "operacionais": 15,
-      "terrestres": 4,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251364889",
       "data_inicio": "11-10-2025 13:55",
       "concelho": "Trofa",
@@ -233,9 +199,9 @@
       "status": "Despacho de 1º Alerta",
       "latitude": 41.047881,
       "longitude": -8.051061,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
+      "operacionais": 28,
+      "terrestres": 5,
+      "aereos": 1,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
