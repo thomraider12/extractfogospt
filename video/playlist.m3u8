@@ -14,8 +14,6 @@ playlist3.ts
 playlist4.ts
 #EXTINF:17.533333,
 playlist5.ts
-#EXTINF:8.333333,
+#EXTINF:0.866667,
 playlist6.ts
-#EXTINF:1.733333,
-playlist7.ts
 #EXT-X-ENDLIST
