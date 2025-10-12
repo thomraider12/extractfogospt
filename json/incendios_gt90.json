@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-12T11:13:21+00:00",
+  "atualizado_em": "2025-10-12T11:25:27+00:00",
   "criterio": "> 1 operacionais",
-  "total": 10,
+  "total": 9,
   "incendios": [
     {
       "id": "20251359108",
@@ -46,8 +46,8 @@
       "status": "Conclusão",
       "latitude": 41.061059,
       "longitude": -8.008836,
-      "operacionais": 11,
-      "terrestres": 3,
+      "operacionais": 10,
+      "terrestres": 2,
       "aereos": 1,
       "area_km2": null,
       "tem_kml": false,
@@ -106,23 +106,6 @@
       "kml_file": null
     },
     {
-      "id": "20251368418",
-      "data_inicio": "12-10-2025 10:22",
-      "concelho": "Beja",
-      "freguesia": "Beja (Santiago Maior E São João Baptista)",
-      "distrito": "Beja",
-      "status": "Conclusão",
-      "latitude": 38.022947,
-      "longitude": -7.874057,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251368389",
       "data_inicio": "12-10-2025 10:19",
       "concelho": "Cinfães",
@@ -131,9 +114,9 @@
       "status": "Em Resolução",
       "latitude": 41.027183,
       "longitude": -8.007718,
-      "operacionais": 27,
+      "operacionais": 21,
       "terrestres": 5,
-      "aereos": 1,
+      "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
