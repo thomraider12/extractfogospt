@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-12T05:50:48+00:00",
+  "atualizado_em": "2025-10-12T06:24:59+00:00",
   "criterio": "> 1 operacionais",
   "total": 5,
   "incendios": [
@@ -55,23 +55,6 @@
       "kml_file": null
     },
     {
-      "id": "20251366745",
-      "data_inicio": "11-10-2025 22:22",
-      "concelho": "Arouca",
-      "freguesia": "Urrô",
-      "distrito": "Aveiro",
-      "status": "Conclusão",
-      "latitude": 40.879503,
-      "longitude": -8.284965,
-      "operacionais": 14,
-      "terrestres": 4,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251367094",
       "data_inicio": "12-10-2025 01:34",
       "concelho": "Seia",
@@ -82,6 +65,23 @@
       "longitude": -7.69516,
       "operacionais": 7,
       "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251367399",
+      "data_inicio": "12-10-2025 05:50",
+      "concelho": "Moita",
+      "freguesia": "Alhos Vedros",
+      "distrito": "Setúbal",
+      "status": "Em Curso",
+      "latitude": 38.6535,
+      "longitude": -9.004776,
+      "operacionais": 19,
+      "terrestres": 5,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
