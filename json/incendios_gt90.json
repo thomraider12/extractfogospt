@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-12T06:24:59+00:00",
+  "atualizado_em": "2025-10-12T06:44:59+00:00",
   "criterio": "> 1 operacionais",
   "total": 5,
   "incendios": [
@@ -77,7 +77,7 @@
       "concelho": "Moita",
       "freguesia": "Alhos Vedros",
       "distrito": "Setúbal",
-      "status": "Em Curso",
+      "status": "Conclusão",
       "latitude": 38.6535,
       "longitude": -9.004776,
       "operacionais": 19,
