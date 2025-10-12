@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-12T07:36:34+00:00",
+  "atualizado_em": "2025-10-12T07:51:04+00:00",
   "criterio": "> 1 operacionais",
   "total": 6,
   "incendios": [
@@ -80,8 +80,8 @@
       "status": "Conclusão",
       "latitude": 38.6535,
       "longitude": -9.004776,
-      "operacionais": 14,
-      "terrestres": 4,
+      "operacionais": 9,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -94,7 +94,7 @@
       "concelho": "Fafe",
       "freguesia": "Estorãos",
       "distrito": "Braga",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 41.494373,
       "longitude": -8.140142,
       "operacionais": 21,
