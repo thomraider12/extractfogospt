@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-12T07:51:04+00:00",
+  "atualizado_em": "2025-10-12T08:21:28+00:00",
   "criterio": "> 1 operacionais",
-  "total": 6,
+  "total": 5,
   "incendios": [
     {
       "id": "20251359108",
@@ -72,34 +72,17 @@
       "kml_file": null
     },
     {
-      "id": "20251367399",
-      "data_inicio": "12-10-2025 05:50",
-      "concelho": "Moita",
-      "freguesia": "Alhos Vedros",
-      "distrito": "Setúbal",
-      "status": "Conclusão",
-      "latitude": 38.6535,
-      "longitude": -9.004776,
-      "operacionais": 9,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251367542",
       "data_inicio": "12-10-2025 07:03",
       "concelho": "Fafe",
       "freguesia": "Estorãos",
       "distrito": "Braga",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.494373,
       "longitude": -8.140142,
-      "operacionais": 21,
-      "terrestres": 3,
-      "aereos": 1,
+      "operacionais": 10,
+      "terrestres": 2,
+      "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
