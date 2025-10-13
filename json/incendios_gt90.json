@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-13T21:16:11+00:00",
+  "atualizado_em": "2025-10-13T21:36:13+00:00",
   "criterio": "> 1 operacionais",
   "total": 7,
   "incendios": [
@@ -72,23 +72,6 @@
       "kml_file": null
     },
     {
-      "id": "20251375620",
-      "data_inicio": "13-10-2025 18:24",
-      "concelho": "Cabeceiras De Basto",
-      "freguesia": "Bucos",
-      "distrito": "Braga",
-      "status": "Conclusão",
-      "latitude": 41.560957,
-      "longitude": -8.051415,
-      "operacionais": 11,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251375933",
       "data_inicio": "13-10-2025 19:49",
       "concelho": "Boticas",
@@ -116,6 +99,23 @@
       "longitude": -8.363977,
       "operacionais": 5,
       "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251376207",
+      "data_inicio": "13-10-2025 21:14",
+      "concelho": "Ponte De Lima",
+      "freguesia": "Refóios Do Lima",
+      "distrito": "Viana Do Castelo",
+      "status": "Em Curso",
+      "latitude": 41.800597,
+      "longitude": -8.540179,
+      "operacionais": 7,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
