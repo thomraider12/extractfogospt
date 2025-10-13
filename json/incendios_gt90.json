@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-13T03:58:55+00:00",
+  "atualizado_em": "2025-10-13T04:31:13+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -43,7 +43,7 @@
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Grijó E Sermonde",
       "distrito": "Porto",
-      "status": "Conclusão",
+      "status": "Chegada ao TO",
       "latitude": 41.030201,
       "longitude": -8.579955,
       "operacionais": 5,
