@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-13T09:22:52+00:00",
+  "atualizado_em": "2025-10-13T09:43:08+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 4,
   "incendios": [
     {
       "id": "20251369631",
@@ -48,6 +48,23 @@
       "longitude": -9.130692,
       "operacionais": 6,
       "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251372719",
+      "data_inicio": "13-10-2025 09:21",
+      "concelho": "Vila Do Conde",
+      "freguesia": "Retorta E Tougues",
+      "distrito": "Porto",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.35946,
+      "longitude": -8.71662,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
