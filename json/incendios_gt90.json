@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-13T05:51:46+00:00",
+  "atualizado_em": "2025-10-13T06:30:10+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251369631",
@@ -38,23 +38,6 @@
       "kml_file": null
     },
     {
-      "id": "20251371365",
-      "data_inicio": "12-10-2025 23:48",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Grijó E Sermonde",
-      "distrito": "Porto",
-      "status": "Chegada ao TO",
-      "latitude": 41.030201,
-      "longitude": -8.579955,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251371642",
       "data_inicio": "13-10-2025 04:27",
       "concelho": "Coruche",
@@ -77,11 +60,11 @@
       "concelho": "Leiria",
       "freguesia": "Colmeias E Memória",
       "distrito": "Leiria",
-      "status": "Chegada ao TO",
-      "latitude": 39.788307,
-      "longitude": -8.729665,
-      "operacionais": 12,
-      "terrestres": 3,
+      "status": "Conclusão",
+      "latitude": 39.782358,
+      "longitude": -8.724852,
+      "operacionais": 14,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
