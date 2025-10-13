@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-13T09:53:49+00:00",
+  "atualizado_em": "2025-10-13T10:22:28+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251369631",
@@ -38,23 +38,6 @@
       "kml_file": null
     },
     {
-      "id": "20251372642",
-      "data_inicio": "13-10-2025 09:10",
-      "concelho": "Loures",
-      "freguesia": "Santo Antão E São Julião Do Tojal",
-      "distrito": "Lisboa",
-      "status": "Conclusão",
-      "latitude": 38.852432,
-      "longitude": -9.130692,
-      "operacionais": 6,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251372719",
       "data_inicio": "13-10-2025 09:21",
       "concelho": "Vila Do Conde",
@@ -77,12 +60,12 @@
       "concelho": "Castro Daire",
       "freguesia": "Mezio E Moura Morta",
       "distrito": "Viseu",
-      "status": "Despacho",
-      "latitude": 40.97968,
-      "longitude": -7.86739,
-      "operacionais": 18,
-      "terrestres": 3,
-      "aereos": 1,
+      "status": "Chegada ao TO",
+      "latitude": 40.979165,
+      "longitude": -7.864602,
+      "operacionais": 7,
+      "terrestres": 2,
+      "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
