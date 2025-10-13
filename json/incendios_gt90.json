@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-13T22:38:50+00:00",
+  "atualizado_em": "2025-10-13T22:50:58+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 3,
   "incendios": [
     {
       "id": "20251373444",
@@ -38,29 +38,12 @@
       "kml_file": null
     },
     {
-      "id": "20251376207",
-      "data_inicio": "13-10-2025 21:14",
-      "concelho": "Ponte De Lima",
-      "freguesia": "Refóios Do Lima",
-      "distrito": "Viana Do Castelo",
-      "status": "Conclusão",
-      "latitude": 41.794005,
-      "longitude": -8.527167,
-      "operacionais": 9,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251376344",
       "data_inicio": "13-10-2025 22:05",
       "concelho": "Arraiolos",
       "freguesia": "São Gregório E Santa Justa",
       "distrito": "Évora",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 38.764792,
       "longitude": -7.873835,
       "operacionais": 23,
