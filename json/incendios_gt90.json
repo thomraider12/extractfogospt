@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-13T04:31:13+00:00",
+  "atualizado_em": "2025-10-13T04:52:10+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 4,
   "incendios": [
     {
       "id": "20251369631",
@@ -48,6 +48,23 @@
       "longitude": -8.579955,
       "operacionais": 5,
       "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251371642",
+      "data_inicio": "13-10-2025 04:27",
+      "concelho": "Coruche",
+      "freguesia": "Branca",
+      "distrito": "Santarém",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.84517,
+      "longitude": -8.59515,
+      "operacionais": 14,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
