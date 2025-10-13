@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-13T05:19:17+00:00",
+  "atualizado_em": "2025-10-13T05:41:28+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 5,
   "incendios": [
     {
       "id": "20251369631",
@@ -64,6 +64,23 @@
       "latitude": 38.84959,
       "longitude": -8.588247,
       "operacionais": 14,
+      "terrestres": 4,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251371686",
+      "data_inicio": "13-10-2025 05:07",
+      "concelho": "Leiria",
+      "freguesia": "Colmeias E Memória",
+      "distrito": "Leiria",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 39.788307,
+      "longitude": -8.729665,
+      "operacionais": 17,
       "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
