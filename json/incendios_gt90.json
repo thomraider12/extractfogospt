@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-13T10:22:28+00:00",
+  "atualizado_em": "2025-10-13T10:44:36+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 3,
   "incendios": [
     {
       "id": "20251369631",
@@ -48,23 +48,6 @@
       "longitude": -8.71662,
       "operacionais": 5,
       "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251372804",
-      "data_inicio": "13-10-2025 09:35",
-      "concelho": "Castro Daire",
-      "freguesia": "Mezio E Moura Morta",
-      "distrito": "Viseu",
-      "status": "Chegada ao TO",
-      "latitude": 40.979165,
-      "longitude": -7.864602,
-      "operacionais": 7,
-      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
