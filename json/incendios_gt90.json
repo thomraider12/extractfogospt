@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-13T20:50:56+00:00",
+  "atualizado_em": "2025-10-13T21:16:11+00:00",
   "criterio": "> 1 operacionais",
   "total": 7,
   "incendios": [
@@ -111,9 +111,9 @@
       "concelho": "Ponte Da Barca",
       "freguesia": "Azias",
       "distrito": "Viana Do Castelo",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.7765,
-      "longitude": -8.362592,
+      "status": "Conclusão",
+      "latitude": 41.774183,
+      "longitude": -8.363977,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
