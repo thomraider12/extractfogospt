@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-14T03:33:10+00:00",
+  "atualizado_em": "2025-10-14T03:53:42+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -26,7 +26,7 @@
       "concelho": "Boticas",
       "freguesia": "Alturas Do Barroso E Cerdedo",
       "distrito": "Vila Real",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.673307,
       "longitude": -7.846217,
       "operacionais": 12,
