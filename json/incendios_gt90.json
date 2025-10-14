@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-14T05:39:55+00:00",
+  "atualizado_em": "2025-10-14T05:50:58+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -26,7 +26,7 @@
       "concelho": "Penafiel",
       "freguesia": "Termas De São Vicente",
       "distrito": "Porto",
-      "status": "Chegada ao TO",
+      "status": "Em Curso",
       "latitude": 41.12889,
       "longitude": -8.279557,
       "operacionais": 5,
