@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-14T04:52:50+00:00",
+  "atualizado_em": "2025-10-14T05:18:13+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 1,
   "incendios": [
     {
       "id": "20251373444",
@@ -12,23 +12,6 @@
       "status": "Vigilância",
       "latitude": 39.515667,
       "longitude": -8.119095,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251376793",
-      "data_inicio": "14-10-2025 03:55",
-      "concelho": "Baião",
-      "freguesia": "Santa Marinha Do Zêzere",
-      "distrito": "Porto",
-      "status": "Em Resolução",
-      "latitude": 41.137723,
-      "longitude": -7.958215,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
