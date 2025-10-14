@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-14T07:38:54+00:00",
+  "atualizado_em": "2025-10-14T07:51:10+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 4,
   "incendios": [
     {
       "id": "20251373444",
@@ -48,6 +48,23 @@
       "longitude": -7.760278,
       "operacionais": 7,
       "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251377245",
+      "data_inicio": "14-10-2025 07:31",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Oliveira Do Douro",
+      "distrito": "Porto",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.13663,
+      "longitude": -8.576047,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
