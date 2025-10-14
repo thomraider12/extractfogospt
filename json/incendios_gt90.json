@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-14T05:18:13+00:00",
+  "atualizado_em": "2025-10-14T05:39:55+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20251373444",
@@ -12,6 +12,23 @@
       "status": "Vigilância",
       "latitude": 39.515667,
       "longitude": -8.119095,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251376871",
+      "data_inicio": "14-10-2025 05:17",
+      "concelho": "Penafiel",
+      "freguesia": "Termas De São Vicente",
+      "distrito": "Porto",
+      "status": "Chegada ao TO",
+      "latitude": 41.12889,
+      "longitude": -8.279557,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
