@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-14T21:37:08+00:00",
+  "atualizado_em": "2025-10-14T21:50:59+00:00",
   "criterio": "> 1 operacionais",
-  "total": 9,
+  "total": 8,
   "incendios": [
     {
       "id": "20251373444",
@@ -123,29 +123,12 @@
       "kml_file": null
     },
     {
-      "id": "20251381221",
-      "data_inicio": "14-10-2025 20:55",
-      "concelho": "Paredes",
-      "freguesia": "Duas Igrejas",
-      "distrito": "Porto",
-      "status": "Chegada ao TO",
-      "latitude": 41.228302,
-      "longitude": -8.386243,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251381219",
       "data_inicio": "14-10-2025 21:00",
       "concelho": "Santo Tirso",
       "freguesia": "Areias, Sequeiró, Lama E Palmeira",
       "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
+      "status": "Em Resolução",
       "latitude": 41.364343,
       "longitude": -8.476147,
       "operacionais": 5,
