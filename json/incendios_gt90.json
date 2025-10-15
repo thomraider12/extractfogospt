@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-15T04:22:13+00:00",
+  "atualizado_em": "2025-10-15T04:42:54+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 3,
   "incendios": [
     {
       "id": "20251380690",
@@ -31,23 +31,6 @@
       "longitude": -8.09192,
       "operacionais": 5,
       "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251381025",
-      "data_inicio": "14-10-2025 19:54",
-      "concelho": "Fafe",
-      "freguesia": "Monte E Queimadela",
-      "distrito": "Braga",
-      "status": "Conclusão",
-      "latitude": 41.528335,
-      "longitude": -8.154765,
-      "operacionais": 6,
-      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
