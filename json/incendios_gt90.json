@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-15T23:37:10+00:00",
+  "atualizado_em": "2025-10-15T23:51:01+00:00",
   "criterio": "> 1 operacionais",
   "total": 5,
   "incendios": [
@@ -60,9 +60,9 @@
       "concelho": "Póvoa De Lanhoso",
       "freguesia": "Calvos E Frades",
       "distrito": "Braga",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.61162,
-      "longitude": -8.24647,
+      "status": "Conclusão",
+      "latitude": 41.612977,
+      "longitude": -8.2484,
       "operacionais": 7,
       "terrestres": 2,
       "aereos": 0,
