@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-15T05:40:34+00:00",
+  "atualizado_em": "2025-10-15T05:50:59+00:00",
   "criterio": "> 1 operacionais",
   "total": 5,
   "incendios": [
@@ -77,11 +77,11 @@
       "concelho": "Torre De Moncorvo",
       "freguesia": "Urros E Peredo Dos Castelhanos",
       "distrito": "Bragança",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 41.097259,
       "longitude": -6.9784,
-      "operacionais": 20,
-      "terrestres": 6,
+      "operacionais": 15,
+      "terrestres": 5,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
