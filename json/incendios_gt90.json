@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-15T09:41:56+00:00",
+  "atualizado_em": "2025-10-15T09:52:02+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251380690",
@@ -32,23 +32,6 @@
       "operacionais": 8,
       "terrestres": 1,
       "aereos": 1,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251381361",
-      "data_inicio": "14-10-2025 21:44",
-      "concelho": "Sintra",
-      "freguesia": "S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
-      "distrito": "Lisboa",
-      "status": "Vigilância",
-      "latitude": 38.767585,
-      "longitude": -9.398293,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
