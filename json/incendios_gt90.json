@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-16T03:55:29+00:00",
+  "atualizado_em": "2025-10-16T04:21:49+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 2,
   "incendios": [
     {
       "id": "20251384050",
@@ -31,23 +31,6 @@
       "longitude": -8.069937,
       "operacionais": 12,
       "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251386909",
-      "data_inicio": "16-10-2025 03:51",
-      "concelho": "Alpiarça",
-      "freguesia": "Alpiarça",
-      "distrito": "Santarém",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 39.262022,
-      "longitude": -8.595402,
-      "operacionais": 4,
-      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
