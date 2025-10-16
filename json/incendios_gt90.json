@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-16T19:26:46+00:00",
+  "atualizado_em": "2025-10-16T19:38:40+00:00",
   "criterio": "> 1 operacionais",
   "total": 15,
   "incendios": [
@@ -12,8 +12,8 @@
       "status": "Conclusão",
       "latitude": 41.46891,
       "longitude": -8.069937,
-      "operacionais": 7,
-      "terrestres": 2,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -94,7 +94,7 @@
       "concelho": "Resende",
       "freguesia": "Paus",
       "distrito": "Viseu",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.073492,
       "longitude": -7.91977,
       "operacionais": 6,
