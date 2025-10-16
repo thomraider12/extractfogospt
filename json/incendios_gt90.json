@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-16T05:18:39+00:00",
+  "atualizado_em": "2025-10-16T05:40:31+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 4,
   "incendios": [
     {
       "id": "20251384050",
@@ -48,6 +48,23 @@
       "longitude": -7.275577,
       "operacionais": 14,
       "terrestres": 4,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251387007",
+      "data_inicio": "16-10-2025 05:20",
+      "concelho": "Viana Do Castelo",
+      "freguesia": "Geraz Do Lima (S.Maria, S.Leocádia, Moreira), Deão",
+      "distrito": "Viana Do Castelo",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.704457,
+      "longitude": -8.675355,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
