@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-16T09:21:03+00:00",
+  "atualizado_em": "2025-10-16T09:52:30+00:00",
   "criterio": "> 1 operacionais",
-  "total": 8,
+  "total": 7,
   "incendios": [
     {
       "id": "20251384050",
@@ -114,25 +114,8 @@
       "status": "Conclusão",
       "latitude": 41.055373,
       "longitude": -8.240985,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251387649",
-      "data_inicio": "16-10-2025 08:35",
-      "concelho": "Mogadouro",
-      "freguesia": "Vila De Ala",
-      "distrito": "Bragança",
-      "status": "Conclusão",
-      "latitude": 41.333988,
-      "longitude": -6.710892,
-      "operacionais": 3,
-      "terrestres": 2,
+      "operacionais": 9,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
