@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-16T20:40:42+00:00",
+  "atualizado_em": "2025-10-16T20:51:12+00:00",
   "criterio": "> 1 operacionais",
   "total": 10,
   "incendios": [
@@ -128,7 +128,7 @@
       "concelho": "Montalegre",
       "freguesia": "Chã",
       "distrito": "Vila Real",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 41.797803,
       "longitude": -7.722822,
       "operacionais": 12,
@@ -162,9 +162,9 @@
       "concelho": "Valença",
       "freguesia": "Gondomil E Safins",
       "distrito": "Viana Do Castelo",
-      "status": "Em Curso",
-      "latitude": 42.03118,
-      "longitude": -8.58222,
+      "status": "Em Resolução",
+      "latitude": 42.017262,
+      "longitude": -8.580515,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
