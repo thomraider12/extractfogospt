@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-16T21:37:50+00:00",
+  "atualizado_em": "2025-10-16T21:50:46+00:00",
   "criterio": "> 1 operacionais",
-  "total": 10,
+  "total": 8,
   "incendios": [
     {
       "id": "20251385926",
@@ -55,23 +55,6 @@
       "kml_file": null
     },
     {
-      "id": "20251390472",
-      "data_inicio": "16-10-2025 17:34",
-      "concelho": "Idanha-a-nova",
-      "freguesia": "Ladoeiro",
-      "distrito": "Castelo Branco",
-      "status": "Conclusão",
-      "latitude": 39.853768,
-      "longitude": -7.260025,
-      "operacionais": 2,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251390482",
       "data_inicio": "16-10-2025 17:36",
       "concelho": "Vila Verde",
@@ -116,23 +99,6 @@
       "longitude": -7.722822,
       "operacionais": 12,
       "terrestres": 4,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251391123",
-      "data_inicio": "16-10-2025 20:13",
-      "concelho": "Valença",
-      "freguesia": "Gondomil E Safins",
-      "distrito": "Viana Do Castelo",
-      "status": "Conclusão",
-      "latitude": 42.017262,
-      "longitude": -8.580515,
-      "operacionais": 5,
-      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
