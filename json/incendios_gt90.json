@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-16T04:42:23+00:00",
+  "atualizado_em": "2025-10-16T04:52:33+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -43,11 +43,11 @@
       "concelho": "Guarda",
       "freguesia": "Guarda",
       "distrito": "Guarda",
-      "status": "Despacho de 1º Alerta",
+      "status": "Chegada ao TO",
       "latitude": 40.536751,
       "longitude": -7.260869,
-      "operacionais": 12,
-      "terrestres": 3,
+      "operacionais": 14,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
