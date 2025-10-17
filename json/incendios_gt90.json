@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-17T07:50:29+00:00",
+  "atualizado_em": "2025-10-17T08:26:14+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 3,
   "incendios": [
     {
       "id": "20251391841",
@@ -43,27 +43,10 @@
       "concelho": "Penafiel",
       "freguesia": "Termas De São Vicente",
       "distrito": "Porto",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 41.123808,
       "longitude": -8.301618,
       "operacionais": 8,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251392225",
-      "data_inicio": "17-10-2025 07:03",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Canelas",
-      "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.079376,
-      "longitude": -8.599603,
-      "operacionais": 9,
       "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
