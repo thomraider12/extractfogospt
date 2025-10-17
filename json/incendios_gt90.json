@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-17T23:16:17+00:00",
+  "atualizado_em": "2025-10-17T23:36:50+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 3,
   "incendios": [
     {
       "id": "20251395859",
@@ -48,23 +48,6 @@
       "longitude": -8.619005,
       "operacionais": 9,
       "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251396634",
-      "data_inicio": "17-10-2025 22:28",
-      "concelho": "Resende",
-      "freguesia": "Resende",
-      "distrito": "Viseu",
-      "status": "Conclusão",
-      "latitude": 41.088188,
-      "longitude": -7.938907,
-      "operacionais": 4,
-      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
