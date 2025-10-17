@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-17T08:48:23+00:00",
+  "atualizado_em": "2025-10-17T09:20:48+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251391841",
@@ -55,29 +55,12 @@
       "kml_file": null
     },
     {
-      "id": "20251392513",
-      "data_inicio": "17-10-2025 08:17",
-      "concelho": "Vila Do Conde",
-      "freguesia": "Modivas",
-      "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.295083,
-      "longitude": -8.688294,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251392591",
       "data_inicio": "17-10-2025 08:32",
       "concelho": "Santa Maria Da Feira",
       "freguesia": "Mozelos",
       "distrito": "Aveiro",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 41.00495,
       "longitude": -8.55264,
       "operacionais": 5,
