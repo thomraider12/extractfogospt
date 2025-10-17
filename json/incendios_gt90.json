@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-17T07:38:22+00:00",
+  "atualizado_em": "2025-10-17T07:50:29+00:00",
   "criterio": "> 1 operacionais",
   "total": 4,
   "incendios": [
@@ -26,7 +26,7 @@
       "concelho": "Marco De Canaveses",
       "freguesia": "Penhalonga E Paços De Gaiolo",
       "distrito": "Porto",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.10066,
       "longitude": -8.161178,
       "operacionais": 4,
@@ -46,8 +46,8 @@
       "status": "Em Curso",
       "latitude": 41.123808,
       "longitude": -8.301618,
-      "operacionais": 3,
-      "terrestres": 1,
+      "operacionais": 8,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
