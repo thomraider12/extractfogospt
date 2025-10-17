@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-17T22:50:35+00:00",
+  "atualizado_em": "2025-10-17T23:16:17+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251395859",
@@ -38,29 +38,12 @@
       "kml_file": null
     },
     {
-      "id": "20251396362",
-      "data_inicio": "17-10-2025 20:55",
-      "concelho": "Serpa",
-      "freguesia": "Serpa (salvador E Santa Maria)",
-      "distrito": "Beja",
-      "status": "Conclusão",
-      "latitude": 37.92721,
-      "longitude": -7.57439,
-      "operacionais": 2,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251396536",
       "data_inicio": "17-10-2025 21:41",
       "concelho": "Trofa",
       "freguesia": "Alvarelhos E Guidões",
       "distrito": "Porto",
-      "status": "Chegada ao TO",
+      "status": "Conclusão",
       "latitude": 41.300007,
       "longitude": -8.619005,
       "operacionais": 9,
@@ -77,9 +60,9 @@
       "concelho": "Resende",
       "freguesia": "Resende",
       "distrito": "Viseu",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.085563,
-      "longitude": -7.936766,
+      "status": "Conclusão",
+      "latitude": 41.088188,
+      "longitude": -7.938907,
       "operacionais": 4,
       "terrestres": 1,
       "aereos": 0,
