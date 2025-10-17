@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-17T04:22:36+00:00",
+  "atualizado_em": "2025-10-17T04:43:00+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,9 +9,9 @@
       "concelho": "Paredes",
       "freguesia": "Sobreira",
       "distrito": "Porto",
-      "status": "Chegada ao TO",
-      "latitude": 41.14608,
-      "longitude": -8.390864,
+      "status": "Em Curso",
+      "latitude": 41.153068,
+      "longitude": -8.389412,
       "operacionais": 10,
       "terrestres": 4,
       "aereos": 0,
