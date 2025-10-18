@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-18T02:39:57+00:00",
+  "atualizado_em": "2025-10-18T03:18:12+00:00",
   "criterio": "> 1 operacionais",
   "total": 5,
   "incendios": [
@@ -43,7 +43,7 @@
       "concelho": "Oliveira De Azeméis",
       "freguesia": "O. Azeméis, Riba-ul, Ul, Macinhata Seixa, Madail",
       "distrito": "Aveiro",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 40.854747,
       "longitude": -8.505532,
       "operacionais": 16,
@@ -72,14 +72,14 @@
       "kml_file": null
     },
     {
-      "id": "20251396980",
-      "data_inicio": "18-10-2025 02:18",
-      "concelho": "Vagos",
-      "freguesia": "Sosa",
-      "distrito": "Aveiro",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 40.565985,
-      "longitude": -8.627893,
+      "id": "20251397008",
+      "data_inicio": "18-10-2025 02:47",
+      "concelho": "Amadora",
+      "freguesia": "Alfragide",
+      "distrito": "Lisboa",
+      "status": "Chegada ao TO",
+      "latitude": 38.73654,
+      "longitude": -9.21623,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
