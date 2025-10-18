@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-18T07:50:35+00:00",
+  "atualizado_em": "2025-10-18T08:22:30+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251397215",
@@ -48,23 +48,6 @@
       "longitude": -7.805646,
       "operacionais": 11,
       "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251397395",
-      "data_inicio": "18-10-2025 06:55",
-      "concelho": "Carrazeda De Ansiães",
-      "freguesia": "Carrazeda De Ansiães",
-      "distrito": "Bragança",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.241211,
-      "longitude": -7.301682,
-      "operacionais": 5,
-      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
