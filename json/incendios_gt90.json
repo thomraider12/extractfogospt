@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-19T23:16:27+00:00",
+  "atualizado_em": "2025-10-19T23:36:59+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -43,7 +43,7 @@
       "concelho": "Almada",
       "freguesia": "Laranjeiro E Feijó",
       "distrito": "Setúbal",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 38.652235,
       "longitude": -9.156624,
       "operacionais": 5,
