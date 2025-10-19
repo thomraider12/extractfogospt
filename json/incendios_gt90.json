@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-19T18:24:01+00:00",
+  "atualizado_em": "2025-10-19T18:44:35+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -38,16 +38,16 @@
       "kml_file": null
     },
     {
-      "id": "20251404440",
-      "data_inicio": "19-10-2025 17:06",
-      "concelho": "Seixal",
-      "freguesia": "Seixal, Arrentela E Aldeia De Paio Pires",
+      "id": "20251404710",
+      "data_inicio": "19-10-2025 18:26",
+      "concelho": "Palmela",
+      "freguesia": "Pinhal Novo",
       "distrito": "Setúbal",
-      "status": "Conclusão",
-      "latitude": 38.59135,
-      "longitude": -9.09676,
-      "operacionais": 8,
-      "terrestres": 2,
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.6232,
+      "longitude": -8.94209,
+      "operacionais": 4,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
