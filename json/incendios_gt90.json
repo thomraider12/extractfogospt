@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-19T18:55:03+00:00",
+  "atualizado_em": "2025-10-19T19:13:49+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 4,
   "incendios": [
     {
       "id": "20251402928",
@@ -48,6 +48,23 @@
       "longitude": -8.94209,
       "operacionais": 6,
       "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251404797",
+      "data_inicio": "19-10-2025 18:56",
+      "concelho": "Mação",
+      "freguesia": "Cardigos",
+      "distrito": "Santarém",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 39.7226,
+      "longitude": -8.048644,
+      "operacionais": 21,
+      "terrestres": 6,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
