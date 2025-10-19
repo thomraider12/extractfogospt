@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-19T13:31:31+00:00",
+  "atualizado_em": "2025-10-19T13:50:34+00:00",
   "criterio": "> 1 operacionais",
-  "total": 9,
+  "total": 7,
   "incendios": [
     {
       "id": "20251400624",
@@ -89,40 +89,6 @@
       "kml_file": null
     },
     {
-      "id": "20251402930",
-      "data_inicio": "19-10-2025 10:45",
-      "concelho": "São João Da Pesqueira",
-      "freguesia": "São João Da Pesqueira E Várzea De Trevões",
-      "distrito": "Viseu",
-      "status": "Conclusão",
-      "latitude": 41.141462,
-      "longitude": -7.409793,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251403316",
-      "data_inicio": "19-10-2025 12:25",
-      "concelho": "Arganil",
-      "freguesia": "Benfeita",
-      "distrito": "Coimbra",
-      "status": "Conclusão",
-      "latitude": 40.225571,
-      "longitude": -7.933381,
-      "operacionais": 6,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251403435",
       "data_inicio": "19-10-2025 12:57",
       "concelho": "Serpa",
@@ -145,7 +111,7 @@
       "concelho": "Alenquer",
       "freguesia": "Carnota",
       "distrito": "Lisboa",
-      "status": "Despacho de 1º Alerta",
+      "status": "Em Resolução",
       "latitude": 39.035091,
       "longitude": -9.044332,
       "operacionais": 5,
