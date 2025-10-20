@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-20T14:43:08+00:00",
+  "atualizado_em": "2025-10-20T14:54:06+00:00",
   "criterio": "> 1 operacionais",
-  "total": 7,
+  "total": 6,
   "incendios": [
     {
       "id": "20251404168",
@@ -55,23 +55,6 @@
       "kml_file": null
     },
     {
-      "id": "20251408369",
-      "data_inicio": "20-10-2025 13:43",
-      "concelho": "Setúbal",
-      "freguesia": "Azeitão (São Lourenço E São Simão)",
-      "distrito": "Setúbal",
-      "status": "Conclusão",
-      "latitude": 38.539673,
-      "longitude": -8.993175,
-      "operacionais": 11,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251408444",
       "data_inicio": "20-10-2025 13:56",
       "concelho": "Covilhã",
@@ -97,8 +80,8 @@
       "status": "Em Curso",
       "latitude": 38.831922,
       "longitude": -7.904952,
-      "operacionais": 16,
-      "terrestres": 5,
+      "operacionais": 21,
+      "terrestres": 6,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -111,7 +94,7 @@
       "concelho": "Sesimbra",
       "freguesia": "Sesimbra (castelo)",
       "distrito": "Setúbal",
-      "status": "Em Curso",
+      "status": "Conclusão",
       "latitude": 38.449031,
       "longitude": -9.112506,
       "operacionais": 6,
