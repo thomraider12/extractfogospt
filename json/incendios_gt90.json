@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-21T15:41:03+00:00",
+  "atualizado_em": "2025-10-21T15:51:55+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -27,8 +27,8 @@
       "freguesia": "São Pedro De Agostém",
       "distrito": "Vila Real",
       "status": "Despacho de 1º Alerta",
-      "latitude": 41.709717,
-      "longitude": -7.491528,
+      "latitude": 41.703868,
+      "longitude": -7.490578,
       "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
