@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-21T08:50:25+00:00",
+  "atualizado_em": "2025-10-21T09:21:04+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 1,
   "incendios": [
     {
       "id": "20251404168",
@@ -13,23 +13,6 @@
       "latitude": 39.726483,
       "longitude": -8.697637,
       "operacionais": 2,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251410982",
-      "data_inicio": "21-10-2025 06:27",
-      "concelho": "Faro",
-      "freguesia": "Faro (Sé E São Pedro)",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.020395,
-      "longitude": -7.909439,
-      "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
