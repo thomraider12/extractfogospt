@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-21T18:50:30+00:00",
+  "atualizado_em": "2025-10-21T19:16:15+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 2,
   "incendios": [
     {
       "id": "20251404168",
@@ -21,23 +21,6 @@
       "kml_file": null
     },
     {
-      "id": "20251413713",
-      "data_inicio": "21-10-2025 15:16",
-      "concelho": "Castelo Branco",
-      "freguesia": "Lardosa",
-      "distrito": "Castelo Branco",
-      "status": "Conclusão",
-      "latitude": 39.975305,
-      "longitude": -7.433923,
-      "operacionais": 5,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251414291",
       "data_inicio": "21-10-2025 17:35",
       "concelho": "Castro Marim",
@@ -46,8 +29,8 @@
       "status": "Conclusão",
       "latitude": 37.356551,
       "longitude": -7.453578,
-      "operacionais": 8,
-      "terrestres": 2,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
