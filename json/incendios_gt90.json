@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-21T19:16:15+00:00",
+  "atualizado_em": "2025-10-21T19:38:07+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -26,7 +26,7 @@
       "concelho": "Castro Marim",
       "freguesia": "Odeleite",
       "distrito": "Faro",
-      "status": "Conclusão",
+      "status": "Vigilância",
       "latitude": 37.356551,
       "longitude": -7.453578,
       "operacionais": 5,
