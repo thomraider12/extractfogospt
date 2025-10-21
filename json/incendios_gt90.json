@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-21T16:25:31+00:00",
+  "atualizado_em": "2025-10-21T16:46:01+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -26,9 +26,9 @@
       "concelho": "Castelo Branco",
       "freguesia": "Lardosa",
       "distrito": "Castelo Branco",
-      "status": "Em Resolução",
-      "latitude": 39.98875,
-      "longitude": -7.44446,
+      "status": "Conclusão",
+      "latitude": 39.975305,
+      "longitude": -7.433923,
       "operacionais": 9,
       "terrestres": 4,
       "aereos": 0,
