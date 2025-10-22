@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-22T11:51:11+00:00",
+  "atualizado_em": "2025-10-22T12:40:57+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -26,11 +26,11 @@
       "concelho": "Évora",
       "freguesia": "Nossa Senhora Da Tourega E Nossa Senhora De Guadalupe",
       "distrito": "Évora",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 38.493727,
-      "longitude": -8.019872,
-      "operacionais": 12,
-      "terrestres": 3,
+      "status": "Conclusão",
+      "latitude": 38.39585,
+      "longitude": -8.0604,
+      "operacionais": 13,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
