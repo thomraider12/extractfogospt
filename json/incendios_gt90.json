@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-22T11:17:19+00:00",
+  "atualizado_em": "2025-10-22T11:38:56+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -21,16 +21,16 @@
       "kml_file": null
     },
     {
-      "id": "20251416731",
-      "data_inicio": "22-10-2025 09:49",
+      "id": "20251417213",
+      "data_inicio": "22-10-2025 11:22",
       "concelho": "Évora",
-      "freguesia": "Malagueira E Horta Das Figueiras",
+      "freguesia": "Nossa Senhora Da Tourega E Nossa Senhora De Guadalupe",
       "distrito": "Évora",
-      "status": "Conclusão",
-      "latitude": 38.56182,
-      "longitude": -7.934906,
-      "operacionais": 7,
-      "terrestres": 2,
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.493727,
+      "longitude": -8.019872,
+      "operacionais": 12,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
