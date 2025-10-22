@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-22T10:21:12+00:00",
+  "atualizado_em": "2025-10-22T10:45:57+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 2,
   "incendios": [
     {
       "id": "20251404168",
@@ -29,23 +29,6 @@
       "status": "Conclusão",
       "latitude": 38.56182,
       "longitude": -7.934906,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251416869",
-      "data_inicio": "22-10-2025 10:11",
-      "concelho": "Caldas Da Rainha",
-      "freguesia": "Caldas Da Rainha - Santo Onofre E Serra Do Bouro",
-      "distrito": "Leiria",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 39.401713,
-      "longitude": -9.148929,
       "operacionais": 7,
       "terrestres": 2,
       "aereos": 0,
