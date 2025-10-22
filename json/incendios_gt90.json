@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-22T22:50:36+00:00",
+  "atualizado_em": "2025-10-22T23:15:56+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -26,7 +26,7 @@
       "concelho": "Serpa",
       "freguesia": "Serpa (salvador E Santa Maria)",
       "distrito": "Beja",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 37.88859,
       "longitude": -7.525267,
       "operacionais": 22,
