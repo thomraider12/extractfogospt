@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-23T17:17:02+00:00",
+  "atualizado_em": "2025-10-23T17:39:55+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 3,
   "incendios": [
     {
       "id": "20251404168",
@@ -29,8 +29,25 @@
       "status": "Conclusão",
       "latitude": 38.531913,
       "longitude": -8.101362,
-      "operacionais": 28,
-      "terrestres": 10,
+      "operacionais": 24,
+      "terrestres": 7,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251423705",
+      "data_inicio": "23-10-2025 16:55",
+      "concelho": "Torres Novas",
+      "freguesia": "Brogueira, Parceiros De Igreja E Alcorochel",
+      "distrito": "Santarém",
+      "status": "Em Resolução",
+      "latitude": 39.435767,
+      "longitude": -8.571268,
+      "operacionais": 6,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
