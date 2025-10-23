@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-23T13:48:44+00:00",
+  "atualizado_em": "2025-10-23T14:20:03+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 2,
   "incendios": [
     {
       "id": "20251404168",
@@ -31,23 +31,6 @@
       "longitude": -8.781847,
       "operacionais": 12,
       "terrestres": 5,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251422756",
-      "data_inicio": "23-10-2025 13:31",
-      "concelho": "Vila Real",
-      "freguesia": "Nossa Senhora Da Conceição, São Pedro E São Dinis",
-      "distrito": "Vila Real",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.30873,
-      "longitude": -7.74113,
-      "operacionais": 5,
-      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
