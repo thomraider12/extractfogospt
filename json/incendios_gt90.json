@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-23T20:40:26+00:00",
+  "atualizado_em": "2025-10-23T20:51:07+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -43,11 +43,11 @@
       "concelho": "Viana Do Castelo",
       "freguesia": "Areosa",
       "distrito": "Viana Do Castelo",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 41.713723,
       "longitude": -8.862523,
-      "operacionais": 5,
-      "terrestres": 1,
+      "operacionais": 9,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
