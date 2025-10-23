@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-23T14:56:01+00:00",
+  "atualizado_em": "2025-10-23T15:21:32+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 3,
   "incendios": [
     {
       "id": "20251404168",
@@ -31,6 +31,23 @@
       "longitude": -8.781847,
       "operacionais": 12,
       "terrestres": 5,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251423327",
+      "data_inicio": "23-10-2025 15:16",
+      "concelho": "Monchique",
+      "freguesia": "Monchique",
+      "distrito": "Faro",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 37.314454,
+      "longitude": -8.565129,
+      "operacionais": 6,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
