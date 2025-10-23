@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-23T21:16:36+00:00",
+  "atualizado_em": "2025-10-23T21:37:10+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -43,11 +43,11 @@
       "concelho": "Sintra",
       "freguesia": "Rio De Mouro",
       "distrito": "Lisboa",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 38.75792,
       "longitude": -9.334157,
-      "operacionais": 5,
-      "terrestres": 1,
+      "operacionais": 9,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
