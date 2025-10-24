@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-24T12:40:52+00:00",
+  "atualizado_em": "2025-10-24T13:20:05+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -27,8 +27,8 @@
       "freguesia": "Terrugem E Vila Boim",
       "distrito": "Portalegre",
       "status": "Conclusão",
-      "latitude": 38.836993,
-      "longitude": -7.353376,
+      "latitude": 38.836792,
+      "longitude": -7.353997,
       "operacionais": 6,
       "terrestres": 2,
       "aereos": 0,
