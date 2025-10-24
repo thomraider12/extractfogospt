@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-24T08:25:38+00:00",
+  "atualizado_em": "2025-10-24T08:47:17+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -26,7 +26,7 @@
       "concelho": "Maia",
       "freguesia": "São Pedro Fins",
       "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 41.24129,
       "longitude": -8.554302,
       "operacionais": 9,
