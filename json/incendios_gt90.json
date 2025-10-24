@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-24T15:51:42+00:00",
+  "atualizado_em": "2025-10-24T16:23:55+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -26,7 +26,7 @@
       "concelho": "Carrazeda De Ansiães",
       "freguesia": "Pinhal Do Norte",
       "distrito": "Bragança",
-      "status": "Em Resolução",
+      "status": "Vigilância",
       "latitude": 41.326938,
       "longitude": -7.358265,
       "operacionais": 6,
