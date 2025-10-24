@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-24T07:50:47+00:00",
+  "atualizado_em": "2025-10-24T08:25:38+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20251404168",
@@ -14,6 +14,23 @@
       "longitude": -8.697637,
       "operacionais": 2,
       "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251425617",
+      "data_inicio": "24-10-2025 07:57",
+      "concelho": "Maia",
+      "freguesia": "São Pedro Fins",
+      "distrito": "Porto",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.24129,
+      "longitude": -8.554302,
+      "operacionais": 9,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
