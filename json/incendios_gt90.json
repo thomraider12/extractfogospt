@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-24T11:50:48+00:00",
+  "atualizado_em": "2025-10-24T12:40:52+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 2,
   "incendios": [
     {
       "id": "20251404168",
@@ -21,31 +21,14 @@
       "kml_file": null
     },
     {
-      "id": "20251426410",
-      "data_inicio": "24-10-2025 10:27",
-      "concelho": "Loulé",
-      "freguesia": "Almancil",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.086336,
-      "longitude": -8.028466,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251426729",
       "data_inicio": "24-10-2025 11:38",
       "concelho": "Elvas",
       "freguesia": "Terrugem E Vila Boim",
       "distrito": "Portalegre",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 38.84064,
-      "longitude": -7.351238,
+      "status": "Conclusão",
+      "latitude": 38.836993,
+      "longitude": -7.353376,
       "operacionais": 6,
       "terrestres": 2,
       "aereos": 0,
