@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-24T17:40:01+00:00",
+  "atualizado_em": "2025-10-24T17:52:12+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -43,7 +43,7 @@
       "concelho": "Beja",
       "freguesia": "Cabeça Gorda",
       "distrito": "Beja",
-      "status": "Despacho de 1º Alerta",
+      "status": "Em Resolução",
       "latitude": 37.95636,
       "longitude": -7.80184,
       "operacionais": 10,
