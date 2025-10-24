@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-24T21:50:38+00:00",
+  "atualizado_em": "2025-10-24T22:17:58+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20251404168",
@@ -14,6 +14,23 @@
       "longitude": -8.697637,
       "operacionais": 2,
       "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251429264",
+      "data_inicio": "24-10-2025 21:48",
+      "concelho": "Beja",
+      "freguesia": "Nossa Senhora Das Neves",
+      "distrito": "Beja",
+      "status": "Chegada ao TO",
+      "latitude": 38.021124,
+      "longitude": -7.793703,
+      "operacionais": 12,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
