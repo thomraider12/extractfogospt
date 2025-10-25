@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-25T19:25:34+00:00",
+  "atualizado_em": "2025-10-25T19:37:37+00:00",
   "criterio": "> 1 operacionais",
   "total": 4,
   "incendios": [
@@ -55,14 +55,14 @@
       "kml_file": null
     },
     {
-      "id": "20251433072",
-      "data_inicio": "25-10-2025 19:12",
-      "concelho": "Cartaxo",
-      "freguesia": "Cartaxo E Vale Da Pinta",
-      "distrito": "Santarém",
+      "id": "20251433089",
+      "data_inicio": "25-10-2025 19:17",
+      "concelho": "Loulé",
+      "freguesia": "Loulé (São Clemente)",
+      "distrito": "Faro",
       "status": "Despacho de 1º Alerta",
-      "latitude": 39.166481,
-      "longitude": -8.794948,
+      "latitude": 37.171915,
+      "longitude": -8.00583,
       "operacionais": 8,
       "terrestres": 3,
       "aereos": 0,
