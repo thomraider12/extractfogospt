@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-25T17:51:43+00:00",
+  "atualizado_em": "2025-10-25T18:24:38+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 4,
   "incendios": [
     {
       "id": "20251404168",
@@ -21,6 +21,23 @@
       "kml_file": null
     },
     {
+      "id": "20251432127",
+      "data_inicio": "25-10-2025 14:41",
+      "concelho": "Covilhã",
+      "freguesia": "Ferro",
+      "distrito": "Castelo Branco",
+      "status": "Conclusão",
+      "latitude": 40.213958,
+      "longitude": -7.473198,
+      "operacionais": 7,
+      "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
       "id": "20251432597",
       "data_inicio": "25-10-2025 16:50",
       "concelho": "Évora",
@@ -29,8 +46,25 @@
       "status": "Conclusão",
       "latitude": 38.54983,
       "longitude": -7.74527,
-      "operacionais": 15,
-      "terrestres": 5,
+      "operacionais": 7,
+      "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251432844",
+      "data_inicio": "25-10-2025 18:01",
+      "concelho": "Beja",
+      "freguesia": "Beja (salvador E Santa Maria Da Feira)",
+      "distrito": "Beja",
+      "status": "Chegada ao TO",
+      "latitude": 38.015879,
+      "longitude": -7.85522,
+      "operacionais": 10,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
