@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-25T17:30:24+00:00",
+  "atualizado_em": "2025-10-25T17:41:04+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -26,7 +26,7 @@
       "concelho": "Évora",
       "freguesia": "Nossa Senhora De Machede",
       "distrito": "Évora",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 38.54983,
       "longitude": -7.74527,
       "operacionais": 15,
