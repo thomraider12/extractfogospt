@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-25T19:13:40+00:00",
+  "atualizado_em": "2025-10-25T19:25:34+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 4,
   "incendios": [
     {
       "id": "20251404168",
@@ -48,6 +48,23 @@
       "longitude": -7.860548,
       "operacionais": 4,
       "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251433072",
+      "data_inicio": "25-10-2025 19:12",
+      "concelho": "Cartaxo",
+      "freguesia": "Cartaxo E Vale Da Pinta",
+      "distrito": "Santarém",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 39.166481,
+      "longitude": -8.794948,
+      "operacionais": 8,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
