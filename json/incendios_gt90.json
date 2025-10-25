@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-25T14:51:05+00:00",
+  "atualizado_em": "2025-10-25T15:17:02+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -26,9 +26,9 @@
       "concelho": "Elvas",
       "freguesia": "Caia, São Pedro E Alcáçova",
       "distrito": "Portalegre",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 38.895664,
-      "longitude": -7.132583,
+      "status": "Conclusão",
+      "latitude": 38.898402,
+      "longitude": -7.129812,
       "operacionais": 4,
       "terrestres": 2,
       "aereos": 0,
