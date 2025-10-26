@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-26T14:51:09+00:00",
+  "atualizado_em": "2025-10-26T15:17:14+00:00",
   "criterio": "> 1 operacionais",
-  "total": 5,
+  "total": 4,
   "incendios": [
     {
       "id": "20251404168",
@@ -38,29 +38,12 @@
       "kml_file": null
     },
     {
-      "id": "20251435948",
-      "data_inicio": "26-10-2025 13:56",
-      "concelho": "Palmela",
-      "freguesia": "Pinhal Novo",
-      "distrito": "Setúbal",
-      "status": "Conclusão",
-      "latitude": 38.63621,
-      "longitude": -8.895747,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251436036",
       "data_inicio": "26-10-2025 14:12",
       "concelho": "Alter Do Chão",
       "freguesia": "Alter Do Chão",
       "distrito": "Portalegre",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 39.194778,
       "longitude": -7.662908,
       "operacionais": 4,
@@ -80,9 +63,9 @@
       "status": "Conclusão",
       "latitude": 37.13089,
       "longitude": -8.162844,
-      "operacionais": 14,
+      "operacionais": 8,
       "terrestres": 3,
-      "aereos": 1,
+      "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
