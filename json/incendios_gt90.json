@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-10-26T23:16:52+00:00",
+  "atualizado_em": "2025-10-26T23:37:55+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251404168",
-      "data_inicio": "19-10-2025 15:50",
-      "concelho": "Leiria",
-      "freguesia": "Caranguejeira",
-      "distrito": "Leiria",
-      "status": "Vigilância",
-      "latitude": 39.726483,
-      "longitude": -8.697637,
-      "operacionais": 2,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
