@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-27T21:16:45+00:00",
+  "atualizado_em": "2025-10-27T21:38:00+00:00",
   "criterio": "> 1 operacionais",
   "total": 6,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Odemira",
       "freguesia": "Sabóia",
       "distrito": "Beja",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 37.478268,
       "longitude": -8.558232,
       "operacionais": 23,
@@ -60,7 +60,7 @@
       "concelho": "Caldas Da Rainha",
       "freguesia": "Santa Catarina",
       "distrito": "Leiria",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 39.432937,
       "longitude": -9.006203,
       "operacionais": 13,
@@ -94,7 +94,7 @@
       "concelho": "Setúbal",
       "freguesia": "Setúbal (São Sebastião)",
       "distrito": "Setúbal",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 38.53156,
       "longitude": -8.88085,
       "operacionais": 9,
