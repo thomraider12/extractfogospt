@@ -1,25 +1,8 @@
 {
-  "atualizado_em": "2025-10-28T14:20:07+00:00",
+  "atualizado_em": "2025-10-28T14:45:31+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 2,
   "incendios": [
-    {
-      "id": "20251444802",
-      "data_inicio": "28-10-2025 12:12",
-      "concelho": "Chaves",
-      "freguesia": "Bustelo",
-      "distrito": "Vila Real",
-      "status": "Conclusão",
-      "latitude": 41.780477,
-      "longitude": -7.496435,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
     {
       "id": "20251444867",
       "data_inicio": "28-10-2025 12:39",
@@ -29,8 +12,8 @@
       "status": "Conclusão",
       "latitude": 38.649897,
       "longitude": -8.590792,
-      "operacionais": 7,
-      "terrestres": 2,
+      "operacionais": 4,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
