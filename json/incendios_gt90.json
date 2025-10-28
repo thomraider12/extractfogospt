@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-28T17:52:34+00:00",
+  "atualizado_em": "2025-10-28T18:29:49+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 3,
   "incendios": [
     {
       "id": "20251446646",
@@ -9,7 +9,7 @@
       "concelho": "Santa Maria Da Feira",
       "freguesia": "Sanguedo",
       "distrito": "Aveiro",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 41.006765,
       "longitude": -8.511128,
       "operacionais": 4,
@@ -31,6 +31,23 @@
       "longitude": -7.7951,
       "operacionais": 4,
       "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251446928",
+      "data_inicio": "28-10-2025 18:16",
+      "concelho": "Vidigueira",
+      "freguesia": "Vila De Frades",
+      "distrito": "Beja",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.20667,
+      "longitude": -7.838333,
+      "operacionais": 5,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
