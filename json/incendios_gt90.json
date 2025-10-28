@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-28T10:21:24+00:00",
+  "atualizado_em": "2025-10-28T10:45:28+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 3,
   "incendios": [
     {
       "id": "20251443403",
@@ -31,6 +31,23 @@
       "longitude": -7.989097,
       "operacionais": 5,
       "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251444220",
+      "data_inicio": "28-10-2025 10:24",
+      "concelho": "Évora",
+      "freguesia": "Bacelo E Senhora Da Saúde",
+      "distrito": "Évora",
+      "status": "Em Curso",
+      "latitude": 38.579258,
+      "longitude": -7.903237,
+      "operacionais": 7,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
