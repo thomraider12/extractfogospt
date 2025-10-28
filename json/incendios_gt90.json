@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-28T01:23:46+00:00",
+  "atualizado_em": "2025-10-28T02:52:18+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20251441704",
@@ -12,8 +12,25 @@
       "status": "Conclusão",
       "latitude": 37.478268,
       "longitude": -8.558232,
-      "operacionais": 17,
-      "terrestres": 6,
+      "operacionais": 13,
+      "terrestres": 5,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251443033",
+      "data_inicio": "28-10-2025 02:30",
+      "concelho": "Cartaxo",
+      "freguesia": "Valada",
+      "distrito": "Santarém",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 39.081983,
+      "longitude": -8.764108,
+      "operacionais": 9,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
