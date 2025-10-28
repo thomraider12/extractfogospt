@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-28T13:19:29+00:00",
+  "atualizado_em": "2025-10-28T13:47:22+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Chaves",
       "freguesia": "Bustelo",
       "distrito": "Vila Real",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.780477,
       "longitude": -7.496435,
       "operacionais": 3,
@@ -26,9 +26,9 @@
       "concelho": "Vendas Novas",
       "freguesia": "Vendas Novas",
       "distrito": "Évora",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 38.649511,
-      "longitude": -8.592578,
+      "status": "Conclusão",
+      "latitude": 38.649897,
+      "longitude": -8.590792,
       "operacionais": 11,
       "terrestres": 3,
       "aereos": 0,
