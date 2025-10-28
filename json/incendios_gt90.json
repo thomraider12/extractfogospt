@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-28T13:47:22+00:00",
+  "atualizado_em": "2025-10-28T14:20:07+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 3,
   "incendios": [
     {
       "id": "20251444802",
@@ -29,8 +29,25 @@
       "status": "Conclusão",
       "latitude": 38.649897,
       "longitude": -8.590792,
-      "operacionais": 11,
-      "terrestres": 3,
+      "operacionais": 7,
+      "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251445229",
+      "data_inicio": "28-10-2025 13:52",
+      "concelho": "Sabugal",
+      "freguesia": "Alfaiates",
+      "distrito": "Guarda",
+      "status": "Conclusão",
+      "latitude": 40.391552,
+      "longitude": -6.91508,
+      "operacionais": 15,
+      "terrestres": 5,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
