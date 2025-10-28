@@ -1,41 +1,6 @@
 {
-  "atualizado_em": "2025-10-28T19:15:43+00:00",
+  "atualizado_em": "2025-10-28T19:37:25+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
-  "incendios": [
-    {
-      "id": "20251446411",
-      "data_inicio": "28-10-2025 17:00",
-      "concelho": "Castro Daire",
-      "freguesia": "Almofala",
-      "distrito": "Viseu",
-      "status": "Conclusão",
-      "latitude": 40.95631,
-      "longitude": -7.7951,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251446928",
-      "data_inicio": "28-10-2025 18:16",
-      "concelho": "Vidigueira",
-      "freguesia": "Vila De Frades",
-      "distrito": "Beja",
-      "status": "Conclusão",
-      "latitude": 38.20667,
-      "longitude": -7.838333,
-      "operacionais": 5,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
