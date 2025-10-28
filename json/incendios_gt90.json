@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-10-28T07:18:46+00:00",
+  "atualizado_em": "2025-10-28T07:39:56+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251443269",
-      "data_inicio": "28-10-2025 06:46",
-      "concelho": "Mafra",
-      "freguesia": "Ericeira",
-      "distrito": "Lisboa",
-      "status": "Conclusão",
-      "latitude": 38.967626,
-      "longitude": -9.417289,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
