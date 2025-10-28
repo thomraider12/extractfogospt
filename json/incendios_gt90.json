@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-28T09:21:05+00:00",
+  "atualizado_em": "2025-10-28T09:42:01+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 2,
   "incendios": [
     {
       "id": "20251443403",
@@ -21,46 +21,12 @@
       "kml_file": null
     },
     {
-      "id": "20251443562",
-      "data_inicio": "28-10-2025 08:27",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Pedroso E Seixezelo",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.0748,
-      "longitude": -8.53779,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251443654",
-      "data_inicio": "28-10-2025 08:42",
-      "concelho": "Almada",
-      "freguesia": "Caparica E Trafaria",
-      "distrito": "Setúbal",
-      "status": "Conclusão",
-      "latitude": 38.665376,
-      "longitude": -9.198172,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251443671",
       "data_inicio": "28-10-2025 08:51",
       "concelho": "Sintra",
       "freguesia": "Colares",
       "distrito": "Lisboa",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 38.807058,
       "longitude": -9.438572,
       "operacionais": 4,
