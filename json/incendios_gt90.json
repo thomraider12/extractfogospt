@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-28T18:53:36+00:00",
+  "atualizado_em": "2025-10-28T19:15:43+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -26,11 +26,11 @@
       "concelho": "Vidigueira",
       "freguesia": "Vila De Frades",
       "distrito": "Beja",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 38.20667,
       "longitude": -7.838333,
-      "operacionais": 8,
-      "terrestres": 3,
+      "operacionais": 5,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
