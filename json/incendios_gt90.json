@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-27T23:50:45+00:00",
+  "atualizado_em": "2025-10-28T01:23:46+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 1,
   "incendios": [
     {
       "id": "20251441704",
@@ -12,25 +12,8 @@
       "status": "Conclusão",
       "latitude": 37.478268,
       "longitude": -8.558232,
-      "operacionais": 23,
-      "terrestres": 9,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251442321",
-      "data_inicio": "27-10-2025 20:11",
-      "concelho": "Caldas Da Rainha",
-      "freguesia": "Santa Catarina",
-      "distrito": "Leiria",
-      "status": "Conclusão",
-      "latitude": 39.432937,
-      "longitude": -9.006203,
-      "operacionais": 9,
-      "terrestres": 3,
+      "operacionais": 17,
+      "terrestres": 6,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
