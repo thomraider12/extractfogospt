@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-28T17:41:51+00:00",
+  "atualizado_em": "2025-10-28T17:52:34+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20251446646",
@@ -12,6 +12,23 @@
       "status": "Despacho de 1º Alerta",
       "latitude": 41.006765,
       "longitude": -8.511128,
+      "operacionais": 4,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251446411",
+      "data_inicio": "28-10-2025 17:00",
+      "concelho": "Castro Daire",
+      "freguesia": "Almofala",
+      "distrito": "Viseu",
+      "status": "Em Curso",
+      "latitude": 40.95631,
+      "longitude": -7.7951,
       "operacionais": 4,
       "terrestres": 1,
       "aereos": 0,
