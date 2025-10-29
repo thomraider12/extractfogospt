@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-29T15:21:55+00:00",
+  "atualizado_em": "2025-10-29T15:44:17+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Lagos",
       "freguesia": "Lagos (São Sebastião E Santa Maria)",
       "distrito": "Faro",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 37.126615,
       "longitude": -8.668708,
       "operacionais": 10,
