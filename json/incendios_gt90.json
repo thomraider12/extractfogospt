@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-10-29T18:29:07+00:00",
+  "atualizado_em": "2025-10-29T18:51:23+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251452045",
-      "data_inicio": "29-10-2025 18:19",
-      "concelho": "Torres Vedras",
-      "freguesia": "S.Pedro E Santiago, S.Maria E S.Miguel E Matacães",
-      "distrito": "Lisboa",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 39.104657,
-      "longitude": -9.229035,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
