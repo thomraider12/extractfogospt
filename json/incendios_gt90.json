@@ -1,41 +1,6 @@
 {
-  "atualizado_em": "2025-10-29T12:41:23+00:00",
+  "atualizado_em": "2025-10-29T13:22:34+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
-  "incendios": [
-    {
-      "id": "20251450185",
-      "data_inicio": "29-10-2025 11:50",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Madalena",
-      "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.101651,
-      "longitude": -8.654518,
-      "operacionais": 2,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251450235",
-      "data_inicio": "29-10-2025 12:00",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Mafamude E Vilar Do Paraíso",
-      "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.126193,
-      "longitude": -8.601126,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
