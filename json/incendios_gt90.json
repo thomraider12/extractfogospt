@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-10-30T16:57:32+00:00",
+  "atualizado_em": "2025-10-30T17:25:45+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251455675",
-      "data_inicio": "30-10-2025 14:38",
-      "concelho": "Benavente",
-      "freguesia": "Santo Estêvão",
-      "distrito": "Santarém",
-      "status": "Chegada ao TO",
-      "latitude": 38.873642,
-      "longitude": -8.715142,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
