@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-10-30T01:53:15+00:00",
+  "atualizado_em": "2025-10-30T03:14:20+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251453137",
-      "data_inicio": "30-10-2025 01:25",
-      "concelho": "Oeiras",
-      "freguesia": "Algés, Linda-a-velha E Cruz Quebrada-dafundo",
-      "distrito": "Lisboa",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 38.696612,
-      "longitude": -9.22967,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
