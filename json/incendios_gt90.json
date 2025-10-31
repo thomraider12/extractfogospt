@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-31T16:29:27+00:00",
+  "atualizado_em": "2025-10-31T16:56:29+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 2,
   "incendios": [
     {
       "id": "20251459210",
@@ -31,23 +31,6 @@
       "longitude": -7.777838,
       "operacionais": 5,
       "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251460565",
-      "data_inicio": "31-10-2025 15:37",
-      "concelho": "Borba",
-      "freguesia": "Orada",
-      "distrito": "Évora",
-      "status": "Conclusão",
-      "latitude": 38.8553,
-      "longitude": -7.467737,
-      "operacionais": 9,
-      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
