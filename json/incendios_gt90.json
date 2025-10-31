@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-31T14:53:26+00:00",
+  "atualizado_em": "2025-10-31T15:22:58+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20251459210",
@@ -12,7 +12,24 @@
       "status": "Vigilância",
       "latitude": 37.731968,
       "longitude": -8.422612,
-      "operacionais": 13,
+      "operacionais": 5,
+      "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251460305",
+      "data_inicio": "31-10-2025 14:52",
+      "concelho": "Vidigueira",
+      "freguesia": "Vidigueira",
+      "distrito": "Beja",
+      "status": "Em Curso",
+      "latitude": 38.21417,
+      "longitude": -7.777838,
+      "operacionais": 14,
       "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
