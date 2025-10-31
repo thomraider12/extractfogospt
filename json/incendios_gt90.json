@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-10-31T18:33:25+00:00",
+  "atualizado_em": "2025-10-31T18:56:17+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20251461268",
@@ -14,6 +14,23 @@
       "longitude": -7.690327,
       "operacionais": 5,
       "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251461453",
+      "data_inicio": "31-10-2025 18:40",
+      "concelho": "Alandroal",
+      "freguesia": "N.S. Conceição, S. Brás Matos, Juromenha",
+      "distrito": "Évora",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.70022,
+      "longitude": -7.28509,
+      "operacionais": 8,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
