@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-10-31T11:19:11+00:00",
+  "atualizado_em": "2025-10-31T11:52:54+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,11 +9,11 @@
       "concelho": "Ourique",
       "freguesia": "Garvão E Santa Luzia",
       "distrito": "Beja",
-      "status": "Despacho de 1º Alerta",
+      "status": "Em Curso",
       "latitude": 37.717992,
       "longitude": -8.369658,
-      "operacionais": 2,
-      "terrestres": 1,
+      "operacionais": 15,
+      "terrestres": 5,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
