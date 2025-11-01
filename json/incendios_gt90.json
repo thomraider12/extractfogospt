@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-01T12:42:01+00:00",
+  "atualizado_em": "2025-11-01T13:12:39+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251463836",
-      "data_inicio": "01-11-2025 09:28",
-      "concelho": "Alandroal",
-      "freguesia": "Capelins (Santo António)",
-      "distrito": "Évora",
-      "status": "Conclusão",
-      "latitude": 38.526108,
-      "longitude": -7.381637,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
