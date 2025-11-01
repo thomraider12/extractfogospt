@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-01T14:52:36+00:00",
+  "atualizado_em": "2025-11-01T15:19:48+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251465162",
-      "data_inicio": "01-11-2025 14:09",
-      "concelho": "Lagos",
-      "freguesia": "Odiáxere",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.150953,
-      "longitude": -8.666629,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
