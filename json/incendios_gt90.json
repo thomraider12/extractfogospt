@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-11-02T16:52:11+00:00",
+  "atualizado_em": "2025-11-02T17:18:19+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 3,
   "incendios": [
     {
       "id": "20251469306",
@@ -31,6 +31,23 @@
       "longitude": -8.449309,
       "operacionais": 10,
       "terrestres": 4,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251469923",
+      "data_inicio": "02-11-2025 16:48",
+      "concelho": "Sobral De Monte Agraço",
+      "freguesia": "Sapataria",
+      "distrito": "Lisboa",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.966232,
+      "longitude": -9.198053,
+      "operacionais": 5,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
