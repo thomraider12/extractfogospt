@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-02T16:25:18+00:00",
+  "atualizado_em": "2025-11-02T16:52:11+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Serpa",
       "freguesia": "Vila Nova De São Bento E Vale De Vargo",
       "distrito": "Beja",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 37.845442,
       "longitude": -7.379525,
       "operacionais": 8,
@@ -29,8 +29,8 @@
       "status": "Conclusão",
       "latitude": 37.134614,
       "longitude": -8.449309,
-      "operacionais": 9,
-      "terrestres": 3,
+      "operacionais": 10,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
