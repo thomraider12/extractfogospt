@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-03T16:56:17+00:00",
+  "atualizado_em": "2025-11-03T17:22:36+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Torres Novas",
       "freguesia": "Torres Novas (santa Maria, Salvador E Santiago)",
       "distrito": "Santarém",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 39.468673,
       "longitude": -8.575582,
       "operacionais": 8,
@@ -29,8 +29,8 @@
       "status": "Conclusão",
       "latitude": 37.752583,
       "longitude": -8.002648,
-      "operacionais": 10,
-      "terrestres": 7,
+      "operacionais": 3,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
