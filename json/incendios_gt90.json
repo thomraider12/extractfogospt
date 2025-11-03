@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-03T13:53:31+00:00",
+  "atualizado_em": "2025-11-03T14:23:37+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -9,11 +9,11 @@
       "concelho": "Santiago Do Cacém",
       "freguesia": "São Domingos E Vale De Água",
       "distrito": "Setúbal",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 37.821159,
       "longitude": -8.56421,
-      "operacionais": 8,
-      "terrestres": 3,
+      "operacionais": 10,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
