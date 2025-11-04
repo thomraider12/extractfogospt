@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2025-11-04T08:58:45+00:00",
+  "atualizado_em": "2025-11-04T09:31:52+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20251476852",
+      "data_inicio": "04-11-2025 09:22",
+      "concelho": "Salvaterra De Magos",
+      "freguesia": "Salvaterra De Magos E Foros De Salvaterra",
+      "distrito": "Santarém",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 39.006483,
+      "longitude": -8.73342,
+      "operacionais": 9,
+      "terrestres": 4,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
