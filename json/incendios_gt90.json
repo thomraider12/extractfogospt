@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-04T09:53:40+00:00",
+  "atualizado_em": "2025-11-04T10:27:54+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251476909",
-      "data_inicio": "04-11-2025 09:24",
-      "concelho": "Palmela",
-      "freguesia": "Palmela",
-      "distrito": "Setúbal",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 38.568658,
-      "longitude": -8.894979,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
