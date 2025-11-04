@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-11-04T13:55:51+00:00",
+  "atualizado_em": "2025-11-04T14:25:10+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 3,
   "incendios": [
     {
       "id": "20251477401",
@@ -38,33 +38,16 @@
       "kml_file": null
     },
     {
-      "id": "20251477882",
-      "data_inicio": "04-11-2025 12:25",
-      "concelho": "Mora",
-      "freguesia": "Pavia",
-      "distrito": "Évora",
-      "status": "Conclusão",
-      "latitude": 38.879832,
-      "longitude": -7.962658,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
       "id": "20251478210",
       "data_inicio": "04-11-2025 13:36",
       "concelho": "Sines",
       "freguesia": "Porto Covo",
       "distrito": "Setúbal",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 37.8559,
-      "longitude": -8.784976,
-      "operacionais": 5,
-      "terrestres": 1,
+      "status": "Chegada ao TO",
+      "latitude": 37.854615,
+      "longitude": -8.785338,
+      "operacionais": 10,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
