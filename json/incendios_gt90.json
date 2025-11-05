@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-05T05:23:50+00:00",
+  "atualizado_em": "2025-11-05T05:52:11+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251480944",
-      "data_inicio": "05-11-2025 03:00",
-      "concelho": "Alcácer Do Sal",
-      "freguesia": "Comporta",
-      "distrito": "Setúbal",
-      "status": "Conclusão",
-      "latitude": 38.373623,
-      "longitude": -8.785312,
-      "operacionais": 5,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
