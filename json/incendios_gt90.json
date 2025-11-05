@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-05T08:58:43+00:00",
+  "atualizado_em": "2025-11-05T09:31:45+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251481437",
-      "data_inicio": "05-11-2025 07:41",
-      "concelho": "Albufeira",
-      "freguesia": "Guia",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.126129,
-      "longitude": -8.311055,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
