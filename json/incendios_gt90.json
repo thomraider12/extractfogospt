@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-05T04:00:31+00:00",
+  "atualizado_em": "2025-11-05T04:33:39+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,9 +9,9 @@
       "concelho": "Alcácer Do Sal",
       "freguesia": "Comporta",
       "distrito": "Setúbal",
-      "status": "Chegada ao TO",
-      "latitude": 38.381947,
-      "longitude": -8.785435,
+      "status": "Em Resolução",
+      "latitude": 38.373623,
+      "longitude": -8.785312,
       "operacionais": 5,
       "terrestres": 2,
       "aereos": 0,
