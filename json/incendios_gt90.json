@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-06T15:28:23+00:00",
+  "atualizado_em": "2025-11-06T15:54:18+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -10,11 +10,11 @@
       "freguesia": "Moncarapacho E Fuseta",
       "distrito": "Faro",
       "status": "Em Resolução",
-      "latitude": 37.09384,
-      "longitude": -7.77798,
-      "operacionais": 24,
-      "terrestres": 6,
-      "aereos": 1,
+      "latitude": 37.092247,
+      "longitude": -7.777692,
+      "operacionais": 19,
+      "terrestres": 7,
+      "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
