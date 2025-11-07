@@ -1,25 +1,8 @@
 {
-  "atualizado_em": "2025-11-07T14:52:56+00:00",
+  "atualizado_em": "2025-11-07T15:24:07+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 1,
   "incendios": [
-    {
-      "id": "20251492644",
-      "data_inicio": "07-11-2025 11:06",
-      "concelho": "Cuba",
-      "freguesia": "Faro Do Alentejo",
-      "distrito": "Beja",
-      "status": "Conclusão",
-      "latitude": 38.150648,
-      "longitude": -7.930703,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
     {
       "id": "20251493739",
       "data_inicio": "07-11-2025 14:02",
