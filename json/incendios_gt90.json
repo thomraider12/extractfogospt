@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-07T10:25:47+00:00",
+  "atualizado_em": "2025-11-07T10:53:04+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251492116",
-      "data_inicio": "07-11-2025 09:46",
-      "concelho": "Seixal",
-      "freguesia": "Amora",
-      "distrito": "Setúbal",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 38.62135,
-      "longitude": -9.110682,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
