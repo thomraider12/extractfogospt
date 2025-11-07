@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-07T17:52:44+00:00",
+  "atualizado_em": "2025-11-07T18:32:28+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251494310",
-      "data_inicio": "07-11-2025 16:08",
-      "concelho": "Ferreira Do Alentejo",
-      "freguesia": "Ferreira Do Alentejo E Canhestros",
-      "distrito": "Beja",
-      "status": "Conclusão",
-      "latitude": 38.00717,
-      "longitude": -8.208433,
-      "operacionais": 5,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
