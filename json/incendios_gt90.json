@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-11-07T14:22:55+00:00",
+  "atualizado_em": "2025-11-07T14:52:56+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20251492644",
@@ -13,6 +13,23 @@
       "latitude": 38.150648,
       "longitude": -7.930703,
       "operacionais": 4,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251493739",
+      "data_inicio": "07-11-2025 14:02",
+      "concelho": "Oliveira De Azeméis",
+      "freguesia": "Pinheiro Da Bemposta, Travanca E Palmaz",
+      "distrito": "Aveiro",
+      "status": "Conclusão",
+      "latitude": 40.783532,
+      "longitude": -8.484977,
+      "operacionais": 5,
       "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
