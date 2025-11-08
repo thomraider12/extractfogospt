@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-08T22:52:44+00:00",
+  "atualizado_em": "2025-11-08T23:19:49+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Lagoa",
       "freguesia": "Lagoa E Carvoeiro",
       "distrito": "Faro",
-      "status": "Chegada ao TO",
+      "status": "Conclusão",
       "latitude": 37.102176,
       "longitude": -8.449174,
       "operacionais": 5,
