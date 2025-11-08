@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-08T23:19:49+00:00",
+  "atualizado_em": "2025-11-08T23:52:33+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251500267",
-      "data_inicio": "08-11-2025 22:34",
-      "concelho": "Lagoa",
-      "freguesia": "Lagoa E Carvoeiro",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.102176,
-      "longitude": -8.449174,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
