@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-08T14:52:45+00:00",
+  "atualizado_em": "2025-11-08T15:20:38+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251498136",
-      "data_inicio": "08-11-2025 13:11",
-      "concelho": "Torre De Moncorvo",
-      "freguesia": "Mós",
-      "distrito": "Bragança",
-      "status": "Conclusão",
-      "latitude": 41.137326,
-      "longitude": -6.91291,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
