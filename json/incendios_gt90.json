@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2025-11-10T12:50:37+00:00",
+  "atualizado_em": "2025-11-10T13:34:09+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20251506856",
+      "data_inicio": "10-11-2025 13:05",
+      "concelho": "Almodôvar",
+      "freguesia": "São Barnabé",
+      "distrito": "Beja",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 37.37083,
+      "longitude": -8.080277,
+      "operacionais": 8,
+      "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
