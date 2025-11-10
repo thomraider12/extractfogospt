@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-10T19:52:48+00:00",
+  "atualizado_em": "2025-11-10T20:27:38+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251508648",
-      "data_inicio": "10-11-2025 18:47",
-      "concelho": "Oliveira De Azeméis",
-      "freguesia": "Nogueira Do Cravo E Pindelo",
-      "distrito": "Aveiro",
-      "status": "Conclusão",
-      "latitude": 40.87669,
-      "longitude": -8.444791,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
