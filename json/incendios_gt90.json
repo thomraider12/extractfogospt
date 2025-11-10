@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-10T13:34:09+00:00",
+  "atualizado_em": "2025-11-10T13:55:12+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Almodôvar",
       "freguesia": "São Barnabé",
       "distrito": "Beja",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 37.37083,
       "longitude": -8.080277,
       "operacionais": 8,
