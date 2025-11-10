@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-10T13:55:12+00:00",
+  "atualizado_em": "2025-11-10T14:24:17+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -10,8 +10,8 @@
       "freguesia": "São Barnabé",
       "distrito": "Beja",
       "status": "Conclusão",
-      "latitude": 37.37083,
-      "longitude": -8.080277,
+      "latitude": 37.338915,
+      "longitude": -8.07864,
       "operacionais": 8,
       "terrestres": 2,
       "aereos": 0,
