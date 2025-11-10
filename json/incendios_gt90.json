@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-11-10T15:26:30+00:00",
+  "atualizado_em": "2025-11-10T15:53:11+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 1,
   "incendios": [
     {
       "id": "20251506856",
@@ -13,23 +13,6 @@
       "latitude": 37.338915,
       "longitude": -8.07864,
       "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251507460",
-      "data_inicio": "10-11-2025 14:57",
-      "concelho": "Palmela",
-      "freguesia": "Poceirão E Marateca",
-      "distrito": "Setúbal",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 38.629608,
-      "longitude": -8.741193,
-      "operacionais": 3,
       "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
