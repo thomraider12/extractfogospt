@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-11-10T15:53:11+00:00",
+  "atualizado_em": "2025-11-10T16:31:48+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20251506856",
@@ -14,6 +14,23 @@
       "longitude": -8.07864,
       "operacionais": 4,
       "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251507853",
+      "data_inicio": "10-11-2025 16:12",
+      "concelho": "Vidigueira",
+      "freguesia": "Pedrógão",
+      "distrito": "Beja",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.17877,
+      "longitude": -7.587777,
+      "operacionais": 19,
+      "terrestres": 5,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
