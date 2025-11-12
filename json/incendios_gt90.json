@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-12T09:31:02+00:00",
+  "atualizado_em": "2025-11-12T09:52:46+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Oliveira De Azeméis",
       "freguesia": "Nogueira Do Cravo E Pindelo",
       "distrito": "Aveiro",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 40.87939,
       "longitude": -8.447715,
       "operacionais": 3,
