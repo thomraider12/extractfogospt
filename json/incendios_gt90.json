@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-12T19:21:01+00:00",
+  "atualizado_em": "2025-11-12T19:52:52+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251518320",
-      "data_inicio": "12-11-2025 18:57",
-      "concelho": "Macedo De Cavaleiros",
-      "freguesia": "Bornes E Burga",
-      "distrito": "Bragança",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.45554,
-      "longitude": -7.010063,
-      "operacionais": 4,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
