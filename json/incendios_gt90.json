@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-11-12T14:55:10+00:00",
+  "atualizado_em": "2025-11-12T15:27:03+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 1,
   "incendios": [
     {
       "id": "20251516795",
@@ -14,23 +14,6 @@
       "longitude": -6.923928,
       "operacionais": 8,
       "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251516919",
-      "data_inicio": "12-11-2025 13:53",
-      "concelho": "Elvas",
-      "freguesia": "Caia, São Pedro E Alcáçova",
-      "distrito": "Portalegre",
-      "status": "Em Resolução",
-      "latitude": 38.907867,
-      "longitude": -7.095268,
-      "operacionais": 5,
-      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
