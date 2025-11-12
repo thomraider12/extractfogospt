@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-12T10:26:50+00:00",
+  "atualizado_em": "2025-11-12T10:54:36+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251515722",
-      "data_inicio": "12-11-2025 10:12",
-      "concelho": "Santiago Do Cacém",
-      "freguesia": "Santo André",
-      "distrito": "Setúbal",
-      "status": "Em Curso",
-      "latitude": 38.054211,
-      "longitude": -8.751748,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
