@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-14T19:21:29+00:00",
+  "atualizado_em": "2025-11-14T19:52:12+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,9 +9,9 @@
       "concelho": "Beja",
       "freguesia": "Santa Clara De Louredo",
       "distrito": "Beja",
-      "status": "Em Resolução",
-      "latitude": 37.9569,
-      "longitude": -7.87852,
+      "status": "Conclusão",
+      "latitude": 37.960487,
+      "longitude": -7.878172,
       "operacionais": 6,
       "terrestres": 2,
       "aereos": 0,
