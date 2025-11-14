@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-14T20:52:28+00:00",
+  "atualizado_em": "2025-11-14T21:21:31+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251530353",
-      "data_inicio": "14-11-2025 18:43",
-      "concelho": "Beja",
-      "freguesia": "Santa Clara De Louredo",
-      "distrito": "Beja",
-      "status": "Conclusão",
-      "latitude": 37.960487,
-      "longitude": -7.878172,
-      "operacionais": 6,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
