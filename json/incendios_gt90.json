@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-15T17:17:41+00:00",
+  "atualizado_em": "2025-11-15T17:52:24+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251535427",
-      "data_inicio": "15-11-2025 16:36",
-      "concelho": "Vila Real De Santo António",
-      "freguesia": "Vila Nova De Cacela",
-      "distrito": "Faro",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 37.18995,
-      "longitude": -7.52663,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
