@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-16T16:26:31+00:00",
+  "atualizado_em": "2025-11-16T16:52:29+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251539485",
-      "data_inicio": "16-11-2025 14:16",
-      "concelho": "Mértola",
-      "freguesia": "Mértola",
-      "distrito": "Beja",
-      "status": "Conclusão",
-      "latitude": 37.756408,
-      "longitude": -7.70675,
-      "operacionais": 8,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
