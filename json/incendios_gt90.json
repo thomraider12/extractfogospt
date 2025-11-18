@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-18T17:28:22+00:00",
+  "atualizado_em": "2025-11-18T17:52:38+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251550183",
-      "data_inicio": "18-11-2025 16:48",
-      "concelho": "Sesimbra",
-      "freguesia": "Sesimbra (castelo)",
-      "distrito": "Setúbal",
-      "status": "Conclusão",
-      "latitude": 38.452682,
-      "longitude": -9.106828,
-      "operacionais": 9,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
