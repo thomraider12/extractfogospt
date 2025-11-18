@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-18T20:28:17+00:00",
+  "atualizado_em": "2025-11-18T21:52:38+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251551059",
-      "data_inicio": "18-11-2025 20:11",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Valadares",
-      "distrito": "Porto",
-      "status": "Em Resolução",
-      "latitude": 41.092462,
-      "longitude": -8.638444,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
