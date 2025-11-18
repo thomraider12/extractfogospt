@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-18T16:59:19+00:00",
+  "atualizado_em": "2025-11-18T17:28:22+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,11 +9,11 @@
       "concelho": "Sesimbra",
       "freguesia": "Sesimbra (castelo)",
       "distrito": "Setúbal",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 38.452682,
       "longitude": -9.106828,
-      "operacionais": 4,
-      "terrestres": 1,
+      "operacionais": 9,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
