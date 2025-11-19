@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2025-11-19T17:26:01+00:00",
+  "atualizado_em": "2025-11-19T17:52:47+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20251555308",
+      "data_inicio": "19-11-2025 17:27",
+      "concelho": "Vila Franca De Xira",
+      "freguesia": "Póvoa De Santa Iria E Forte Da Casa",
+      "distrito": "Lisboa",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.86006,
+      "longitude": -9.080109,
+      "operacionais": 4,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
