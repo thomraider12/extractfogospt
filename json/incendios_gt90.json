@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2025-11-20T15:53:05+00:00",
+  "atualizado_em": "2025-11-20T16:31:08+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20251559798",
+      "data_inicio": "20-11-2025 16:11",
+      "concelho": "Cuba",
+      "freguesia": "Cuba",
+      "distrito": "Beja",
+      "status": "Em Curso",
+      "latitude": 38.169124,
+      "longitude": -7.896864,
+      "operacionais": 8,
+      "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
