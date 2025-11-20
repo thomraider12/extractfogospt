@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-20T16:31:08+00:00",
+  "atualizado_em": "2025-11-20T16:59:02+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -10,8 +10,8 @@
       "freguesia": "Cuba",
       "distrito": "Beja",
       "status": "Em Curso",
-      "latitude": 38.169124,
-      "longitude": -7.896864,
+      "latitude": 38.168058,
+      "longitude": -7.898365,
       "operacionais": 8,
       "terrestres": 3,
       "aereos": 0,
