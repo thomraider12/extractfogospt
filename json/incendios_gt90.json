@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-21T19:19:48+00:00",
+  "atualizado_em": "2025-11-21T19:52:41+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251565138",
-      "data_inicio": "21-11-2025 18:10",
-      "concelho": "Aljustrel",
-      "freguesia": "São João De Negrilhos",
-      "distrito": "Beja",
-      "status": "Chegada ao TO",
-      "latitude": 37.96678,
-      "longitude": -8.252401,
-      "operacionais": 12,
-      "terrestres": 4,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
