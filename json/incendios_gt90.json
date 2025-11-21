@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-21T20:26:47+00:00",
+  "atualizado_em": "2025-11-21T20:52:42+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,9 +9,9 @@
       "concelho": "Beja",
       "freguesia": "Trigaches E São Brissos",
       "distrito": "Beja",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 38.0909,
-      "longitude": -7.978828,
+      "status": "Conclusão",
+      "latitude": 38.090885,
+      "longitude": -7.977667,
       "operacionais": 9,
       "terrestres": 3,
       "aereos": 0,
