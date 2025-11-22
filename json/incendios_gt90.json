@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2025-11-22T04:28:04+00:00",
+  "atualizado_em": "2025-11-22T04:52:31+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20251566632",
+      "data_inicio": "22-11-2025 04:30",
+      "concelho": "Amadora",
+      "freguesia": "Águas Livres",
+      "distrito": "Lisboa",
+      "status": "Chegada ao TO",
+      "latitude": 38.745534,
+      "longitude": -9.219508,
+      "operacionais": 6,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
