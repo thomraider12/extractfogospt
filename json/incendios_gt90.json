@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2025-11-22T11:17:12+00:00",
+  "atualizado_em": "2025-11-22T11:52:34+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20251567795",
+      "data_inicio": "22-11-2025 11:06",
+      "concelho": "Redondo",
+      "freguesia": "Redondo",
+      "distrito": "Évora",
+      "status": "Conclusão",
+      "latitude": 38.640857,
+      "longitude": -7.60023,
+      "operacionais": 7,
+      "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
