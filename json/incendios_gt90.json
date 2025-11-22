@@ -1,41 +1,6 @@
 {
-  "atualizado_em": "2025-11-22T15:52:47+00:00",
+  "atualizado_em": "2025-11-22T16:27:08+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
-  "incendios": [
-    {
-      "id": "20251568454",
-      "data_inicio": "22-11-2025 13:46",
-      "concelho": "Santarém",
-      "freguesia": "Casével E Vaqueiros",
-      "distrito": "Santarém",
-      "status": "Conclusão",
-      "latitude": 39.393665,
-      "longitude": -8.56685,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251568641",
-      "data_inicio": "22-11-2025 14:26",
-      "concelho": "Vimioso",
-      "freguesia": "Caçarelhos E Angueira",
-      "distrito": "Bragança",
-      "status": "Em Resolução",
-      "latitude": 41.55831,
-      "longitude": -6.43305,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
