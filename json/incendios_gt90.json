@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-22T15:21:10+00:00",
+  "atualizado_em": "2025-11-22T15:52:47+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -26,7 +26,7 @@
       "concelho": "Vimioso",
       "freguesia": "Caçarelhos E Angueira",
       "distrito": "Bragança",
-      "status": "Despacho de 1º Alerta",
+      "status": "Em Resolução",
       "latitude": 41.55831,
       "longitude": -6.43305,
       "operacionais": 7,
