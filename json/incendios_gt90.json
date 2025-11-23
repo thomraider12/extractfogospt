@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-23T18:31:34+00:00",
+  "atualizado_em": "2025-11-23T18:54:45+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,11 +9,11 @@
       "concelho": "Gouveia",
       "freguesia": "Cativelos",
       "distrito": "Guarda",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 40.53358,
-      "longitude": -7.70368,
-      "operacionais": 2,
-      "terrestres": 1,
+      "status": "Em Curso",
+      "latitude": 40.52811,
+      "longitude": -7.696975,
+      "operacionais": 9,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
