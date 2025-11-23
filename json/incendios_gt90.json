@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-23T14:19:50+00:00",
+  "atualizado_em": "2025-11-23T14:52:19+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Sabugal",
       "freguesia": "Sabugal E Aldeia De Santo António",
       "distrito": "Guarda",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 40.32978,
       "longitude": -7.053748,
       "operacionais": 12,
