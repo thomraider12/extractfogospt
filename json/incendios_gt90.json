@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-23T19:18:36+00:00",
+  "atualizado_em": "2025-11-23T19:52:12+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251574138",
-      "data_inicio": "23-11-2025 18:22",
-      "concelho": "Gouveia",
-      "freguesia": "Cativelos",
-      "distrito": "Guarda",
-      "status": "Em Resolução",
-      "latitude": 40.52811,
-      "longitude": -7.696975,
-      "operacionais": 9,
-      "terrestres": 4,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
