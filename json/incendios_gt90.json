@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-24T21:52:32+00:00",
+  "atualizado_em": "2025-11-24T22:22:51+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251579647",
-      "data_inicio": "24-11-2025 20:00",
-      "concelho": "Arruda Dos Vinhos",
-      "freguesia": "Arranhó",
-      "distrito": "Lisboa",
-      "status": "Conclusão",
-      "latitude": 38.956907,
-      "longitude": -9.132157,
-      "operacionais": 4,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
