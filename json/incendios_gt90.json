@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-24T20:27:37+00:00",
+  "atualizado_em": "2025-11-24T20:52:47+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Arruda Dos Vinhos",
       "freguesia": "Arranhó",
       "distrito": "Lisboa",
-      "status": "Despacho de 1º Alerta",
+      "status": "Em Curso",
       "latitude": 38.956907,
       "longitude": -9.132157,
       "operacionais": 4,
