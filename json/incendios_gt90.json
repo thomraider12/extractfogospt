@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2025-11-25T18:56:28+00:00",
+  "atualizado_em": "2025-11-25T19:22:09+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20251584380",
+      "data_inicio": "25-11-2025 18:57",
+      "concelho": "Bragança",
+      "freguesia": "Parada E Faílde",
+      "distrito": "Bragança",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.68227,
+      "longitude": -6.7176,
+      "operacionais": 5,
+      "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
