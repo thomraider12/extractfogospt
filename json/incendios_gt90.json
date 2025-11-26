@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-26T12:52:10+00:00",
+  "atualizado_em": "2025-11-26T13:37:18+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251587081",
-      "data_inicio": "26-11-2025 11:22",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "São Félix Da Marinha",
-      "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.03542,
-      "longitude": -8.62703,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
