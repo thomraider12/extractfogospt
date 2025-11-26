@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-26T22:52:10+00:00",
+  "atualizado_em": "2025-11-26T23:22:05+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251590216",
-      "data_inicio": "26-11-2025 22:19",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Pedroso",
-      "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.070116,
-      "longitude": -8.557569,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
