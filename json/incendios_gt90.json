@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-27T01:50:20+00:00",
+  "atualizado_em": "2025-11-27T03:14:48+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251590518",
-      "data_inicio": "27-11-2025 00:57",
-      "concelho": "Seixal",
-      "freguesia": "Corroios",
-      "distrito": "Setúbal",
-      "status": "Conclusão",
-      "latitude": 38.645608,
-      "longitude": -9.150625,
-      "operacionais": 9,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
