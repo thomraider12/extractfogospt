@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-27T10:27:40+00:00",
+  "atualizado_em": "2025-11-27T10:54:08+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Vila Pouca De Aguiar",
       "freguesia": "Alvão",
       "distrito": "Vila Real",
-      "status": "Em Curso",
+      "status": "Conclusão",
       "latitude": 41.51559,
       "longitude": -7.733193,
       "operacionais": 7,
