@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2025-11-27T16:56:54+00:00",
+  "atualizado_em": "2025-11-27T17:23:40+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20251593904",
+      "data_inicio": "27-11-2025 16:22",
+      "concelho": "Castro Daire",
+      "freguesia": "Cujó",
+      "distrito": "Viseu",
+      "status": "Conclusão",
+      "latitude": 40.950517,
+      "longitude": -7.825332,
+      "operacionais": 2,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
