@@ -1,6 +1,41 @@
 {
-  "atualizado_em": "2025-11-27T14:24:01+00:00",
+  "atualizado_em": "2025-11-27T14:54:02+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 2,
+  "incendios": [
+    {
+      "id": "20251593245",
+      "data_inicio": "27-11-2025 14:25",
+      "concelho": "Coruche",
+      "freguesia": "Erra",
+      "distrito": "Santarém",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 39.0073,
+      "longitude": -8.47572,
+      "operacionais": 8,
+      "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251593261",
+      "data_inicio": "27-11-2025 14:26",
+      "concelho": "Borba",
+      "freguesia": "Orada",
+      "distrito": "Évora",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.904507,
+      "longitude": -7.431684,
+      "operacionais": 5,
+      "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
