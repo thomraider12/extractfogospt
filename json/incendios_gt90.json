@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-11-28T16:54:45+00:00",
+  "atualizado_em": "2025-11-28T17:20:49+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 1,
   "incendios": [
     {
       "id": "20251598128",
@@ -14,23 +14,6 @@
       "longitude": -8.989337,
       "operacionais": 16,
       "terrestres": 5,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251598922",
-      "data_inicio": "28-11-2025 16:18",
-      "concelho": "Cascais",
-      "freguesia": "São Domingos De Rana",
-      "distrito": "Lisboa",
-      "status": "Em Curso",
-      "latitude": 38.731835,
-      "longitude": -9.332614,
-      "operacionais": 2,
-      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
