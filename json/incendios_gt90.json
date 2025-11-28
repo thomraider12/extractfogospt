@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-28T14:52:57+00:00",
+  "atualizado_em": "2025-11-28T15:24:20+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Alcobaça",
       "freguesia": "Turquel",
       "distrito": "Leiria",
-      "status": "Chegada ao TO",
+      "status": "Conclusão",
       "latitude": 39.498522,
       "longitude": -8.989337,
       "operacionais": 13,
