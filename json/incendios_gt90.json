@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-28T18:32:42+00:00",
+  "atualizado_em": "2025-11-28T18:55:01+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Coimbra",
       "freguesia": "Ceira",
       "distrito": "Coimbra",
-      "status": "Chegada ao TO",
+      "status": "Conclusão",
       "latitude": 40.181047,
       "longitude": -8.362499,
       "operacionais": 6,
