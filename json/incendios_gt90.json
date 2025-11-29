@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-29T16:53:24+00:00",
+  "atualizado_em": "2025-11-29T17:19:55+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Tavira",
       "freguesia": "Tavira (santa Maria E Santiago)",
       "distrito": "Faro",
-      "status": "Conclusão",
+      "status": "Vigilância",
       "latitude": 37.14979,
       "longitude": -7.665212,
       "operacionais": 16,
