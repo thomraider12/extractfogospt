@@ -1,41 +1,6 @@
 {
-  "atualizado_em": "2025-11-29T22:22:10+00:00",
+  "atualizado_em": "2025-11-29T22:52:22+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
-  "incendios": [
-    {
-      "id": "20251604604",
-      "data_inicio": "29-11-2025 19:26",
-      "concelho": "Vila Franca De Xira",
-      "freguesia": "Alhandra, São João Dos Montes E Calhandriz",
-      "distrito": "Lisboa",
-      "status": "Conclusão",
-      "latitude": 38.958967,
-      "longitude": -9.0251,
-      "operacionais": 7,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251604895",
-      "data_inicio": "29-11-2025 21:07",
-      "concelho": "Sesimbra",
-      "freguesia": "Sesimbra (castelo)",
-      "distrito": "Setúbal",
-      "status": "Conclusão",
-      "latitude": 38.435795,
-      "longitude": -9.184479,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
