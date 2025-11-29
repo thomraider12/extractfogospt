@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-11-29T18:32:10+00:00",
+  "atualizado_em": "2025-11-29T18:55:05+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20251603603",
@@ -14,6 +14,23 @@
       "longitude": -7.694542,
       "operacionais": 12,
       "terrestres": 4,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251604333",
+      "data_inicio": "29-11-2025 18:28",
+      "concelho": "Odemira",
+      "freguesia": "Vila Nova De Milfontes",
+      "distrito": "Beja",
+      "status": "Em Curso",
+      "latitude": 37.73843,
+      "longitude": -8.77525,
+      "operacionais": 2,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
