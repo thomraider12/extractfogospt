@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-30T21:52:41+00:00",
+  "atualizado_em": "2025-11-30T22:22:18+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251609406",
-      "data_inicio": "30-11-2025 21:00",
-      "concelho": "Seia",
-      "freguesia": "Santa Comba",
-      "distrito": "Guarda",
-      "status": "Em Resolução",
-      "latitude": 40.421435,
-      "longitude": -7.706927,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
