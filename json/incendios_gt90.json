@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-29T23:52:42+00:00",
+  "atualizado_em": "2025-11-30T02:03:47+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251605152",
-      "data_inicio": "29-11-2025 22:45",
-      "concelho": "Vidigueira",
-      "freguesia": "Vidigueira",
-      "distrito": "Beja",
-      "status": "Em Curso",
-      "latitude": 38.20173,
-      "longitude": -7.804649,
-      "operacionais": 10,
-      "terrestres": 5,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
