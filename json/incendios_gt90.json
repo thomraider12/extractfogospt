@@ -1,6 +1,41 @@
 {
-  "atualizado_em": "2025-11-30T17:19:45+00:00",
+  "atualizado_em": "2025-11-30T17:52:38+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 2,
+  "incendios": [
+    {
+      "id": "20251608602",
+      "data_inicio": "30-11-2025 17:20",
+      "concelho": "Ferreira Do Alentejo",
+      "freguesia": "Ferreira Do Alentejo",
+      "distrito": "Beja",
+      "status": "Em Resolução",
+      "latitude": 38.042273,
+      "longitude": -8.227808,
+      "operacionais": 7,
+      "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251608671",
+      "data_inicio": "30-11-2025 17:35",
+      "concelho": "Palmela",
+      "freguesia": "Quinta Do Anjo",
+      "distrito": "Setúbal",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.55572,
+      "longitude": -8.97034,
+      "operacionais": 3,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
