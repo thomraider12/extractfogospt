@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-11-30T18:55:03+00:00",
+  "atualizado_em": "2025-11-30T19:18:51+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251608767",
-      "data_inicio": "30-11-2025 17:58",
-      "concelho": "Cuba",
-      "freguesia": "Vila Alva",
-      "distrito": "Beja",
-      "status": "Conclusão",
-      "latitude": 38.248785,
-      "longitude": -7.888756,
-      "operacionais": 5,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
