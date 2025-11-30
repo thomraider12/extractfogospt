@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-11-30T21:20:45+00:00",
+  "atualizado_em": "2025-11-30T21:52:41+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,11 +9,11 @@
       "concelho": "Seia",
       "freguesia": "Santa Comba",
       "distrito": "Guarda",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 40.43983,
-      "longitude": -7.709132,
-      "operacionais": 5,
-      "terrestres": 1,
+      "status": "Em Resolução",
+      "latitude": 40.421435,
+      "longitude": -7.706927,
+      "operacionais": 7,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
