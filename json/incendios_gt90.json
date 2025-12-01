@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-12-01T21:20:11+00:00",
+  "atualizado_em": "2025-12-01T21:53:21+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251613770",
-      "data_inicio": "01-12-2025 21:10",
-      "concelho": "Vila Franca De Xira",
-      "freguesia": "Vialonga",
-      "distrito": "Lisboa",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 38.878017,
-      "longitude": -9.087262,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
