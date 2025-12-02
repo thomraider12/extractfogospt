@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-12-02T12:53:09+00:00",
+  "atualizado_em": "2025-12-02T13:39:55+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251616426",
-      "data_inicio": "02-12-2025 12:20",
-      "concelho": "Chamusca",
-      "freguesia": "Chamusca E Pinheiro Grande",
-      "distrito": "Santarém",
-      "status": "Conclusão",
-      "latitude": 39.362372,
-      "longitude": -8.490477,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
