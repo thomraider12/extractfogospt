@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2025-12-05T20:27:53+00:00",
+  "atualizado_em": "2025-12-05T20:53:49+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20251634780",
+      "data_inicio": "05-12-2025 20:35",
+      "concelho": "Mafra",
+      "freguesia": "Santo Isidoro",
+      "distrito": "Lisboa",
+      "status": "Conclusão",
+      "latitude": 39.009278,
+      "longitude": -9.397263,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
