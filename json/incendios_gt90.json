@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-12-06T17:52:36+00:00",
+  "atualizado_em": "2025-12-06T18:31:46+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251638304",
-      "data_inicio": "06-12-2025 15:21",
-      "concelho": "Vila Nova De Foz Côa",
-      "freguesia": "Almendra",
-      "distrito": "Guarda",
-      "status": "Conclusão",
-      "latitude": 40.980308,
-      "longitude": -7.026305,
-      "operacionais": 2,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
