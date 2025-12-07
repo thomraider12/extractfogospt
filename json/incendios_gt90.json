@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-12-07T20:52:36+00:00",
+  "atualizado_em": "2025-12-07T21:19:41+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251644312",
-      "data_inicio": "07-12-2025 20:23",
-      "concelho": "Guarda",
-      "freguesia": "Valhelhas",
-      "distrito": "Guarda",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 40.41139,
-      "longitude": -7.406111,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
