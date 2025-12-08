@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-12-08T21:52:44+00:00",
+  "atualizado_em": "2025-12-08T22:23:44+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251648678",
-      "data_inicio": "08-12-2025 19:37",
-      "concelho": "Arganil",
-      "freguesia": "Sarzedo",
-      "distrito": "Coimbra",
-      "status": "Conclusão",
-      "latitude": 40.265,
-      "longitude": -8.071389,
-      "operacionais": 20,
-      "terrestres": 7,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
