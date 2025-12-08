@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-12-08T17:00:30+00:00",
+  "atualizado_em": "2025-12-08T17:31:01+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251647845",
-      "data_inicio": "08-12-2025 16:00",
-      "concelho": "Barrancos",
-      "freguesia": "Barrancos",
-      "distrito": "Beja",
-      "status": "Conclusão",
-      "latitude": 38.14617,
-      "longitude": -7.083952,
-      "operacionais": 4,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
