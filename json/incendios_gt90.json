@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-12-11T21:26:46+00:00",
+  "atualizado_em": "2025-12-11T21:52:56+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251664395",
-      "data_inicio": "11-12-2025 20:24",
-      "concelho": "Ponte De Lima",
-      "freguesia": "Anais",
-      "distrito": "Viana Do Castelo",
-      "status": "Conclusão",
-      "latitude": 41.70544,
-      "longitude": -8.5329,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
