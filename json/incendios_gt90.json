@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2025-12-12T13:37:43+00:00",
+  "atualizado_em": "2025-12-12T13:57:39+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20251667419",
+      "data_inicio": "12-12-2025 13:35",
+      "concelho": "Seixal",
+      "freguesia": "Corroios",
+      "distrito": "Setúbal",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.64395,
+      "longitude": -9.15242,
+      "operacionais": 6,
+      "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
