@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-12-13T18:31:51+00:00",
+  "atualizado_em": "2025-12-13T18:54:58+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Olival",
       "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 41.05937,
       "longitude": -8.52725,
       "operacionais": 2,
@@ -26,7 +26,7 @@
       "concelho": "Albufeira",
       "freguesia": "Albufeira E Olhos De Água",
       "distrito": "Faro",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 37.11156,
       "longitude": -8.242198,
       "operacionais": 3,
