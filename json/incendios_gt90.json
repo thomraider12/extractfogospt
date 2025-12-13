@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-12-13T18:54:58+00:00",
+  "atualizado_em": "2025-12-13T19:18:21+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 1,
   "incendios": [
     {
       "id": "20251673970",
@@ -13,23 +13,6 @@
       "latitude": 41.05937,
       "longitude": -8.52725,
       "operacionais": 2,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251674048",
-      "data_inicio": "13-12-2025 18:08",
-      "concelho": "Albufeira",
-      "freguesia": "Albufeira E Olhos De Água",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.11156,
-      "longitude": -8.242198,
-      "operacionais": 3,
       "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
