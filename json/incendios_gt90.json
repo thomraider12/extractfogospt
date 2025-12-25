@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2025-12-25T17:52:20+00:00",
+  "atualizado_em": "2025-12-25T18:35:09+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20251733893",
+      "data_inicio": "25-12-2025 17:49",
+      "concelho": "Arouca",
+      "freguesia": "Cabreiros E Albergaria Da Serra",
+      "distrito": "Aveiro",
+      "status": "Conclusão",
+      "latitude": 40.869516,
+      "longitude": -8.284963,
+      "operacionais": 3,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
