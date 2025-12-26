@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-12-26T17:52:33+00:00",
+  "atualizado_em": "2025-12-26T18:35:00+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251738694",
-      "data_inicio": "26-12-2025 16:46",
-      "concelho": "Vieira Do Minho",
-      "freguesia": "Salamonde",
-      "distrito": "Braga",
-      "status": "Conclusão",
-      "latitude": 41.67444,
-      "longitude": -8.09683,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
