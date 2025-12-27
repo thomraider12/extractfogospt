@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-12-27T11:52:36+00:00",
+  "atualizado_em": "2025-12-27T12:48:27+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251741563",
-      "data_inicio": "27-12-2025 10:10",
-      "concelho": "Santa Maria Da Feira",
-      "freguesia": "Canedo",
-      "distrito": "Aveiro",
-      "status": "Conclusão",
-      "latitude": 41.0331,
-      "longitude": -8.43106,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
