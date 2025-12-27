@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-12-27T18:33:41+00:00",
+  "atualizado_em": "2025-12-27T18:56:43+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251743314",
-      "data_inicio": "27-12-2025 15:50",
-      "concelho": "Maia",
-      "freguesia": "Milheirós",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.220375,
-      "longitude": -8.576787,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
