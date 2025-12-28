@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-12-28T22:52:58+00:00",
+  "atualizado_em": "2025-12-28T23:23:19+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Arcos De Valdevez",
       "freguesia": "São Jorge E Ermelo",
       "distrito": "Viana Do Castelo",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.833472,
       "longitude": -8.329237,
       "operacionais": 3,
