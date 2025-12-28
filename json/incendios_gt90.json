@@ -1,58 +1,6 @@
 {
-  "atualizado_em": "2025-12-28T17:52:44+00:00",
+  "atualizado_em": "2025-12-28T18:34:51+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
-  "incendios": [
-    {
-      "id": "20251748015",
-      "data_inicio": "28-12-2025 15:30",
-      "concelho": "Arcos De Valdevez",
-      "freguesia": "Gondoriz",
-      "distrito": "Viana Do Castelo",
-      "status": "Conclusão",
-      "latitude": 41.909175,
-      "longitude": -8.36956,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251748183",
-      "data_inicio": "28-12-2025 16:05",
-      "concelho": "Alfândega Da Fé",
-      "freguesia": "Parada E Sendim Da Ribeira",
-      "distrito": "Bragança",
-      "status": "Em Resolução",
-      "latitude": 41.261253,
-      "longitude": -6.891653,
-      "operacionais": 4,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251748560",
-      "data_inicio": "28-12-2025 17:23",
-      "concelho": "Lourinhã",
-      "freguesia": "Reguengo Grande",
-      "distrito": "Lisboa",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 39.281396,
-      "longitude": -9.20745,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
