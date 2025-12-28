@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-12-27T23:52:30+00:00",
+  "atualizado_em": "2025-12-28T02:10:10+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20251744934",
@@ -9,10 +9,27 @@
       "concelho": "Sabugal",
       "freguesia": "Bendada",
       "distrito": "Guarda",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 40.393043,
       "longitude": -7.261952,
       "operacionais": 4,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251745217",
+      "data_inicio": "28-12-2025 00:47",
+      "concelho": "Castro Daire",
+      "freguesia": "Cabril",
+      "distrito": "Viseu",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 40.95153,
+      "longitude": -8.101105,
+      "operacionais": 3,
       "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
