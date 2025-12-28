@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-12-28T14:53:16+00:00",
+  "atualizado_em": "2025-12-28T15:23:56+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Arcos De Valdevez",
       "freguesia": "Soajo",
       "distrito": "Viana Do Castelo",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 41.874332,
       "longitude": -8.320288,
       "operacionais": 4,
