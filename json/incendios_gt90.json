@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-12-28T16:56:36+00:00",
+  "atualizado_em": "2025-12-28T17:24:18+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -24,11 +24,11 @@
       "id": "20251748183",
       "data_inicio": "28-12-2025 16:05",
       "concelho": "Alfândega Da Fé",
-      "freguesia": "Sambade",
+      "freguesia": "Parada E Sendim Da Ribeira",
       "distrito": "Bragança",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.41897,
-      "longitude": -7.00728,
+      "status": "Em Resolução",
+      "latitude": 41.260888,
+      "longitude": -6.887384,
       "operacionais": 4,
       "terrestres": 2,
       "aereos": 0,
