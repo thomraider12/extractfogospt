@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-12-28T23:23:19+00:00",
+  "atualizado_em": "2025-12-28T23:52:36+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251748760",
-      "data_inicio": "28-12-2025 18:16",
-      "concelho": "Arcos De Valdevez",
-      "freguesia": "São Jorge E Ermelo",
-      "distrito": "Viana Do Castelo",
-      "status": "Conclusão",
-      "latitude": 41.833472,
-      "longitude": -8.329237,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
