@@ -1,6 +1,41 @@
 {
-  "atualizado_em": "2025-12-28T18:34:51+00:00",
+  "atualizado_em": "2025-12-28T18:57:34+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 2,
+  "incendios": [
+    {
+      "id": "20251748699",
+      "data_inicio": "28-12-2025 18:05",
+      "concelho": "Vieira Do Minho",
+      "freguesia": "Ruivães E Campos",
+      "distrito": "Braga",
+      "status": "Conclusão",
+      "latitude": 41.6824,
+      "longitude": -8.01355,
+      "operacionais": 2,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251748760",
+      "data_inicio": "28-12-2025 18:16",
+      "concelho": "Arcos De Valdevez",
+      "freguesia": "São Jorge E Ermelo",
+      "distrito": "Viana Do Castelo",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.854535,
+      "longitude": -8.296923,
+      "operacionais": 3,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
