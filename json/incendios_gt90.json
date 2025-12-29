@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-12-29T13:40:10+00:00",
+  "atualizado_em": "2025-12-29T13:58:33+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251750897",
-      "data_inicio": "29-12-2025 09:01",
-      "concelho": "Peso Da Régua",
-      "freguesia": "Poiares",
-      "distrito": "Vila Real",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.17855,
-      "longitude": -7.72642,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
