@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2025-12-29T19:24:10+00:00",
+  "atualizado_em": "2025-12-29T19:52:29+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20251753960",
-      "data_inicio": "29-12-2025 17:40",
-      "concelho": "Castelo Branco",
-      "freguesia": "Malpica Do Tejo",
-      "distrito": "Castelo Branco",
-      "status": "Conclusão",
-      "latitude": 39.707023,
-      "longitude": -7.396915,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
