@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-12-29T18:36:25+00:00",
+  "atualizado_em": "2025-12-29T18:58:31+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Castelo Branco",
       "freguesia": "Malpica Do Tejo",
       "distrito": "Castelo Branco",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 39.707023,
       "longitude": -7.396915,
       "operacionais": 6,
