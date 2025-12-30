@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2025-12-30T14:55:36+00:00",
+  "atualizado_em": "2025-12-30T15:27:49+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20251758437",
+      "data_inicio": "30-12-2025 14:53",
+      "concelho": "Coimbra",
+      "freguesia": "Brasfemes",
+      "distrito": "Coimbra",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 40.273203,
+      "longitude": -8.381196,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
