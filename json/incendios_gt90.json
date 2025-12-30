@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-12-30T16:33:14+00:00",
+  "atualizado_em": "2025-12-30T16:59:31+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -29,8 +29,8 @@
       "status": "Conclusão",
       "latitude": 41.048567,
       "longitude": -8.568433,
-      "operacionais": 9,
-      "terrestres": 3,
+      "operacionais": 4,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
@@ -44,8 +44,8 @@
       "freguesia": "Chã",
       "distrito": "Vila Real",
       "status": "Despacho de 1º Alerta",
-      "latitude": 41.78178,
-      "longitude": -7.755427,
+      "latitude": 41.78103,
+      "longitude": -7.756357,
       "operacionais": 4,
       "terrestres": 1,
       "aereos": 0,
