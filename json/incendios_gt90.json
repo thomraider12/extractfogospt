@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-12-31T19:52:30+00:00",
+  "atualizado_em": "2025-12-31T20:27:33+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 2,
   "incendios": [
     {
       "id": "20251763961",
@@ -12,25 +12,8 @@
       "status": "Conclusão",
       "latitude": 39.127098,
       "longitude": -8.935177,
-      "operacionais": 8,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251764002",
-      "data_inicio": "31-12-2025 18:22",
-      "concelho": "Vila Pouca De Aguiar",
-      "freguesia": "Alvão",
-      "distrito": "Vila Real",
-      "status": "Conclusão",
-      "latitude": 41.46583,
-      "longitude": -7.729058,
-      "operacionais": 5,
-      "terrestres": 1,
+      "operacionais": 10,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
