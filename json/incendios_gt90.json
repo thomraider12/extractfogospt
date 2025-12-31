@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-12-31T20:54:24+00:00",
+  "atualizado_em": "2025-12-31T21:22:36+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -38,16 +38,16 @@
       "kml_file": null
     },
     {
-      "id": "20251764449",
-      "data_inicio": "31-12-2025 20:25",
-      "concelho": "Sines",
-      "freguesia": "Sines",
+      "id": "20251764510",
+      "data_inicio": "31-12-2025 20:52",
+      "concelho": "Seixal",
+      "freguesia": "Amora",
       "distrito": "Setúbal",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 37.963534,
-      "longitude": -8.854536,
-      "operacionais": 12,
-      "terrestres": 4,
+      "status": "Conclusão",
+      "latitude": 38.63164,
+      "longitude": -9.121402,
+      "operacionais": 6,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
