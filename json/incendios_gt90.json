@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2025-12-31T20:27:33+00:00",
+  "atualizado_em": "2025-12-31T20:54:24+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 3,
   "incendios": [
     {
       "id": "20251763961",
@@ -31,6 +31,23 @@
       "longitude": -8.994717,
       "operacionais": 4,
       "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20251764449",
+      "data_inicio": "31-12-2025 20:25",
+      "concelho": "Sines",
+      "freguesia": "Sines",
+      "distrito": "Setúbal",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 37.963534,
+      "longitude": -8.854536,
+      "operacionais": 12,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
