@@ -1,41 +1,6 @@
 {
-  "atualizado_em": "2025-12-31T23:24:02+00:00",
+  "atualizado_em": "2025-12-31T23:52:47+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
-  "incendios": [
-    {
-      "id": "20251764874",
-      "data_inicio": "31-12-2025 22:48",
-      "concelho": "Cascais",
-      "freguesia": "Alcabideche",
-      "distrito": "Lisboa",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 38.740472,
-      "longitude": -9.468713,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20251764941",
-      "data_inicio": "31-12-2025 23:09",
-      "concelho": "Barreiro",
-      "freguesia": "Palhais E Coina",
-      "distrito": "Setúbal",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 38.58585,
-      "longitude": -9.03661,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
