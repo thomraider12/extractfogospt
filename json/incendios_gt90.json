@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2025-12-31T15:52:48+00:00",
+  "atualizado_em": "2025-12-31T16:31:23+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,11 +9,11 @@
       "concelho": "Belmonte",
       "freguesia": "Maçainhas",
       "distrito": "Castelo Branco",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 40.41211,
       "longitude": -7.288847,
-      "operacionais": 11,
-      "terrestres": 4,
+      "operacionais": 4,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
