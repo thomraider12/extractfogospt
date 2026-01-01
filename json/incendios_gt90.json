@@ -1,6 +1,41 @@
 {
-  "atualizado_em": "2025-12-31T23:52:47+00:00",
+  "atualizado_em": "2026-01-01T02:10:32+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 2,
+  "incendios": [
+    {
+      "id": "20260000035",
+      "data_inicio": "01-01-2026 00:16",
+      "concelho": "Vila Nova De Famalicão",
+      "freguesia": "Arnoso (Santa Maria E Santa Eulália) E Sezures",
+      "distrito": "Braga",
+      "status": "Conclusão",
+      "latitude": 41.46746,
+      "longitude": -8.47443,
+      "operacionais": 3,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20260000423",
+      "data_inicio": "01-01-2026 01:49",
+      "concelho": "Terras De Bouro",
+      "freguesia": "Gondoriz",
+      "distrito": "Braga",
+      "status": "Em Curso",
+      "latitude": 41.750905,
+      "longitude": -8.304215,
+      "operacionais": 9,
+      "terrestres": 4,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
