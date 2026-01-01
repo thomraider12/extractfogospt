@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-01-01T18:58:23+00:00",
+  "atualizado_em": "2026-01-01T19:24:37+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260003639",
-      "data_inicio": "01-01-2026 17:12",
-      "concelho": "Aljezur",
-      "freguesia": "Rogil",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.408851,
-      "longitude": -8.802866,
-      "operacionais": 8,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
