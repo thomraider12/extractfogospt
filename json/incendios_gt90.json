@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-01-02T18:35:46+00:00",
+  "atualizado_em": "2026-01-02T18:57:58+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260009145",
+      "data_inicio": "02-01-2026 18:22",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "São João De Ver",
+      "distrito": "Aveiro",
+      "status": "Conclusão",
+      "latitude": 40.94473,
+      "longitude": -8.59189,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
