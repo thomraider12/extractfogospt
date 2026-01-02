@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-01-02T16:58:10+00:00",
+  "atualizado_em": "2026-01-02T17:26:46+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260008622",
-      "data_inicio": "02-01-2026 16:27",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Olival",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.046266,
-      "longitude": -8.545846,
-      "operacionais": 2,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
