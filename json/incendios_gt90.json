@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-01-04T19:23:17+00:00",
+  "atualizado_em": "2026-01-04T19:52:32+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Terras De Bouro",
       "freguesia": "Gondoriz",
       "distrito": "Braga",
-      "status": "Conclusão",
+      "status": "Em Resolução",
       "latitude": 41.73481,
       "longitude": -8.298865,
       "operacionais": 5,
