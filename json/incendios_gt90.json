@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-01-05T20:56:48+00:00",
+  "atualizado_em": "2026-01-05T21:28:38+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 1,
   "incendios": [
     {
       "id": "20260023710",
@@ -14,23 +14,6 @@
       "longitude": -8.622337,
       "operacionais": 21,
       "terrestres": 7,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20260024070",
-      "data_inicio": "05-01-2026 18:20",
-      "concelho": "Terras De Bouro",
-      "freguesia": "Gondoriz",
-      "distrito": "Braga",
-      "status": "Conclusão",
-      "latitude": 41.734825,
-      "longitude": -8.299595,
-      "operacionais": 6,
-      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
