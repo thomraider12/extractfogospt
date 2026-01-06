@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-01-06T19:52:52+00:00",
+  "atualizado_em": "2026-01-06T20:29:24+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260028916",
-      "data_inicio": "06-01-2026 17:09",
-      "concelho": "Castelo Branco",
-      "freguesia": "Louriçal Do Campo",
-      "distrito": "Castelo Branco",
-      "status": "Conclusão",
-      "latitude": 40.04926,
-      "longitude": -7.52186,
-      "operacionais": 8,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
