@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-01-06T07:14:29+00:00",
+  "atualizado_em": "2026-01-06T07:54:24+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 1,
   "incendios": [
     {
       "id": "20260023710",
@@ -12,25 +12,8 @@
       "status": "Em Resolução",
       "latitude": 41.80043,
       "longitude": -8.622337,
-      "operacionais": 12,
-      "terrestres": 4,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20260025304",
-      "data_inicio": "06-01-2026 00:22",
-      "concelho": "Viana Do Castelo",
-      "freguesia": "Montaria",
-      "distrito": "Viana Do Castelo",
-      "status": "Conclusão",
-      "latitude": 41.78674,
-      "longitude": -8.72028,
-      "operacionais": 7,
-      "terrestres": 2,
+      "operacionais": 10,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
