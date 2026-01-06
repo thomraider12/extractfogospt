@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-01-06T15:56:43+00:00",
+  "atualizado_em": "2026-01-06T16:39:08+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20260023710",
@@ -14,6 +14,23 @@
       "longitude": -8.622337,
       "operacionais": 21,
       "terrestres": 6,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20260028659",
+      "data_inicio": "06-01-2026 16:13",
+      "concelho": "Mira",
+      "freguesia": "Mira",
+      "distrito": "Coimbra",
+      "status": "Em Resolução",
+      "latitude": 40.4268,
+      "longitude": -8.734102,
+      "operacionais": 4,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
