@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-01-06T11:52:44+00:00",
+  "atualizado_em": "2026-01-06T12:53:37+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20260023710",
@@ -15,6 +15,23 @@
       "operacionais": 13,
       "terrestres": 4,
       "aereos": 2,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20260027225",
+      "data_inicio": "06-01-2026 11:54",
+      "concelho": "Arcos De Valdevez",
+      "freguesia": "Soajo",
+      "distrito": "Viana Do Castelo",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.87527,
+      "longitude": -8.2649,
+      "operacionais": 2,
+      "terrestres": 1,
+      "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
