@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-01-06T05:56:29+00:00",
+  "atualizado_em": "2026-01-06T06:45:03+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -26,9 +26,9 @@
       "concelho": "Viana Do Castelo",
       "freguesia": "Montaria",
       "distrito": "Viana Do Castelo",
-      "status": "Em Curso",
-      "latitude": 41.803774,
-      "longitude": -8.727952,
+      "status": "Conclusão",
+      "latitude": 41.78674,
+      "longitude": -8.72028,
       "operacionais": 7,
       "terrestres": 2,
       "aereos": 0,
