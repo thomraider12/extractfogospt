@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-01-06T05:03:31+00:00",
+  "atualizado_em": "2026-01-06T05:56:29+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Ponte De Lima",
       "freguesia": "Cabração E Moreira Do Lima",
       "distrito": "Viana Do Castelo",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 41.80043,
       "longitude": -8.622337,
       "operacionais": 12,
