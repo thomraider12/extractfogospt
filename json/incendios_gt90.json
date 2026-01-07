@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-01-07T19:52:50+00:00",
+  "atualizado_em": "2026-01-07T20:30:19+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260034213",
-      "data_inicio": "07-01-2026 18:51",
-      "concelho": "Peso Da Régua",
-      "freguesia": "Vilarinho Dos Freires",
-      "distrito": "Vila Real",
-      "status": "Conclusão",
-      "latitude": 41.17944,
-      "longitude": -7.740278,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
