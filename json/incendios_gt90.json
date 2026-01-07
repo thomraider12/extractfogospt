@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-01-06T23:52:14+00:00",
+  "atualizado_em": "2026-01-07T02:01:19+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260030367",
+      "data_inicio": "07-01-2026 01:02",
+      "concelho": "Silves",
+      "freguesia": "Algoz",
+      "distrito": "Faro",
+      "status": "Em Curso",
+      "latitude": 37.16295,
+      "longitude": -8.30725,
+      "operacionais": 8,
+      "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
