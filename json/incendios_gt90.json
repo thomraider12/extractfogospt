@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-01-07T17:56:58+00:00",
+  "atualizado_em": "2026-01-07T18:45:28+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260034059",
+      "data_inicio": "07-01-2026 18:07",
+      "concelho": "Vila Real",
+      "freguesia": "Mouçós E Lamares",
+      "distrito": "Vila Real",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.32094,
+      "longitude": -7.69017,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
