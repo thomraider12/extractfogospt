@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-01-07T15:35:45+00:00",
+  "atualizado_em": "2026-01-07T15:58:51+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260033082",
-      "data_inicio": "07-01-2026 14:39",
-      "concelho": "Paredes",
-      "freguesia": "Cete",
-      "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.18749,
-      "longitude": -8.365262,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
