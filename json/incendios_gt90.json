@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-01-07T19:10:00+00:00",
+  "atualizado_em": "2026-01-07T19:52:50+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Peso Da Régua",
       "freguesia": "Vilarinho Dos Freires",
       "distrito": "Vila Real",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 41.17944,
       "longitude": -7.740278,
       "operacionais": 5,
