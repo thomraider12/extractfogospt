@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-01-09T20:55:47+00:00",
+  "atualizado_em": "2026-01-09T21:26:15+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260044222",
+      "data_inicio": "09-01-2026 20:55",
+      "concelho": "Faro",
+      "freguesia": "Santa Bárbara De Nexe",
+      "distrito": "Faro",
+      "status": "Chegada ao TO",
+      "latitude": 37.079915,
+      "longitude": -7.937381,
+      "operacionais": 8,
+      "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
