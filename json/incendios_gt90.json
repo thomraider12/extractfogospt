@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-01-10T17:52:15+00:00",
+  "atualizado_em": "2026-01-10T18:34:31+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260048031",
+      "data_inicio": "10-01-2026 18:01",
+      "concelho": "Guarda",
+      "freguesia": "Vale De Estrela",
+      "distrito": "Guarda",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 40.500154,
+      "longitude": -7.304989,
+      "operacionais": 5,
+      "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
