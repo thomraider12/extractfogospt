@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-01-10T22:23:52+00:00",
+  "atualizado_em": "2026-01-10T22:53:04+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Covilhã",
       "freguesia": "Erada",
       "distrito": "Castelo Branco",
-      "status": "Despacho de 1º Alerta",
+      "status": "Em Curso",
       "latitude": 40.25591,
       "longitude": -7.70103,
       "operacionais": 6,
