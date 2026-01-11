@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-01-10T23:52:12+00:00",
+  "atualizado_em": "2026-01-11T02:11:39+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260048800",
-      "data_inicio": "10-01-2026 22:03",
-      "concelho": "Covilhã",
-      "freguesia": "Erada",
-      "distrito": "Castelo Branco",
-      "status": "Conclusão",
-      "latitude": 40.247178,
-      "longitude": -7.709495,
-      "operacionais": 6,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
