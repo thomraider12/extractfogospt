@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-01-11T18:57:32+00:00",
+  "atualizado_em": "2026-01-11T19:23:00+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Miranda Do Douro",
       "freguesia": "Miranda Do Douro",
       "distrito": "Bragança",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 41.50618,
       "longitude": -6.285492,
       "operacionais": 12,
