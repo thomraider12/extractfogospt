@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-01-11T20:27:42+00:00",
+  "atualizado_em": "2026-01-11T20:53:44+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20260051937",
@@ -12,8 +12,25 @@
       "status": "Conclusão",
       "latitude": 41.50618,
       "longitude": -6.285492,
-      "operacionais": 12,
-      "terrestres": 4,
+      "operacionais": 2,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20260052477",
+      "data_inicio": "11-01-2026 20:21",
+      "concelho": "Aveiro",
+      "freguesia": "Glória E Vera Cruz",
+      "distrito": "Aveiro",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 40.63849,
+      "longitude": -8.6417,
+      "operacionais": 4,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
