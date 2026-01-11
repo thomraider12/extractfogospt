@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-01-11T17:23:01+00:00",
+  "atualizado_em": "2026-01-11T17:52:34+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260051937",
+      "data_inicio": "11-01-2026 17:28",
+      "concelho": "Miranda Do Douro",
+      "freguesia": "Miranda Do Douro",
+      "distrito": "Bragança",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.50848,
+      "longitude": -6.287549,
+      "operacionais": 7,
+      "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
