@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-01-12T15:00:28+00:00",
+  "atualizado_em": "2026-01-12T15:36:59+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260055739",
-      "data_inicio": "12-01-2026 14:15",
-      "concelho": "Alcochete",
-      "freguesia": "Alcochete",
-      "distrito": "Setúbal",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 38.74784,
-      "longitude": -8.96411,
-      "operacionais": 7,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
