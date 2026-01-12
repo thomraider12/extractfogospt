@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-01-12T19:52:31+00:00",
+  "atualizado_em": "2026-01-12T20:30:13+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260056713",
-      "data_inicio": "12-01-2026 17:20",
-      "concelho": "Silves",
-      "freguesia": "São Bartolomeu De Messines",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.277228,
-      "longitude": -8.28696,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
