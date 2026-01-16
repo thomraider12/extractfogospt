@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-01-16T08:35:40+00:00",
+  "atualizado_em": "2026-01-16T09:00:54+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260072361",
-      "data_inicio": "16-01-2026 08:00",
-      "concelho": "Seixal",
-      "freguesia": "Arrentela",
-      "distrito": "Setúbal",
-      "status": "Conclusão",
-      "latitude": 38.60579,
-      "longitude": -9.102843,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
