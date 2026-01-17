@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-01-17T16:28:22+00:00",
+  "atualizado_em": "2026-01-17T16:54:39+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Santa Maria Da Feira",
       "freguesia": "São Paio De Oleiros",
       "distrito": "Aveiro",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 40.97624,
       "longitude": -8.610707,
       "operacionais": 2,
