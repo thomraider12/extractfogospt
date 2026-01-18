@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-01-18T18:56:57+00:00",
+  "atualizado_em": "2026-01-18T19:22:22+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260083699",
-      "data_inicio": "18-01-2026 17:55",
-      "concelho": "Trofa",
-      "freguesia": "Covelas",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.290018,
-      "longitude": -8.515285,
-      "operacionais": 8,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
