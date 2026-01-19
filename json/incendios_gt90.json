@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-01-19T04:05:19+00:00",
+  "atualizado_em": "2026-01-19T05:20:30+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260084994",
+      "data_inicio": "19-01-2026 04:11",
+      "concelho": "Beja",
+      "freguesia": "Santa Vitória E Mombeja",
+      "distrito": "Beja",
+      "status": "Chegada ao TO",
+      "latitude": 37.981882,
+      "longitude": -7.988521,
+      "operacionais": 6,
+      "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
