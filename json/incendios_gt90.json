@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-01-19T17:02:51+00:00",
+  "atualizado_em": "2026-01-19T17:56:12+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260087723",
-      "data_inicio": "19-01-2026 15:12",
-      "concelho": "Beja",
-      "freguesia": "Albernoa E Trindade",
-      "distrito": "Beja",
-      "status": "Conclusão",
-      "latitude": 37.85809,
-      "longitude": -7.95768,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
