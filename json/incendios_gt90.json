@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-01-19T19:01:26+00:00",
+  "atualizado_em": "2026-01-19T19:52:27+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260088886",
+      "data_inicio": "19-01-2026 19:21",
+      "concelho": "Beja",
+      "freguesia": "Beja (Santiago Maior E São João Baptista)",
+      "distrito": "Beja",
+      "status": "Conclusão",
+      "latitude": 38.014111,
+      "longitude": -7.87003,
+      "operacionais": 7,
+      "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
