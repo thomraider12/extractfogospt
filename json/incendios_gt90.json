@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-01-19T15:37:52+00:00",
+  "atualizado_em": "2026-01-19T15:58:55+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Beja",
       "freguesia": "Albernoa E Trindade",
       "distrito": "Beja",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 37.85809,
       "longitude": -7.95768,
       "operacionais": 13,
