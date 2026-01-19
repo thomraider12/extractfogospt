@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-01-19T23:25:17+00:00",
+  "atualizado_em": "2026-01-19T23:53:33+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260089142",
-      "data_inicio": "19-01-2026 20:46",
-      "concelho": "Porto",
-      "freguesia": "Lordelo Do Ouro E Massarelos",
-      "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.14868,
-      "longitude": -8.65511,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
