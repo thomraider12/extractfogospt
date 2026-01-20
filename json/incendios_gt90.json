@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-01-20T19:04:57+00:00",
+  "atualizado_em": "2026-01-20T20:34:38+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,11 +9,11 @@
       "concelho": "Castro Verde",
       "freguesia": "Castro Verde E Casével",
       "distrito": "Beja",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 37.71279,
-      "longitude": -8.091108,
-      "operacionais": 5,
-      "terrestres": 2,
+      "status": "Conclusão",
+      "latitude": 37.699103,
+      "longitude": -8.08097,
+      "operacionais": 2,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
