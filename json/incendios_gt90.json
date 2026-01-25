@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-01-25T22:54:31+00:00",
+  "atualizado_em": "2026-01-25T23:24:59+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260119569",
+      "data_inicio": "25-01-2026 23:07",
+      "concelho": "Évora",
+      "freguesia": "Malagueira E Horta Das Figueiras",
+      "distrito": "Évora",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.549701,
+      "longitude": -7.918509,
+      "operacionais": 2,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
