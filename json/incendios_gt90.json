@@ -1,25 +1,8 @@
 {
-  "atualizado_em": "2026-01-31T21:54:46+00:00",
+  "atualizado_em": "2026-01-31T22:27:38+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 1,
   "incendios": [
-    {
-      "id": "20260162015",
-      "data_inicio": "31-01-2026 18:27",
-      "concelho": "Pombal",
-      "freguesia": "Almagreira",
-      "distrito": "Leiria",
-      "status": "Vigilância",
-      "latitude": 39.95258,
-      "longitude": -8.682,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
     {
       "id": "20260162271",
       "data_inicio": "31-01-2026 19:21",
