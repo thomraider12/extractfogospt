@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-01-31T18:45:30+00:00",
+  "atualizado_em": "2026-01-31T19:24:02+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Pombal",
       "freguesia": "Almagreira",
       "distrito": "Leiria",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 39.95258,
       "longitude": -8.682,
       "operacionais": 5,
