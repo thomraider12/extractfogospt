@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-02-12T17:45:10+00:00",
+  "atualizado_em": "2026-02-12T18:40:15+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260238857",
+      "data_inicio": "12-02-2026 18:04",
+      "concelho": "Nelas",
+      "freguesia": "Nelas",
+      "distrito": "Viseu",
+      "status": "Em Curso",
+      "latitude": 40.512677,
+      "longitude": -7.851124,
+      "operacionais": 7,
+      "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
