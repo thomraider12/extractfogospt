@@ -1,41 +1,6 @@
 {
-  "atualizado_em": "2026-02-16T19:22:34+00:00",
+  "atualizado_em": "2026-02-16T19:59:59+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
-  "incendios": [
-    {
-      "id": "20260259658",
-      "data_inicio": "16-02-2026 16:19",
-      "concelho": "Caldas Da Rainha",
-      "freguesia": "Carvalhal Benfeito",
-      "distrito": "Leiria",
-      "status": "Conclusão",
-      "latitude": 39.443106,
-      "longitude": -9.044987,
-      "operacionais": 2,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20260260253",
-      "data_inicio": "16-02-2026 18:41",
-      "concelho": "Murça",
-      "freguesia": "Jou",
-      "distrito": "Vila Real",
-      "status": "Em Curso",
-      "latitude": 41.519452,
-      "longitude": -7.419533,
-      "operacionais": 6,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
