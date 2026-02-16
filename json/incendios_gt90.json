@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-02-16T17:26:28+00:00",
+  "atualizado_em": "2026-02-16T18:22:58+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Caldas Da Rainha",
       "freguesia": "Carvalhal Benfeito",
       "distrito": "Leiria",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 39.443106,
       "longitude": -9.044987,
       "operacionais": 8,
