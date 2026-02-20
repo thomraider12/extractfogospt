@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-02-20T15:25:42+00:00",
+  "atualizado_em": "2026-02-20T16:19:36+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20260279036",
@@ -14,6 +14,23 @@
       "longitude": -8.845145,
       "operacionais": 8,
       "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20260279351",
+      "data_inicio": "20-02-2026 15:45",
+      "concelho": "Sintra",
+      "freguesia": "Belas",
+      "distrito": "Lisboa",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.801823,
+      "longitude": -9.248549,
+      "operacionais": 6,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
