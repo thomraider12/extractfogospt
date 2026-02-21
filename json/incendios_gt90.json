@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-02-21T20:31:57+00:00",
+  "atualizado_em": "2026-02-21T20:58:51+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260284979",
-      "data_inicio": "21-02-2026 19:11",
-      "concelho": "Sobral De Monte Agraço",
-      "freguesia": "Santo Quintino",
-      "distrito": "Lisboa",
-      "status": "Em Resolução",
-      "latitude": 38.97562,
-      "longitude": -9.155499,
-      "operacionais": 10,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
