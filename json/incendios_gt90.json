@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-02-21T16:40:26+00:00",
+  "atualizado_em": "2026-02-21T17:02:13+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260284312",
+      "data_inicio": "21-02-2026 16:45",
+      "concelho": "Belmonte",
+      "freguesia": "Belmonte",
+      "distrito": "Castelo Branco",
+      "status": "Em Resolução",
+      "latitude": 40.352602,
+      "longitude": -7.332597,
+      "operacionais": 6,
+      "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
