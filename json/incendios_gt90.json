@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-02-22T14:30:55+00:00",
+  "atualizado_em": "2026-02-22T15:00:01+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260288204",
+      "data_inicio": "22-02-2026 14:40",
+      "concelho": "Alvaiázere",
+      "freguesia": "Maçãs De Dona Maria",
+      "distrito": "Leiria",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 39.87624,
+      "longitude": -8.33387,
+      "operacionais": 3,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
