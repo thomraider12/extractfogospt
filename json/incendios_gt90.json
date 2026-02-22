@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-02-22T20:59:59+00:00",
+  "atualizado_em": "2026-02-22T21:34:50+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 3,
   "incendios": [
     {
       "id": "20260289524",
@@ -26,10 +26,27 @@
       "concelho": "Vale De Cambra",
       "freguesia": "Junqueira",
       "distrito": "Aveiro",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 40.81902,
       "longitude": -8.32989,
       "operacionais": 4,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20260289683",
+      "data_inicio": "22-02-2026 20:54",
+      "concelho": "Beja",
+      "freguesia": "Beja (salvador E Santa Maria Da Feira)",
+      "distrito": "Beja",
+      "status": "Chegada ao TO",
+      "latitude": 38.02822,
+      "longitude": -7.861618,
+      "operacionais": 3,
       "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
