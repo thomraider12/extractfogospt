@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-02-22T15:00:01+00:00",
+  "atualizado_em": "2026-02-22T15:35:45+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Alvaiázere",
       "freguesia": "Maçãs De Dona Maria",
       "distrito": "Leiria",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 39.87624,
       "longitude": -8.33387,
       "operacionais": 3,
