@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-02-22T11:55:18+00:00",
+  "atualizado_em": "2026-02-22T12:59:14+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260287328",
-      "data_inicio": "22-02-2026 11:26",
-      "concelho": "Almada",
-      "freguesia": "Charneca De Caparica E Sobreda",
-      "distrito": "Setúbal",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 38.64014,
-      "longitude": -9.178892,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
