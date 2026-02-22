@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-02-22T20:33:27+00:00",
+  "atualizado_em": "2026-02-22T20:59:59+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -21,14 +21,14 @@
       "kml_file": null
     },
     {
-      "id": "20260289557",
-      "data_inicio": "22-02-2026 20:07",
-      "concelho": "Caldas Da Rainha",
-      "freguesia": "Santa Catarina",
-      "distrito": "Leiria",
-      "status": "Conclusão",
-      "latitude": 39.429874,
-      "longitude": -9.008811,
+      "id": "20260289588",
+      "data_inicio": "22-02-2026 20:23",
+      "concelho": "Vale De Cambra",
+      "freguesia": "Junqueira",
+      "distrito": "Aveiro",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 40.81902,
+      "longitude": -8.32989,
       "operacionais": 4,
       "terrestres": 1,
       "aereos": 0,
