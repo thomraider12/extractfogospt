@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-02-23T22:26:29+00:00",
+  "atualizado_em": "2026-02-23T23:22:15+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -43,9 +43,9 @@
       "concelho": "Cabeceiras De Basto",
       "freguesia": "Bucos",
       "distrito": "Braga",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.582557,
-      "longitude": -8.030303,
+      "status": "Conclusão",
+      "latitude": 41.563628,
+      "longitude": -8.0467,
       "operacionais": 5,
       "terrestres": 2,
       "aereos": 0,
