@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-02-23T21:29:44+00:00",
+  "atualizado_em": "2026-02-23T22:26:29+00:00",
   "criterio": "> 1 operacionais",
-  "total": 4,
+  "total": 3,
   "incendios": [
     {
       "id": "20260294601",
@@ -29,24 +29,7 @@
       "status": "Chegada ao TO",
       "latitude": 40.86379,
       "longitude": -8.28319,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20260294973",
-      "data_inicio": "23-02-2026 20:08",
-      "concelho": "Vieira Do Minho",
-      "freguesia": "Rossas",
-      "distrito": "Braga",
-      "status": "Vigilância",
-      "latitude": 41.586948,
-      "longitude": -8.073845,
-      "operacionais": 9,
+      "operacionais": 10,
       "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
