@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-02-24T11:28:55+00:00",
+  "atualizado_em": "2026-02-24T12:29:47+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260297295",
-      "data_inicio": "24-02-2026 11:19",
-      "concelho": "Gondomar",
-      "freguesia": "Fânzeres E São Pedro Da Cova",
-      "distrito": "Porto",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.155311,
-      "longitude": -8.511531,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
