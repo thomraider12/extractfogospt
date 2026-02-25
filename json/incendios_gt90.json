@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-02-24T23:15:48+00:00",
+  "atualizado_em": "2026-02-25T00:02:36+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Arouca",
       "freguesia": "Urrô",
       "distrito": "Aveiro",
-      "status": "Despacho de 1º Alerta",
+      "status": "Chegada ao TO",
       "latitude": 40.92443,
       "longitude": -8.295775,
       "operacionais": 5,
@@ -26,7 +26,7 @@
       "concelho": "Arcos De Valdevez",
       "freguesia": "Rio Frio",
       "distrito": "Viana Do Castelo",
-      "status": "Despacho de 1º Alerta",
+      "status": "Em Curso",
       "latitude": 41.858015,
       "longitude": -8.480992,
       "operacionais": 4,
