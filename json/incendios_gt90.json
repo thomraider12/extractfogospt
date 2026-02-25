@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-02-25T11:28:14+00:00",
+  "atualizado_em": "2026-02-25T12:29:03+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260302457",
+      "data_inicio": "25-02-2026 12:17",
+      "concelho": "Tondela",
+      "freguesia": "Canas De Santa Maria",
+      "distrito": "Viseu",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 40.552625,
+      "longitude": -8.07055,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
