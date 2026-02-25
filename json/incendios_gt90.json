@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-02-25T13:58:05+00:00",
+  "atualizado_em": "2026-02-25T15:01:25+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260303196",
+      "data_inicio": "25-02-2026 14:29",
+      "concelho": "Vinhais",
+      "freguesia": "Paçó",
+      "distrito": "Bragança",
+      "status": "Conclusão",
+      "latitude": 41.849247,
+      "longitude": -6.940535,
+      "operacionais": 7,
+      "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
