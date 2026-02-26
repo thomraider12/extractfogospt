@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-02-26T14:57:28+00:00",
+  "atualizado_em": "2026-02-26T16:01:07+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260308617",
+      "data_inicio": "26-02-2026 15:27",
+      "concelho": "Tomar",
+      "freguesia": "Carregueiros",
+      "distrito": "Santarém",
+      "status": "Em Resolução",
+      "latitude": 39.62395,
+      "longitude": -8.459087,
+      "operacionais": 8,
+      "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
