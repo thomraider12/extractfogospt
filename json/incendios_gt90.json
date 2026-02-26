@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-02-26T22:02:58+00:00",
+  "atualizado_em": "2026-02-26T23:15:19+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 1,
   "incendios": [
     {
       "id": "20260310160",
@@ -14,23 +14,6 @@
       "longitude": -6.971727,
       "operacionais": 3,
       "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20260310247",
-      "data_inicio": "26-02-2026 21:28",
-      "concelho": "Castelo Branco",
-      "freguesia": "Castelo Branco",
-      "distrito": "Castelo Branco",
-      "status": "Em Resolução",
-      "latitude": 39.79899,
-      "longitude": -7.479855,
-      "operacionais": 5,
-      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
