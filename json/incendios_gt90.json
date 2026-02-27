@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-02-27T20:01:18+00:00",
+  "atualizado_em": "2026-02-27T21:02:09+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260314637",
-      "data_inicio": "27-02-2026 19:30",
-      "concelho": "Moimenta Da Beira",
-      "freguesia": "Cabaços",
-      "distrito": "Viseu",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.014185,
-      "longitude": -7.582715,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
