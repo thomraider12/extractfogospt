@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-02-27T00:00:52+00:00",
+  "atualizado_em": "2026-02-27T03:18:58+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260310532",
-      "data_inicio": "26-02-2026 23:00",
-      "concelho": "Vila Do Conde",
-      "freguesia": "Vilar E Mosteiró",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.285997,
-      "longitude": -8.675218,
-      "operacionais": 4,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
