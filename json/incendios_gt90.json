@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-02-28T15:55:03+00:00",
+  "atualizado_em": "2026-02-28T16:31:57+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260317088",
-      "data_inicio": "28-02-2026 11:51",
-      "concelho": "Alcoutim",
-      "freguesia": "Vaqueiros",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.338756,
-      "longitude": -7.69184,
-      "operacionais": 10,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
