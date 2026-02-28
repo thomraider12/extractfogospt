@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-02-28T12:54:44+00:00",
+  "atualizado_em": "2026-02-28T13:39:17+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Alcoutim",
       "freguesia": "Vaqueiros",
       "distrito": "Faro",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 37.338756,
       "longitude": -7.69184,
       "operacionais": 10,
