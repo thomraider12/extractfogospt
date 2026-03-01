@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-03-01T22:58:37+00:00",
+  "atualizado_em": "2026-03-01T23:33:31+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260323607",
-      "data_inicio": "01-03-2026 19:45",
-      "concelho": "Vieira Do Minho",
-      "freguesia": "Rossas",
-      "distrito": "Braga",
-      "status": "Conclusão",
-      "latitude": 41.578743,
-      "longitude": -8.065068,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
