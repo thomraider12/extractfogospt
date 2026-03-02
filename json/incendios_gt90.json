@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-02T02:47:08+00:00",
+  "atualizado_em": "2026-03-02T04:51:28+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Arouca",
       "freguesia": "Cabreiros E Albergaria Da Serra",
       "distrito": "Aveiro",
-      "status": "Despacho de 1º Alerta",
+      "status": "Em Resolução",
       "latitude": 40.868384,
       "longitude": -8.227574,
       "operacionais": 4,
