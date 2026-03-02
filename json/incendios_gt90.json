@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-03-01T23:56:55+00:00",
+  "atualizado_em": "2026-03-02T02:47:08+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260324435",
+      "data_inicio": "02-03-2026 01:30",
+      "concelho": "Arouca",
+      "freguesia": "Cabreiros E Albergaria Da Serra",
+      "distrito": "Aveiro",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 40.868384,
+      "longitude": -8.227574,
+      "operacionais": 4,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
