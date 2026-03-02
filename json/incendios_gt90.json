@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-03-02T14:48:07+00:00",
+  "atualizado_em": "2026-03-02T15:46:46+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260327456",
+      "data_inicio": "02-03-2026 15:17",
+      "concelho": "Valpaços",
+      "freguesia": "Bouçoães",
+      "distrito": "Vila Real",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.760967,
+      "longitude": -7.215654,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
