@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-02T19:39:17+00:00",
+  "atualizado_em": "2026-03-02T20:04:16+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Monção",
       "freguesia": "Tangil",
       "distrito": "Viana Do Castelo",
-      "status": "Despacho de 1º Alerta",
+      "status": "Conclusão",
       "latitude": 42.02481,
       "longitude": -8.326331,
       "operacionais": 3,
