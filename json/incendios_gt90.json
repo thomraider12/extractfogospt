@@ -1,41 +1,6 @@
 {
-  "atualizado_em": "2026-03-02T11:22:33+00:00",
+  "atualizado_em": "2026-03-02T12:00:55+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
-  "incendios": [
-    {
-      "id": "20260324435",
-      "data_inicio": "02-03-2026 01:30",
-      "concelho": "Arouca",
-      "freguesia": "Cabreiros E Albergaria Da Serra",
-      "distrito": "Aveiro",
-      "status": "Conclusão",
-      "latitude": 40.875937,
-      "longitude": -8.25161,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20260325322",
-      "data_inicio": "02-03-2026 09:18",
-      "concelho": "Loulé",
-      "freguesia": "Almancil",
-      "distrito": "Faro",
-      "status": "Conclusão",
-      "latitude": 37.04712,
-      "longitude": -8.0295,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
