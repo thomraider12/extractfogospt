@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-02T07:05:11+00:00",
+  "atualizado_em": "2026-03-02T08:26:46+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -10,8 +10,8 @@
       "freguesia": "Cabreiros E Albergaria Da Serra",
       "distrito": "Aveiro",
       "status": "Em Resolução",
-      "latitude": 40.868384,
-      "longitude": -8.227574,
+      "latitude": 40.875937,
+      "longitude": -8.25161,
       "operacionais": 4,
       "terrestres": 1,
       "aereos": 0,
