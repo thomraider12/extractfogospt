@@ -1,6 +1,41 @@
 {
-  "atualizado_em": "2026-03-03T16:55:18+00:00",
+  "atualizado_em": "2026-03-03T17:49:20+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 2,
+  "incendios": [
+    {
+      "id": "20260332850",
+      "data_inicio": "03-03-2026 16:43",
+      "concelho": "Bragança",
+      "freguesia": "São Julião De Palácios E Deilão",
+      "distrito": "Bragança",
+      "status": "Em Curso",
+      "latitude": 41.87524,
+      "longitude": -6.584865,
+      "operacionais": 6,
+      "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20260332901",
+      "data_inicio": "03-03-2026 17:06",
+      "concelho": "Fafe",
+      "freguesia": "Moreira Do Rei E Várzea Cova",
+      "distrito": "Braga",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.530396,
+      "longitude": -8.072215,
+      "operacionais": 5,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
