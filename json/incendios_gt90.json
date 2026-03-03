@@ -1,41 +1,6 @@
 {
-  "atualizado_em": "2026-03-03T20:03:15+00:00",
+  "atualizado_em": "2026-03-03T21:05:20+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
-  "incendios": [
-    {
-      "id": "20260333454",
-      "data_inicio": "03-03-2026 19:21",
-      "concelho": "Vila Pouca De Aguiar",
-      "freguesia": "Alfarela De Jales",
-      "distrito": "Vila Real",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.44377,
-      "longitude": -7.57139,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20260333443",
-      "data_inicio": "03-03-2026 19:18",
-      "concelho": "Almodôvar",
-      "freguesia": "Santa Clara-a-nova",
-      "distrito": "Beja",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 37.50993,
-      "longitude": -8.139183,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
