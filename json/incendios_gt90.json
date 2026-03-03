@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-03-03T23:00:03+00:00",
+  "atualizado_em": "2026-03-03T23:37:01+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260334160",
+      "data_inicio": "03-03-2026 23:07",
+      "concelho": "Paredes",
+      "freguesia": "Recarei",
+      "distrito": "Porto",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.16887,
+      "longitude": -8.439186,
+      "operacionais": 3,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
