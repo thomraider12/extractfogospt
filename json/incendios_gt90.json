@@ -1,58 +1,6 @@
 {
-  "atualizado_em": "2026-03-04T00:00:01+00:00",
+  "atualizado_em": "2026-03-04T02:46:55+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
-  "incendios": [
-    {
-      "id": "20260334160",
-      "data_inicio": "03-03-2026 23:07",
-      "concelho": "Paredes",
-      "freguesia": "Recarei",
-      "distrito": "Porto",
-      "status": "Conclusão",
-      "latitude": 41.16887,
-      "longitude": -8.439186,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20260334230",
-      "data_inicio": "03-03-2026 23:35",
-      "concelho": "Montalegre",
-      "freguesia": "Salto",
-      "distrito": "Vila Real",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.671687,
-      "longitude": -7.918195,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20260334240",
-      "data_inicio": "03-03-2026 23:43",
-      "concelho": "Santa Comba Dão",
-      "freguesia": "Santa Comba Dão E Couto Do Mosteiro",
-      "distrito": "Viseu",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 40.419361,
-      "longitude": -8.116624,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
