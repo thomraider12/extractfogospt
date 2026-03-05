@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-03-05T18:08:03+00:00",
+  "atualizado_em": "2026-03-05T19:47:08+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260342825",
+      "data_inicio": "05-03-2026 18:14",
+      "concelho": "Palmela",
+      "freguesia": "Palmela",
+      "distrito": "Setúbal",
+      "status": "Conclusão",
+      "latitude": 38.57133,
+      "longitude": -8.87721,
+      "operacionais": 3,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
