@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-05T20:41:40+00:00",
+  "atualizado_em": "2026-03-05T21:18:24+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -26,11 +26,11 @@
       "concelho": "Viana Do Castelo",
       "freguesia": "Geraz Do Lima (S.Maria, S.Leocádia, Moreira), Deão",
       "distrito": "Viana Do Castelo",
-      "status": "Despacho de 1º Alerta",
+      "status": "Chegada ao TO",
       "latitude": 41.704457,
       "longitude": -8.675355,
-      "operacionais": 5,
-      "terrestres": 1,
+      "operacionais": 7,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
