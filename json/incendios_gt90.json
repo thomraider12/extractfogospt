@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-06T21:02:54+00:00",
+  "atualizado_em": "2026-03-06T21:59:19+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Arcos De Valdevez",
       "freguesia": "Cabreiro",
       "distrito": "Viana Do Castelo",
-      "status": "Chegada ao TO",
+      "status": "Em Resolução",
       "latitude": 41.932273,
       "longitude": -8.409978,
       "operacionais": 3,
