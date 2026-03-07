@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-07T07:17:51+00:00",
+  "atualizado_em": "2026-03-07T07:57:30+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Guimarães",
       "freguesia": "Candoso (São Martinho)",
       "distrito": "Braga",
-      "status": "Despacho de 1º Alerta",
+      "status": "Vigilância",
       "latitude": 41.42531,
       "longitude": -8.338973,
       "operacionais": 3,
