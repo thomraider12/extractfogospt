@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-03-07T20:30:41+00:00",
+  "atualizado_em": "2026-03-07T20:57:50+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 2,
   "incendios": [
     {
       "id": "20260351694",
@@ -14,23 +14,6 @@
       "longitude": -7.34433,
       "operacionais": 13,
       "terrestres": 4,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20260352508",
-      "data_inicio": "07-03-2026 19:20",
-      "concelho": "Sintra",
-      "freguesia": "Almargem Do Bispo",
-      "distrito": "Lisboa",
-      "status": "Conclusão",
-      "latitude": 38.818835,
-      "longitude": -9.259177,
-      "operacionais": 4,
-      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
