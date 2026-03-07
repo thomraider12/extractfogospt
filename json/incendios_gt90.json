@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-03-07T14:00:32+00:00",
+  "atualizado_em": "2026-03-07T14:58:08+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260351278",
+      "data_inicio": "07-03-2026 14:35",
+      "concelho": "Penela",
+      "freguesia": "Espinhal",
+      "distrito": "Coimbra",
+      "status": "Em Curso",
+      "latitude": 40.013003,
+      "longitude": -8.346281,
+      "operacionais": 8,
+      "terrestres": 3,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
