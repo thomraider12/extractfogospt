@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-03-07T18:41:51+00:00",
+  "atualizado_em": "2026-03-07T19:02:49+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20260351694",
@@ -14,6 +14,23 @@
       "longitude": -7.34433,
       "operacionais": 13,
       "terrestres": 4,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20260352358",
+      "data_inicio": "07-03-2026 18:50",
+      "concelho": "Mora",
+      "freguesia": "Mora",
+      "distrito": "Évora",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.953268,
+      "longitude": -8.182087,
+      "operacionais": 7,
+      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
