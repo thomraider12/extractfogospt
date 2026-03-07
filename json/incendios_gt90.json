@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-07T17:56:06+00:00",
+  "atualizado_em": "2026-03-07T18:41:51+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,9 +9,9 @@
       "concelho": "Guarda",
       "freguesia": "Mizarela, Pêro Soares E Vila Soeiro",
       "distrito": "Guarda",
-      "status": "Em Curso",
-      "latitude": 40.549959,
-      "longitude": -7.344515,
+      "status": "Conclusão",
+      "latitude": 40.546187,
+      "longitude": -7.34433,
       "operacionais": 13,
       "terrestres": 4,
       "aereos": 0,
