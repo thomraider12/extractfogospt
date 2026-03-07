@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-03-07T07:57:30+00:00",
+  "atualizado_em": "2026-03-07T08:41:34+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260349252",
-      "data_inicio": "07-03-2026 06:53",
-      "concelho": "Guimarães",
-      "freguesia": "Candoso (São Martinho)",
-      "distrito": "Braga",
-      "status": "Vigilância",
-      "latitude": 41.42531,
-      "longitude": -8.338973,
-      "operacionais": 3,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
