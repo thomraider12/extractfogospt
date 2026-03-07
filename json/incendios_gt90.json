@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-03-07T15:32:41+00:00",
+  "atualizado_em": "2026-03-07T15:56:20+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
+  "total": 1,
   "incendios": [
     {
       "id": "20260351278",
@@ -14,23 +14,6 @@
       "longitude": -8.346281,
       "operacionais": 8,
       "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20260351440",
-      "data_inicio": "07-03-2026 15:16",
-      "concelho": "Almada",
-      "freguesia": "Caparica E Trafaria",
-      "distrito": "Setúbal",
-      "status": "Conclusão",
-      "latitude": 38.66645,
-      "longitude": -9.18192,
-      "operacionais": 5,
-      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
