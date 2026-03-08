@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-03-08T04:25:49+00:00",
+  "atualizado_em": "2026-03-08T05:33:10+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260353400",
-      "data_inicio": "08-03-2026 01:07",
-      "concelho": "Terras De Bouro",
-      "freguesia": "Valdosende",
-      "distrito": "Braga",
-      "status": "Conclusão",
-      "latitude": 41.658583,
-      "longitude": -8.24196,
-      "operacionais": 4,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
