@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-03-08T17:00:42+00:00",
+  "atualizado_em": "2026-03-08T17:57:42+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260355715",
-      "data_inicio": "08-03-2026 15:07",
-      "concelho": "Viseu",
-      "freguesia": "Povolide",
-      "distrito": "Viseu",
-      "status": "Conclusão",
-      "latitude": 40.666482,
-      "longitude": -7.796667,
-      "operacionais": 10,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
