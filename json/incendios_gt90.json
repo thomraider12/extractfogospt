@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-08T02:38:32+00:00",
+  "atualizado_em": "2026-03-08T04:25:49+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,9 +9,9 @@
       "concelho": "Terras De Bouro",
       "freguesia": "Valdosende",
       "distrito": "Braga",
-      "status": "Em Resolução",
-      "latitude": 41.66346,
-      "longitude": -8.24012,
+      "status": "Conclusão",
+      "latitude": 41.658583,
+      "longitude": -8.24196,
       "operacionais": 4,
       "terrestres": 1,
       "aereos": 0,
