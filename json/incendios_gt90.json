@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-08T15:57:20+00:00",
+  "atualizado_em": "2026-03-08T16:39:56+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -9,9 +9,9 @@
       "concelho": "Viseu",
       "freguesia": "Povolide",
       "distrito": "Viseu",
-      "status": "Em Resolução",
-      "latitude": 40.66626,
-      "longitude": -7.79662,
+      "status": "Conclusão",
+      "latitude": 40.666482,
+      "longitude": -7.796667,
       "operacionais": 10,
       "terrestres": 3,
       "aereos": 0,
@@ -26,7 +26,7 @@
       "concelho": "Tondela",
       "freguesia": "São Miguel Do Outeiro",
       "distrito": "Viseu",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 40.583548,
       "longitude": -8.022492,
       "operacionais": 6,
