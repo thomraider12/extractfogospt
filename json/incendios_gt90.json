@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-03-08T12:57:55+00:00",
+  "atualizado_em": "2026-03-08T13:45:15+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260354951",
+      "data_inicio": "08-03-2026 12:10",
+      "concelho": "Castelo Branco",
+      "freguesia": "Santo André Das Tojeiras",
+      "distrito": "Castelo Branco",
+      "status": "Conclusão",
+      "latitude": 39.80804,
+      "longitude": -7.665663,
+      "operacionais": 6,
+      "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
