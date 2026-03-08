@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-08T21:33:17+00:00",
+  "atualizado_em": "2026-03-08T21:56:03+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Arcos De Valdevez",
       "freguesia": "Soajo",
       "distrito": "Viana Do Castelo",
-      "status": "Despacho de 1º Alerta",
+      "status": "Chegada ao TO",
       "latitude": 41.88483,
       "longitude": -8.31311,
       "operacionais": 6,
