@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-08T22:30:31+00:00",
+  "atualizado_em": "2026-03-08T22:58:37+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -43,11 +43,11 @@
       "concelho": "Caminha",
       "freguesia": "Venade E Azevedo",
       "distrito": "Viana Do Castelo",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 41.85055,
       "longitude": -8.80515,
-      "operacionais": 10,
-      "terrestres": 2,
+      "operacionais": 12,
+      "terrestres": 3,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
