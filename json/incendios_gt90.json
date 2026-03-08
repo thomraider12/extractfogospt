@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-03-08T07:57:44+00:00",
+  "atualizado_em": "2026-03-08T08:42:08+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260353969",
+      "data_inicio": "08-03-2026 08:13",
+      "concelho": "Alvito",
+      "freguesia": "Vila Nova Da Baronia",
+      "distrito": "Beja",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 38.26725,
+      "longitude": -8.079343,
+      "operacionais": 13,
+      "terrestres": 4,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
