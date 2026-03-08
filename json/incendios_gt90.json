@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-08T22:58:37+00:00",
+  "atualizado_em": "2026-03-08T23:33:39+00:00",
   "criterio": "> 1 operacionais",
   "total": 3,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Arcos De Valdevez",
       "freguesia": "Soajo",
       "distrito": "Viana Do Castelo",
-      "status": "Chegada ao TO",
+      "status": "Em Resolução",
       "latitude": 41.88483,
       "longitude": -8.31311,
       "operacionais": 6,
@@ -43,7 +43,7 @@
       "concelho": "Caminha",
       "freguesia": "Venade E Azevedo",
       "distrito": "Viana Do Castelo",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.85055,
       "longitude": -8.80515,
       "operacionais": 12,
