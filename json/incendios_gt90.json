@@ -1,41 +1,6 @@
 {
-  "atualizado_em": "2026-03-08T23:57:27+00:00",
+  "atualizado_em": "2026-03-09T02:53:13+00:00",
   "criterio": "> 1 operacionais",
-  "total": 2,
-  "incendios": [
-    {
-      "id": "20260357026",
-      "data_inicio": "08-03-2026 21:49",
-      "concelho": "Ponte Da Barca",
-      "freguesia": "Vila Chã (São João Baptista E Santiago)",
-      "distrito": "Viana Do Castelo",
-      "status": "Conclusão",
-      "latitude": 41.79745,
-      "longitude": -8.343983,
-      "operacionais": 5,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20260357031",
-      "data_inicio": "08-03-2026 21:51",
-      "concelho": "Caminha",
-      "freguesia": "Venade E Azevedo",
-      "distrito": "Viana Do Castelo",
-      "status": "Conclusão",
-      "latitude": 41.85055,
-      "longitude": -8.80515,
-      "operacionais": 12,
-      "terrestres": 3,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
