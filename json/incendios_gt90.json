@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-03-10T17:32:32+00:00",
+  "atualizado_em": "2026-03-10T18:29:23+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260365210",
-      "data_inicio": "10-03-2026 15:43",
-      "concelho": "Montalegre",
-      "freguesia": "Sezelhe E Covelães",
-      "distrito": "Vila Real",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 41.80555,
-      "longitude": -7.88727,
-      "operacionais": 5,
-      "terrestres": 2,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
