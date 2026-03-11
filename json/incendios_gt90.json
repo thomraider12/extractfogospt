@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-11T14:51:41+00:00",
+  "atualizado_em": "2026-03-11T15:53:37+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -26,9 +26,9 @@
       "concelho": "Salvaterra De Magos",
       "freguesia": "Foros De Salvaterra",
       "distrito": "Santarém",
-      "status": "Em Resolução",
-      "latitude": 38.984149,
-      "longitude": -8.6963,
+      "status": "Conclusão",
+      "latitude": 38.977242,
+      "longitude": -8.691565,
       "operacionais": 10,
       "terrestres": 4,
       "aereos": 0,
