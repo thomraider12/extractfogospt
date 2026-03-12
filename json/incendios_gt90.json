@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-12T11:21:15+00:00",
+  "atualizado_em": "2026-03-12T11:59:55+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,11 +9,11 @@
       "concelho": "Tomar",
       "freguesia": "Casais E Alviobeira",
       "distrito": "Santarém",
-      "status": "Despacho de 1º Alerta",
-      "latitude": 39.652676,
-      "longitude": -8.382448,
-      "operacionais": 8,
-      "terrestres": 3,
+      "status": "Em Resolução",
+      "latitude": 39.638912,
+      "longitude": -8.382473,
+      "operacionais": 10,
+      "terrestres": 4,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
