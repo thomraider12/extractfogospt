@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-03-12T11:59:55+00:00",
+  "atualizado_em": "2026-03-12T13:23:01+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260373680",
-      "data_inicio": "12-03-2026 11:16",
-      "concelho": "Tomar",
-      "freguesia": "Casais E Alviobeira",
-      "distrito": "Santarém",
-      "status": "Em Resolução",
-      "latitude": 39.638912,
-      "longitude": -8.382473,
-      "operacionais": 10,
-      "terrestres": 4,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
