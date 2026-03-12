@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-03-12T21:17:29+00:00",
+  "atualizado_em": "2026-03-12T22:00:44+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260375744",
-      "data_inicio": "12-03-2026 17:45",
-      "concelho": "Bragança",
-      "freguesia": "Aveleda E Rio De Onor",
-      "distrito": "Bragança",
-      "status": "Conclusão",
-      "latitude": 41.922702,
-      "longitude": -6.575408,
-      "operacionais": 2,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
