@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-03-13T12:01:29+00:00",
+  "atualizado_em": "2026-03-13T13:46:45+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260378783",
+      "data_inicio": "13-03-2026 11:58",
+      "concelho": "Alcoutim",
+      "freguesia": "Alcoutim E Pereiro",
+      "distrito": "Faro",
+      "status": "Conclusão",
+      "latitude": 37.385343,
+      "longitude": -7.446544,
+      "operacionais": 3,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
