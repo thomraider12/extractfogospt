@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-03-13T18:21:11+00:00",
+  "atualizado_em": "2026-03-13T19:21:28+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
+  "total": 2,
   "incendios": [
     {
       "id": "20260380241",
@@ -14,6 +14,23 @@
       "longitude": -7.563042,
       "operacionais": 9,
       "terrestres": 4,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    },
+    {
+      "id": "20260380843",
+      "data_inicio": "13-03-2026 19:16",
+      "concelho": "Sabugal",
+      "freguesia": "Malcata",
+      "distrito": "Guarda",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 40.30204,
+      "longitude": -7.07043,
+      "operacionais": 2,
+      "terrestres": 1,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
