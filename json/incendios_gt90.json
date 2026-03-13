@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-03-13T17:38:43+00:00",
+  "atualizado_em": "2026-03-13T18:21:11+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260380241",
+      "data_inicio": "13-03-2026 16:53",
+      "concelho": "Castelo Branco",
+      "freguesia": "São Vicente Da Beira",
+      "distrito": "Castelo Branco",
+      "status": "Conclusão",
+      "latitude": 40.060973,
+      "longitude": -7.563042,
+      "operacionais": 9,
+      "terrestres": 4,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
