@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-14T19:57:42+00:00",
+  "atualizado_em": "2026-03-14T20:39:11+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Murça",
       "freguesia": "Murça",
       "distrito": "Vila Real",
-      "status": "Em Curso",
+      "status": "Em Resolução",
       "latitude": 41.393648,
       "longitude": -7.449247,
       "operacionais": 15,
