@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-15T11:57:30+00:00",
+  "atualizado_em": "2026-03-15T13:12:13+00:00",
   "criterio": "> 1 operacionais",
   "total": 1,
   "incendios": [
@@ -10,11 +10,11 @@
       "freguesia": "Odeleite",
       "distrito": "Faro",
       "status": "Em Resolução",
-      "latitude": 37.336061,
-      "longitude": -7.495513,
-      "operacionais": 13,
-      "terrestres": 2,
-      "aereos": 1,
+      "latitude": 37.29929,
+      "longitude": -7.61914,
+      "operacionais": 9,
+      "terrestres": 3,
+      "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
       "kml_source": null,
