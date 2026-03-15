@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-15T21:58:51+00:00",
+  "atualizado_em": "2026-03-15T22:38:53+00:00",
   "criterio": "> 1 operacionais",
   "total": 2,
   "incendios": [
@@ -9,7 +9,7 @@
       "concelho": "Vinhais",
       "freguesia": "Moimenta E Montouto",
       "distrito": "Bragança",
-      "status": "Em Resolução",
+      "status": "Conclusão",
       "latitude": 41.933678,
       "longitude": -6.973565,
       "operacionais": 9,
