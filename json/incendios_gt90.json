@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-03-15T11:03:16+00:00",
+  "atualizado_em": "2026-03-15T11:57:30+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260387302",
+      "data_inicio": "15-03-2026 11:00",
+      "concelho": "Castro Marim",
+      "freguesia": "Odeleite",
+      "distrito": "Faro",
+      "status": "Em Resolução",
+      "latitude": 37.336061,
+      "longitude": -7.495513,
+      "operacionais": 13,
+      "terrestres": 2,
+      "aereos": 1,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
