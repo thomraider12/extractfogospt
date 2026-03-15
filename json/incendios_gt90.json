@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-03-15T21:02:42+00:00",
+  "atualizado_em": "2026-03-15T21:58:51+00:00",
   "criterio": "> 1 operacionais",
-  "total": 3,
+  "total": 2,
   "incendios": [
     {
       "id": "20260388850",
@@ -31,23 +31,6 @@
       "longitude": -7.992508,
       "operacionais": 5,
       "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    },
-    {
-      "id": "20260389476",
-      "data_inicio": "15-03-2026 19:40",
-      "concelho": "Valpaços",
-      "freguesia": "Santa Valha",
-      "distrito": "Vila Real",
-      "status": "Conclusão",
-      "latitude": 41.678272,
-      "longitude": -7.27916,
-      "operacionais": 5,
-      "terrestres": 2,
       "aereos": 0,
       "area_km2": null,
       "tem_kml": false,
