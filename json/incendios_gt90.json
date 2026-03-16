@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-03-16T09:47:01+00:00",
+  "atualizado_em": "2026-03-16T10:57:24+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260391573",
+      "data_inicio": "16-03-2026 10:26",
+      "concelho": "Caldas Da Rainha",
+      "freguesia": "Salir De Matos",
+      "distrito": "Leiria",
+      "status": "Em Resolução",
+      "latitude": 39.411479,
+      "longitude": -9.093226,
+      "operacionais": 7,
+      "terrestres": 2,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
