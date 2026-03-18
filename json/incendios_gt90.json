@@ -1,24 +1,6 @@
 {
-  "atualizado_em": "2026-03-18T09:37:21+00:00",
+  "atualizado_em": "2026-03-18T11:32:37+00:00",
   "criterio": "> 1 operacionais",
-  "total": 1,
-  "incendios": [
-    {
-      "id": "20260400422",
-      "data_inicio": "17-03-2026 22:11",
-      "concelho": "Melgaço",
-      "freguesia": "Parada Do Monte E Cubalhão",
-      "distrito": "Viana Do Castelo",
-      "status": "Vigilância",
-      "latitude": 42.05238,
-      "longitude": -8.23072,
-      "operacionais": 2,
-      "terrestres": 1,
-      "aereos": 0,
-      "area_km2": null,
-      "tem_kml": false,
-      "kml_source": null,
-      "kml_file": null
-    }
-  ]
+  "total": 0,
+  "incendios": []
 }
