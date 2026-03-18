@@ -1,6 +1,24 @@
 {
-  "atualizado_em": "2026-03-18T11:32:37+00:00",
+  "atualizado_em": "2026-03-18T12:35:38+00:00",
   "criterio": "> 1 operacionais",
-  "total": 0,
-  "incendios": []
+  "total": 1,
+  "incendios": [
+    {
+      "id": "20260402674",
+      "data_inicio": "18-03-2026 12:12",
+      "concelho": "Felgueiras",
+      "freguesia": "Torrados E Sousa",
+      "distrito": "Porto",
+      "status": "Despacho de 1º Alerta",
+      "latitude": 41.344092,
+      "longitude": -8.246641,
+      "operacionais": 4,
+      "terrestres": 1,
+      "aereos": 0,
+      "area_km2": null,
+      "tem_kml": false,
+      "kml_source": null,
+      "kml_file": null
+    }
+  ]
 }
